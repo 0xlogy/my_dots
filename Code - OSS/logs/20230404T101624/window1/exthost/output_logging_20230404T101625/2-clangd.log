@@ -1,0 +1,49 @@
+I[10:16:26.057] clangd version 15.0.7
+I[10:16:26.057] Features: linux
+I[10:16:26.057] PID: 3083
+I[10:16:26.057] Working directory: /home/logy/Documents/td_parser
+I[10:16:26.057] argv[0]: /usr/bin/clangd
+I[10:16:26.057] Starting LSP over stdin/stdout
+I[10:16:26.058] <-- initialize(0)
+I[10:16:26.058] --> reply:initialize(0) 0 ms
+I[10:16:26.059] <-- initialized
+I[10:16:26.067] <-- textDocument/didOpen
+I[10:16:26.068] Failed to find compilation database for /home/logy/Documents/td_parser/my_parser.c
+I[10:16:26.068] ASTWorker building file /home/logy/Documents/td_parser/my_parser.c version 1 with command clangd fallback
+[/home/logy/Documents/td_parser]
+/usr/bin/clang -resource-dir=/usr/lib/clang/15.0.7 -- /home/logy/Documents/td_parser/my_parser.c
+I[10:16:26.069] --> textDocument/clangd.fileStatus
+I[10:16:26.105] --> workspace/semanticTokens/refresh(0)
+I[10:16:26.113] --> textDocument/publishDiagnostics
+I[10:16:26.113] --> textDocument/clangd.fileStatus
+I[10:16:26.120] <-- textDocument/codeAction(1)
+I[10:16:26.121] --> reply:textDocument/codeAction(1) 0 ms
+I[10:16:26.121] --> textDocument/clangd.fileStatus
+I[10:16:26.125] <-- $/cancelRequest
+I[10:16:26.125] <-- textDocument/documentLink(2)
+I[10:16:26.125] --> reply:textDocument/documentLink(2) 0 ms
+I[10:16:26.125] --> textDocument/clangd.fileStatus
+I[10:16:26.125] <-- textDocument/inlayHint(3)
+I[10:16:26.126] --> reply:textDocument/inlayHint(3) 0 ms
+I[10:16:26.126] --> textDocument/clangd.fileStatus
+I[10:16:26.126] <-- textDocument/codeAction(4)
+I[10:16:26.126] <-- textDocument/codeAction(5)
+I[10:16:26.127] --> reply:textDocument/codeAction(4) 0 ms
+I[10:16:26.127] --> reply:textDocument/codeAction(5) 0 ms
+I[10:16:26.127] --> textDocument/clangd.fileStatus
+I[10:16:26.128] <-- reply(0)
+I[10:16:26.128] <-- $/cancelRequest
+I[10:16:26.273] <-- textDocument/documentLink(6)
+I[10:16:26.273] --> reply:textDocument/documentLink(6) 0 ms
+I[10:16:26.273] --> textDocument/clangd.fileStatus
+I[10:16:26.324] <-- $/setTrace
+I[10:16:26.324] unhandled notification $/setTrace
+I[10:16:26.507] <-- $/setTrace
+I[10:16:26.507] unhandled notification $/setTrace
+I[10:16:27.823] <-- textDocument/documentSymbol(7)
+I[10:16:27.823] <-- textDocument/codeAction(8)
+I[10:16:27.824] --> reply:textDocument/documentSymbol(7) 0 ms
+I[10:16:27.824] --> reply:textDocument/codeAction(8) 0 ms
+I[10:16:27.824] --> textDocument/clangd.fileStatus
+I[10:16:32.344] <-- textDocument/didClose
+I[10:16:32.344] --> textDocument/publishDiagnostics

@@ -1,0 +1,72 @@
+(16:20:51) INFO:    [Connection]:       Connectivity: check-online
+(16:20:51) INFO:    [Connection]:       Pinging external endpoints
+(16:20:51) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(16:20:51) INFO:    [Legendary]:        Legendary location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(16:20:51) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(16:20:51) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(16:20:51) WARNING: [Backend]:          Protocol already registered.
+(16:20:51) INFO:    [Connection]:       Connectivity: online
+(16:20:51) INFO:    [Gog]:              Getting data about the user
+(16:20:51) INFO:    [Gog]:              Refreshing access_token
+(16:20:52) INFO:    [Gog]:              Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+(16:20:52) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(16:20:52) INFO:    [Gog]:              Token refreshed successfully
+(16:20:52) INFO:    [Backend]:          Loading Screen Ready
+(16:20:52) INFO:    [Frontend]:         Refreshing Library
+(16:20:52) INFO:    [Legendary]:        Refreshing library...
+(16:20:52) INFO:    [Legendary]:        Refreshing Epic Games...
+(16:20:52) INFO:    [Legendary]:        Game list updated, got 102 games & DLCs
+(16:20:52) INFO:    [Gog]:              Getting GOG library
+(16:20:52) INFO:    [Backend]:          Frontend Ready
+(16:20:52) INFO:    [Backend]:          Checking for new Heroic Updates
+(16:20:52) INFO:    [Gog]:              Saved user data to config
+(16:20:52) INFO:    [Backend]:          Checking for current version changelog
+(16:20:52) INFO:    [Gog]:              Number of library pages: 1
+(16:20:52) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(16:20:52) INFO:    [Gog]:              Saved games data
+(16:20:53) INFO:    [Legendary]:        Checking for game updates: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(16:20:53) INFO:    [Backend]:          
+
+Heroic Version: 2.6.2 Trafalgar Law
+Legendary Version:  0.20.32 Dark Energy (hotfix #6)
+GOGdl Version: 0.6
+
+Electron Version: 22.2.0
+Chrome Version: 108.0.5359.215
+NodeJS Version: 16.17.1
+
+OS: ManjaroLinux KERNEL: 5.15.104-2-MANJARO ARCH: x64
+CPU: Intel Gen Intel® Core™ i7-1195G7 @2.9 GOVERNOR: powersave
+RAM: Total: 15.34 GiB Available: 12.75 GiB
+GRAPHICS: GPU0: TigerLake-LP GT2 [Iris Xe Graphics]  VRAM: 256MB  
+PROTOCOL: x11
+
+(16:20:54) INFO:    [Legendary]:        Found 0 games to update
+(16:20:54) INFO:    [Winetricks]:       Downloading Winetricks
+(16:20:54) INFO:    [Gog]:              Found 0 game(s) to update
+(16:20:57) INFO:    [Backend]:          Starting the Download Queue
+(16:50:45) INFO:    [Backend]:          Launching EXAPUNKS (2070729622)
+(16:50:45) INFO:    [Backend]:          Preventing display from sleep
+(16:50:45) INFO:    [Gog]:              Launching EXAPUNKS: LD_PRELOAD= /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl launch /home/logy/Games/Heroic/EXAPUNKS 2070729622 --platform linux
+(21:47:58) INFO:    [Connection]:       Connectivity: offline
+(22:11:26) INFO:    [Connection]:       Connectivity: check-online
+(22:11:26) INFO:    [Connection]:       Pinging external endpoints
+(22:11:26) INFO:    [Connection]:       Connectivity: online
+(00:34:16) INFO:    [Connection]:       Connectivity: offline
+(00:56:39) INFO:    [Connection]:       Connectivity: check-online
+(00:56:39) INFO:    [Connection]:       Pinging external endpoints
+(00:56:39) INFO:    [Connection]:       Connectivity: online
+(01:51:08) INFO:    [Connection]:       Connectivity: offline
+(04:25:02) INFO:    [Connection]:       Connectivity: check-online
+(04:25:02) INFO:    [Connection]:       Pinging external endpoints
+(04:25:02) INFO:    [Connection]:       Connectivity: online
+(04:25:38) INFO:    [Backend]:          Trying to kill 2070729622
+(04:25:38) INFO:    [Backend]:          Killed 2070729622
+(04:25:38) INFO:    [Gog]:              Abort command "LD_PRELOAD= /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl launch /home/logy/Games/Heroic/EXAPUNKS 2070729622 --platform linux"
+(04:25:38) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(04:25:38) INFO:    [Frontend]:         Refreshing Library
+(04:25:38) INFO:    [Gog]:              Refreshing access_token
+(04:25:38) INFO:    [Gog]:              Token refreshed successfully
+(04:25:38) INFO:    [Gog]:              Getting GOG library
+(04:25:38) INFO:    [Gog]:              Number of library pages: 1
+(04:25:38) INFO:    [Gog]:              Saved games data

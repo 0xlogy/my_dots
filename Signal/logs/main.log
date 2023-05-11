@@ -1,0 +1,117 @@
+{"level":30,"time":"2023-04-26T14:15:08.534Z","msg":"app.ready: preferred system locales: fr, fr-FR"}
+{"level":30,"time":"2023-04-26T14:15:08.538Z","msg":"Loading preferred system locale: 'fr'"}
+{"level":30,"time":"2023-04-26T14:15:08.565Z","msg":"app ready"}
+{"level":30,"time":"2023-04-26T14:15:08.565Z","msg":"starting version 6.11.0"}
+{"level":30,"time":"2023-04-26T14:15:08.565Z","msg":"media access status [object Undefined] [object Undefined]"}
+{"level":30,"time":"2023-04-26T14:15:08.565Z","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2023-04-26T14:15:08.566Z","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2023-04-26T14:15:08.566Z","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2023-04-26T14:15:08.567Z","msg":"getSystemTraySetting had no flags and did no DB lookups. Returning DoNotUseSystemTray"}
+{"level":30,"time":"2023-04-26T14:15:08.567Z","msg":"Initializing BrowserWindow config: {\"show\":false,\"width\":1850,\"height\":1104,\"minWidth\":300,\"minHeight\":200,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"titleBarOverlay\":false,\"backgroundColor\":\"#121212\",\"webPreferences\":{\"devTools\":false,\"spellcheck\":true,\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"sandbox\":false,\"contextIsolation\":true,\"preload\":\"[REDACTED]/preload.bundle.js\",\"backgroundThrottling\":true,\"enablePreferredSizeMode\":true,\"disableBlinkFeatures\":\"Accelerated2dCanvas,AcceleratedSmallCanvases\"},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\",\"x\":35,\"y\":61}"}
+{"level":30,"time":"2023-04-26T14:15:08.584Z","msg":"spellcheck: user locale: fr"}
+{"level":30,"time":"2023-04-26T14:15:08.584Z","msg":"spellcheck: available spellchecker languages:  [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
+{"level":30,"time":"2023-04-26T14:15:08.584Z","msg":"spellcheck: setting languages to:  [\"fr\"]"}
+{"level":30,"time":"2023-04-26T14:15:08.584Z","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2023-04-26T14:15:08.589Z","msg":"MainSQL: updateSchema:\n  Current user_version: 79;\n  Most recent db schema: 79;\n  SQLite version: 3.39.4;\n  SQLCipher version: 4.5.3 community;\n  (deprecated) schema_version: 341;\n"}
+{"level":30,"time":"2023-04-26T14:15:09.323Z","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2023-04-26T14:15:09.326Z","msg":"System tray service: created"}
+{"level":30,"time":"2023-04-26T14:15:09.326Z","msg":"System tray service: updating main window. Previously, there was not a window, and now there is"}
+{"level":30,"time":"2023-04-26T14:15:09.326Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:15:09.326Z","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2023-04-26T14:15:09.326Z","msg":"main window is ready-to-show"}
+{"level":30,"time":"2023-04-26T14:15:09.326Z","msg":"showing main window"}
+{"level":30,"time":"2023-04-26T14:15:09.328Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:15:09.352Z","msg":"Ensuring file permissions for 4 files"}
+{"level":30,"time":"2023-04-26T14:15:09.353Z","msg":"Finish ensuring permissions in 27ms"}
+{"level":30,"time":"2023-04-26T14:15:09.702Z","msg":"sending `database-ready`"}
+{"level":30,"time":"2023-04-26T14:15:09.903Z","msg":"Prevent display sleep service: allowing display sleep"}
+{"level":30,"time":"2023-04-26T14:15:09.903Z","msg":"Background throttling enabled because no call is active"}
+{"level":30,"time":"2023-04-26T14:15:14.980Z","msg":"updater/start: Updates disabled - not starting new version checks"}
+{"level":30,"time":"2023-04-26T14:15:14.982Z","msg":"System tray service: setting unread count to 3"}
+{"level":30,"time":"2023-04-26T14:15:14.982Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:15:15.007Z","msg":"App loaded - time: 6448"}
+{"level":30,"time":"2023-04-26T14:15:15.007Z","msg":"SQL init - time: 31"}
+{"level":30,"time":"2023-04-26T14:15:15.007Z","msg":"Preload - time: 438"}
+{"level":30,"time":"2023-04-26T14:15:15.007Z","msg":"WebSocket connect - time: 942"}
+{"level":30,"time":"2023-04-26T14:15:15.007Z","msg":"Processed count: 992"}
+{"level":30,"time":"2023-04-26T14:15:15.007Z","msg":"Messages per second: 195.7379636937648"}
+{"level":30,"time":"2023-04-26T14:15:31.135Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1682518528071"}
+{"level":30,"time":"2023-04-26T14:15:32.431Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1682518530549"}
+{"level":30,"time":"2023-04-26T14:15:41.829Z","msg":"System tray service: setting unread count to 4"}
+{"level":30,"time":"2023-04-26T14:15:41.829Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:15:42.508Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-04-26T14:15:46.793Z","msg":"System tray service: setting unread count to 3"}
+{"level":30,"time":"2023-04-26T14:15:46.793Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:16:54.387Z","msg":"System tray service: setting unread count to 4"}
+{"level":30,"time":"2023-04-26T14:16:54.387Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:16:54.470Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-04-26T14:17:02.019Z","msg":"System tray service: setting unread count to 5"}
+{"level":30,"time":"2023-04-26T14:17:02.019Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:17:02.099Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-04-26T14:17:18.112Z","msg":"System tray service: setting unread count to 6"}
+{"level":30,"time":"2023-04-26T14:17:18.112Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:17:18.202Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-04-26T14:17:31.604Z","msg":"System tray service: setting unread count to 3"}
+{"level":30,"time":"2023-04-26T14:17:31.604Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:20:05.374Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1682518677363"}
+{"level":30,"time":"2023-04-26T14:20:05.374Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1682518722696"}
+{"level":30,"time":"2023-04-26T14:21:05.770Z","msg":"System tray service: setting unread count to 4"}
+{"level":30,"time":"2023-04-26T14:21:05.770Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:21:05.855Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-04-26T14:21:18.338Z","msg":"System tray service: setting unread count to 5"}
+{"level":30,"time":"2023-04-26T14:21:18.338Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:21:18.420Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-04-26T14:21:20.839Z","msg":"System tray service: setting unread count to 6"}
+{"level":30,"time":"2023-04-26T14:21:20.839Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:21:20.925Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-04-26T14:21:31.807Z","msg":"System tray service: setting unread count to 7"}
+{"level":30,"time":"2023-04-26T14:21:31.807Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:21:31.893Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-04-26T14:24:56.590Z","msg":"System tray service: setting unread count to 3"}
+{"level":30,"time":"2023-04-26T14:24:56.590Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:25:17.506Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1682519116675"}
+{"level":30,"time":"2023-04-26T14:25:22.344Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1682519121377"}
+{"level":30,"time":"2023-04-26T14:25:38.724Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1682519137766"}
+{"level":30,"time":"2023-04-26T14:25:51.766Z","msg":"System tray service: setting unread count to 4"}
+{"level":30,"time":"2023-04-26T14:25:51.766Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:25:51.858Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-04-26T14:26:00.370Z","msg":"System tray service: setting unread count to 3"}
+{"level":30,"time":"2023-04-26T14:26:00.370Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:26:17.377Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1682519170914"}
+{"level":30,"time":"2023-04-26T14:30:29.625Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1682519427910"}
+{"level":30,"time":"2023-04-26T14:30:39.467Z","msg":"System tray service: setting unread count to 4"}
+{"level":30,"time":"2023-04-26T14:30:39.467Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:30:39.554Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-04-26T14:30:53.760Z","msg":"System tray service: setting unread count to 5"}
+{"level":30,"time":"2023-04-26T14:30:53.760Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:30:53.845Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-04-26T14:30:53.966Z","msg":"System tray service: setting unread count to 3"}
+{"level":30,"time":"2023-04-26T14:30:53.966Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:33:57.080Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1682519634717"}
+{"level":30,"time":"2023-04-26T14:34:49.445Z","msg":"System tray service: setting unread count to 4"}
+{"level":30,"time":"2023-04-26T14:34:49.445Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:34:49.534Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-04-26T14:38:00.667Z","msg":"System tray service: setting unread count to 3"}
+{"level":30,"time":"2023-04-26T14:38:00.668Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:38:26.589Z","msg":"MainSQL: slow query getUnreadByConversationAndMarkRead duration=56ms"}
+{"level":30,"time":"2023-04-26T14:40:06.740Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1682520004477"}
+{"level":30,"time":"2023-04-26T14:48:24.050Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":914,\"height\":1104,\"x\":35,\"y\":61}"}
+{"level":30,"time":"2023-04-26T14:48:24.050Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-04-26T14:48:24.051Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-04-26T14:48:37.424Z","msg":"System tray service: setting unread count to 4"}
+{"level":30,"time":"2023-04-26T14:48:37.424Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:48:37.504Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-04-26T14:50:30.966Z","msg":"System tray service: setting unread count to 3"}
+{"level":30,"time":"2023-04-26T14:50:30.966Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:50:31.402Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1850,\"height\":1104,\"x\":35,\"y\":61}"}
+{"level":30,"time":"2023-04-26T14:50:31.403Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-04-26T14:50:31.403Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-04-26T14:50:40.493Z","msg":"close event {\"readyForShutdown\":false,\"shouldQuit\":false}"}
+{"level":30,"time":"2023-04-26T14:50:40.493Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-04-26T14:50:40.494Z","msg":"requestShutdown: Requesting close of mainWindow..."}
+{"level":30,"time":"2023-04-26T14:50:40.535Z","msg":"requestShutdown: Response received"}
+{"level":30,"time":"2023-04-26T14:50:40.540Z","msg":"before-quit event {\"readyForShutdown\":true,\"shouldQuit\":false}"}
+{"level":30,"time":"2023-04-26T14:50:40.540Z","msg":"System tray service: markShouldQuit"}
+{"level":30,"time":"2023-04-26T14:50:40.540Z","msg":"close event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2023-04-26T14:50:40.542Z","msg":"System tray service: updating main window. Previously, there was a window, and now there is not"}
+{"level":30,"time":"2023-04-26T14:50:40.542Z","msg":"System tray service: rendering no tray"}

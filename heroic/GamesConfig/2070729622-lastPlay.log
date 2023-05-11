@@ -1,0 +1,53 @@
+System Info:
+Heroic Version: 2.6.2 Trafalgar Law
+Legendary Version:  0.20.32 Dark Energy (hotfix #6)
+GOGdl Version: 0.6
+
+Electron Version: 22.2.0
+Chrome Version: 108.0.5359.215
+NodeJS Version: 16.17.1
+
+OS: ManjaroLinux KERNEL: 5.15.104-2-MANJARO ARCH: x64
+CPU: Intel Gen Intel® Core™ i7-1195G7 @2.9 GOVERNOR: powersave
+RAM: Total: 15.34 GiB Available: 12.75 GiB
+GRAPHICS: GPU0: TigerLake-LP GT2 [Iris Xe Graphics]  VRAM: 256MB  
+PROTOCOL: x11
+
+Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallVkd3d": true,
+	"preferSystemLibs": false,
+	"nvidiaPrime": false,
+	"enviromentOptions": [],
+	"wrapperOptions": [],
+	"showFps": false,
+	"useGameMode": false,
+	"language": "",
+	"wineVersion": {
+		"bin": "",
+		"name": "Default Wine - Not Found",
+		"type": "wine"
+	},
+	"winePrefix": "/home/logy/.wine"
+}
+
+Game launched at: Mon May 01 2023 16:50:45 GMT+0200 (heure d’été d’Europe centrale)
+
+Launch Command: LD_PRELOAD= /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl launch /home/logy/Games/Heroic/EXAPUNKS 2070729622 --platform linux
+
+Game Log:
+Running EXAPUNKS
+/usr/bin/xdg-open : ligne 756 : 292612 Erreur de segmentation  env "$command" "$@"
+/usr/bin/xdg-open: ligne 880: x-www-browser : commande introuvable
+/usr/bin/xdg-open : ligne 756 : 291025 Erreur de segmentation  env "$command" "$@"
+/usr/bin/xdg-open: ligne 880: x-www-browser : commande introuvable
+/usr/bin/xdg-open : ligne 756 : 291333 Erreur de segmentation  env "$command" "$@"
+/usr/bin/xdg-open: ligne 880: x-www-browser : commande introuvable
+/usr/bin/xdg-open : ligne 756 : 291978 Erreur de segmentation  env "$command" "$@"
+/usr/bin/xdg-open: ligne 880: x-www-browser : commande introuvable
+/usr/bin/xdg-open : ligne 756 : 291711 Erreur de segmentation  env "$command" "$@"
+/usr/bin/xdg-open: ligne 880: x-www-browser : commande introuvable
+/usr/bin/xdg-open : ligne 756 : 291575 Erreur de segmentation  env "$command" "$@"
+/usr/bin/xdg-open: ligne 880: x-www-browser : commande introuvable
+Launch command: ['/home/logy/Games/Heroic/EXAPUNKS/start.sh']
+All processes exited

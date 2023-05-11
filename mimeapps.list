@@ -1,0 +1,8 @@
+[Added Associations]
+text/plain=org.gnome.gedit.desktop;
+application/pdf=org.gnome.Evince.desktop;org.pwmt.zathura-pdf-poppler.desktop;
+
+[Default Applications]
+x-scheme-handler/msteams=teams.desktop
+application/pdf=org.pwmt.zathura-pdf-poppler.desktop
+x-scheme-handler/postman=Postman.desktop

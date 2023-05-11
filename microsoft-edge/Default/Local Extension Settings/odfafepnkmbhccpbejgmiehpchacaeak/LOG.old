@@ -1,0 +1,33 @@
+2023/03/19-17:34:47.009 4558 Creating DB /home/logy/.config/microsoft-edge/Default/Local Extension Settings/odfafepnkmbhccpbejgmiehpchacaeak since it was missing.
+2023/03/19-17:34:47.017 4558 Reusing MANIFEST /home/logy/.config/microsoft-edge/Default/Local Extension Settings/odfafepnkmbhccpbejgmiehpchacaeak/MANIFEST-000001
+2023/03/19-17:34:48.768 4557 Level-0 table #5: started
+2023/03/19-17:34:48.805 4557 Level-0 table #5: 1678479 bytes OK
+2023/03/19-17:34:48.810 4557 Delete type=0 #3
+2023/03/19-17:34:49.984 4558 Level-0 table #7: started
+2023/03/19-17:34:50.011 4558 Level-0 table #7: 1617872 bytes OK
+2023/03/19-17:34:50.017 4558 Delete type=0 #4
+2023/03/19-17:37:36.317 4558 Level-0 table #9: started
+2023/03/19-17:37:36.344 4558 Level-0 table #9: 1663179 bytes OK
+2023/03/19-17:37:36.349 4558 Delete type=0 #6
+2023/03/19-17:44:36.950 4558 Level-0 table #11: started
+2023/03/19-17:44:36.968 4558 Level-0 table #11: 1910473 bytes OK
+2023/03/19-17:44:36.973 4558 Delete type=0 #8
+2023/03/19-17:51:38.314 4557 Level-0 table #13: started
+2023/03/19-17:51:38.336 4557 Level-0 table #13: 2079627 bytes OK
+2023/03/19-17:51:38.340 4557 Delete type=0 #10
+2023/03/19-17:51:38.429 4557 Level-0 table #15: started
+2023/03/19-17:51:38.453 4557 Level-0 table #15: 2896862 bytes OK
+2023/03/19-17:51:38.457 4557 Delete type=0 #12
+2023/03/19-17:51:38.458 4557 Compacting 4@0 + 1@1 files
+2023/03/19-17:51:38.484 4557 Generated table #16@0: 10 keys, 2319907 bytes
+2023/03/19-17:51:38.503 4557 Generated table #17@0: 12 keys, 2132898 bytes
+2023/03/19-17:51:38.520 4557 Generated table #18@0: 5 keys, 2199917 bytes
+2023/03/19-17:51:38.542 4557 Generated table #19@0: 6 keys, 2599187 bytes
+2023/03/19-17:51:38.547 4557 Generated table #20@0: 5 keys, 161088 bytes
+2023/03/19-17:51:38.547 4557 Compacted 4@0 + 1@1 files => 9412997 bytes
+2023/03/19-17:51:38.551 4557 compacted to: files[ 0 5 1 0 0 0 0 ]
+2023/03/19-17:51:38.551 4557 Delete type=2 #7
+2023/03/19-17:51:38.551 4557 Delete type=2 #9
+2023/03/19-17:51:38.551 4557 Delete type=2 #11
+2023/03/19-17:51:38.551 4557 Delete type=2 #13
+2023/03/19-17:51:38.551 4557 Delete type=2 #15

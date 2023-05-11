@@ -1,0 +1,6 @@
+2023-02-26 16:11:18.486 [info] Started initializing default profile extensions in extensions installation folder. file:///home/logy/.vscode-oss/extensions
+2023-02-26 16:11:18.656 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/logy/.vscode-oss/extensions
+2023-02-26 16:11:21.385 [info] [perf] Render performance baseline is 32ms
+2023-02-26 16:11:52.150 [error] [Extension Host] (node:10646) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+2023-02-26 16:19:08.519 [info] [perf] Render performance baseline is 69ms

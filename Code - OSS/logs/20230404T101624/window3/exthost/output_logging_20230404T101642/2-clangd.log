@@ -1,0 +1,38 @@
+I[10:17:37.051] clangd version 15.0.7
+I[10:17:37.051] Features: linux
+I[10:17:37.051] PID: 3302
+I[10:17:37.051] Working directory: /home/logy
+I[10:17:37.051] argv[0]: /usr/bin/clangd
+I[10:17:37.051] Starting LSP over stdin/stdout
+I[10:17:37.051] <-- initialize(0)
+I[10:17:37.052] --> reply:initialize(0) 0 ms
+I[10:17:37.055] <-- initialized
+I[10:17:57.629] <-- textDocument/didOpen
+I[10:17:57.629] Failed to find compilation database for /home/logy/Documents/Token_tp.cpp
+I[10:17:57.629] ASTWorker building file /home/logy/Documents/Token_tp.cpp version 1 with command clangd fallback
+[/home/logy/Documents]
+/usr/bin/clang -resource-dir=/usr/lib/clang/15.0.7 -- /home/logy/Documents/Token_tp.cpp
+I[10:17:57.631] --> textDocument/clangd.fileStatus
+I[10:17:57.638] --> workspace/semanticTokens/refresh(0)
+I[10:17:57.638] --> textDocument/clangd.fileStatus
+I[10:17:57.639] <-- reply(0)
+I[10:17:57.643] --> textDocument/publishDiagnostics
+I[10:17:57.643] --> textDocument/clangd.fileStatus
+I[10:17:57.696] <-- textDocument/didSave
+I[10:17:57.696] File version went from 1 to 1
+I[10:17:57.696] --> textDocument/clangd.fileStatus
+I[10:17:57.696] <-- textDocument/documentSymbol(1)
+I[10:17:57.697] Failed to find compilation database for /home/logy/Documents/Token_tp.cpp
+I[10:17:57.697] ASTWorker building file /home/logy/Documents/Token_tp.cpp version 1 with command clangd fallback
+[/home/logy/Documents]
+/usr/bin/clang -resource-dir=/usr/lib/clang/15.0.7 -- /home/logy/Documents/Token_tp.cpp
+I[10:17:57.698] --> textDocument/clangd.fileStatus
+I[10:17:57.698] --> reply:textDocument/documentSymbol(1) 1 ms
+I[10:17:57.698] --> textDocument/clangd.fileStatus
+I[10:17:57.698] --> textDocument/clangd.fileStatus
+I[10:17:57.698] --> textDocument/clangd.fileStatus
+I[10:17:57.701] <-- textDocument/documentLink(2)
+I[10:17:57.701] <-- textDocument/inlayHint(3)
+I[10:17:57.701] --> reply:textDocument/documentLink(2) 0 ms
+I[10:17:57.701] --> reply:textDocument/inlayHint(3) 0 ms
+I[10:17:57.701] --> textDocument/clangd.fileStatus

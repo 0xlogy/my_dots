@@ -1,0 +1,65 @@
+{
+	"credentials": {
+		"access_token": "zpkycNly9MXgfwZtcxt317DYF72_bJ4o_m9apSzMBt8VqZhV0mIG708PG8hvXOUMpWm0CHPs64o_ly7m944x1-1W0_UkvMDKgl5Z-R59FGyeq-TFXXvQ39f6dntyEF-gcPl5lxQSFVB_d-jzp2MSTisLS-VSFE2bDRRLgQpnRlIYAItbQXKcvavp-otLSwv1",
+		"expires_in": 3600,
+		"token_type": "bearer",
+		"scope": "",
+		"session_id": "7201631751805297460",
+		"refresh_token": "fBsAFMWniRrDyv2JTQb4lg-H4_w4R8pXuLi_i1atUdAGZhM82rH1T2p9Y0A1RCGS",
+		"user_id": "51255825508292535",
+		"loginTime": 1682994338298
+	},
+	"userData": {
+		"country": "FR",
+		"currencies": [
+			{
+				"code": "EUR",
+				"symbol": "€"
+			},
+			{
+				"code": "USD",
+				"symbol": "$"
+			}
+		],
+		"selectedCurrency": {
+			"code": "EUR",
+			"symbol": "€"
+		},
+		"preferredLanguage": {
+			"code": "en",
+			"name": "English"
+		},
+		"ratingBrand": "PEGI",
+		"isLoggedIn": true,
+		"checksum": {
+			"cart": null,
+			"games": "6ec6b04f09c6c867378cdd81a5e6318e",
+			"wishlist": "b46a2d5e1138682a7b2cd3cb0c646c54",
+			"reviews_votes": null,
+			"games_rating": null
+		},
+		"updates": {
+			"messages": 0,
+			"pendingFriendRequests": 0,
+			"unreadChatMessages": 0,
+			"products": 6,
+			"total": 6
+		},
+		"userId": "51255825556081",
+		"username": "Lokien.",
+		"galaxyUserId": "51255825508292535",
+		"avatar": "https://images.gog.com/f3d51f63f3a3ac710d93263dc37481294e26e4b66e830e5a445708ae99f3af9e",
+		"walletBalance": {
+			"currency": "EUR",
+			"amount": 0
+		},
+		"purchasedItems": {
+			"games": 10,
+			"movies": 0
+		},
+		"wishlistedItems": 5,
+		"friends": [],
+		"personalizedProductPrices": [],
+		"personalizedSeriesPrices": []
+	}
+}

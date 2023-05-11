@@ -1,0 +1,73 @@
+(00:32:02) INFO:    [Connection]:       Connectivity: check-online
+(00:32:02) INFO:    [Connection]:       Pinging external endpoints
+(00:32:02) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(00:32:02) INFO:    [Legendary]:        Legendary location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(00:32:02) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(00:32:02) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(00:32:03) WARNING: [Backend]:          Protocol already registered.
+(00:32:03) INFO:    [Connection]:       Connectivity: online
+(00:32:03) INFO:    [Backend]:          User Not Found, removing it from Store
+(00:32:03) INFO:    [Gog]:              Getting data about the user
+(00:32:03) INFO:    [Gog]:              Refreshing access_token
+(00:32:03) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(00:32:03) INFO:    [Gog]:              Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+(00:32:03) INFO:    [Gog]:              Token refreshed successfully
+(00:32:03) INFO:    [Backend]:          Loading Screen Ready
+(00:32:03) INFO:    [Frontend]:         Refreshing Library
+(00:32:03) INFO:    [Legendary]:        Refreshing library...
+(00:32:03) INFO:    [Gog]:              Getting GOG library
+(00:32:03) INFO:    [Backend]:          Frontend Ready
+(00:32:03) INFO:    [Gog]:              Saved user data to config
+(00:32:03) INFO:    [Backend]:          Checking for new Heroic Updates
+(00:32:03) INFO:    [Backend]:          Checking for current version changelog
+(00:32:03) INFO:    [Gog]:              Number of library pages: 1
+(00:32:04) INFO:    [Gog]:              Saved games data
+(00:32:04) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(00:32:04) INFO:    [Legendary]:        Refreshing library...
+(00:32:04) INFO:    [Gog]:              Found 1 game(s) to update
+(00:32:04) INFO:    [Backend]:          
+
+Heroic Version: 2.6.2 Trafalgar Law
+Legendary Version:  0.20.32 Dark Energy (hotfix #6)
+GOGdl Version: 0.6
+
+Electron Version: 22.2.0
+Chrome Version: 108.0.5359.215
+NodeJS Version: 16.17.1
+
+OS: ManjaroLinux KERNEL: 5.15.104-2-MANJARO ARCH: x64
+CPU: Intel Gen Intel® Core™ i7-1195G7 @2.9 GOVERNOR: powersave
+RAM: Total: 15.34 GiB Available: 13.32 GiB
+GRAPHICS: GPU0: TigerLake-LP GT2 [Iris Xe Graphics]  VRAM: 256MB  
+PROTOCOL: x11
+
+(00:32:05) INFO:    [Winetricks]:       Downloading Winetricks
+(00:32:08) INFO:    [Backend]:          Starting the Download Queue
+(00:32:09) INFO:    [Gog]:              Got install info from cache for 2070729622 on windows platform
+(00:32:09) INFO:    [DownloadManager]:  EXAPUNKS  was added to the download queue.
+(00:32:09) INFO:    [Gog]:              Updating 2070729622: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl update 2070729622 --platform linux --path=/home/logy/Games/Heroic/EXAPUNKS --token <redacted> --skip-dlcs --lang=en
+(00:32:09) DEBUG:   [Gog]:              Logging to file "/home/logy/.config/heroic/GamesConfig/2070729622.log"
+(00:32:09) INFO:    [Backend]:          Preventing machine to sleep
+(00:32:10) INFO:    [Gog]:              Progress for EXAPUNKS: 0%/0.00MB/00:00:00 Down: 0MB/s / Disk: 0MB/s
+(00:32:11) INFO:    [Gog]:              Progress for EXAPUNKS: 0%/58.00MB/00:00:00 Down: 57.93MB/s / Disk: 0MB/s
+(00:32:12) INFO:    [Gog]:              Progress for EXAPUNKS: 11%/118.00MB/00:00:16 Down: 59.94MB/s / Disk: 0MB/s
+(00:32:13) INFO:    [Gog]:              Progress for EXAPUNKS: 22.38%/183.00MB/00:00:10 Down: 64.93MB/s / Disk: 0MB/s
+(00:32:14) INFO:    [Gog]:              Progress for EXAPUNKS: 34.71%/247.00MB/00:00:07 Down: 63.93MB/s / Disk: 63.93MB/s
+(00:32:15) INFO:    [Gog]:              Progress for EXAPUNKS: 46.85%/296.00MB/00:00:05 Down: 48.95MB/s / Disk: 48.95MB/s
+(00:32:16) INFO:    [Gog]:              Progress for EXAPUNKS: 56.14%/356.00MB/00:00:04 Down: 59.96MB/s / Disk: 59.96MB/s
+(00:32:17) INFO:    [Gog]:              Progress for EXAPUNKS: 67.53%/420.00MB/00:00:03 Down: 63.93MB/s / Disk: 63.93MB/s
+(00:32:18) INFO:    [Gog]:              Progress for EXAPUNKS: 79.66%/480.00MB/00:00:02 Down: 59.93MB/s / Disk: 59.93MB/s
+(00:32:19) INFO:    [Gog]:              Progress for EXAPUNKS: 91.05%/495.00MB/00:00:00 Down: 14.98MB/s / Disk: 14.98MB/s
+(00:32:27) INFO:    [Frontend]:         Refreshing Library
+(00:32:27) INFO:    [Gog]:              Getting GOG library
+(00:32:27) INFO:    [DownloadManager]:  Finished updating of 2070729622
+(00:32:27) INFO:    [DownloadManager]:  2070729622 added to download manager finished.
+(00:32:27) INFO:    [DownloadManager]:  2070729622 removed from download manager.
+(00:32:27) INFO:    [Gog]:              Number of library pages: 1
+(00:32:27) INFO:    [Gog]:              Saved games data
+(00:32:27) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(00:32:27) INFO:    [Legendary]:        Refreshing library...
+(00:32:27) INFO:    [Gog]:              Found 0 game(s) to update
+(00:32:31) INFO:    [Backend]:          Launching EXAPUNKS (2070729622)
+(00:32:31) INFO:    [Backend]:          Preventing display from sleep
+(00:32:31) INFO:    [Gog]:              Launching EXAPUNKS: LD_PRELOAD= /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl launch /home/logy/Games/Heroic/EXAPUNKS 2070729622 --platform linux

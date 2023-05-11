@@ -1,0 +1,29 @@
+{
+  "e87a43f695bc409ca8858206678ac7e7": {
+    "app_name": "e87a43f695bc409ca8858206678ac7e7",
+    "base_urls": [
+      "https://download.epicgames.com/Builds/Org/o-vcevjkg64lqrmhwvv95bvgsww28e43/6aac3071aeae452990a71aac0a1fbc30/default",
+      "https://download2.epicgames.com/Builds/Org/o-vcevjkg64lqrmhwvv95bvgsww28e43/6aac3071aeae452990a71aac0a1fbc30/default",
+      "https://download3.epicgames.com/Builds/Org/o-vcevjkg64lqrmhwvv95bvgsww28e43/6aac3071aeae452990a71aac0a1fbc30/default",
+      "https://download4.epicgames.com/Builds/Org/o-vcevjkg64lqrmhwvv95bvgsww28e43/6aac3071aeae452990a71aac0a1fbc30/default",
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-vcevjkg64lqrmhwvv95bvgsww28e43/6aac3071aeae452990a71aac0a1fbc30/default",
+      "https://fastly-download.epicgames.com/Builds/Org/o-vcevjkg64lqrmhwvv95bvgsww28e43/6aac3071aeae452990a71aac0a1fbc30/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "shapezio.exe",
+    "install_path": "/home/logy/Games/Heroic/shapezaa2PF",
+    "install_size": 378312919,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "--disable-direct-composition --in-process-gpu",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "title": "shapez",
+    "version": "1.5.5"
+  }
+}

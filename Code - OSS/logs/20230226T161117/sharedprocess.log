@@ -1,0 +1,64 @@
+2023-02-26 16:11:19.066 [info] Starting worker process with pid 10722 (type: fileWatcher, window: 1).
+2023-02-26 16:11:38.189 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2023-02-26 16:11:38.215 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd
+2023-02-26 16:11:38.923 [info] Extracted extension to /home/logy/.vscode-oss/extensions/.8857c4d9-6c9a-415f-a31d-6f959238460d: llvm-vs-code-extensions.vscode-clangd
+2023-02-26 16:11:38.927 [info] Renamed to /home/logy/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.23-universal
+2023-02-26 16:11:38.929 [info] Extracting completed. llvm-vs-code-extensions.vscode-clangd
+2023-02-26 16:11:38.938 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd
+2023-02-26 16:11:46.274 [info] Getting Manifest... franneck94.c-cpp-runner
+2023-02-26 16:11:46.300 [info] Installing extension: franneck94.c-cpp-runner
+2023-02-26 16:11:46.641 [info] Getting Manifest... vadimcn.vscode-lldb
+2023-02-26 16:11:47.021 [info] Installing extension: vadimcn.vscode-lldb franneck94.c-cpp-runner
+2023-02-26 16:11:47.426 [info] Extracted extension to /home/logy/.vscode-oss/extensions/.595fec4f-b7ad-47d8-95b6-acca26d90df8: vadimcn.vscode-lldb
+2023-02-26 16:11:47.430 [info] Renamed to /home/logy/.vscode-oss/extensions/vadimcn.vscode-lldb-1.8.1-universal
+2023-02-26 16:11:47.433 [info] Extracting completed. vadimcn.vscode-lldb
+2023-02-26 16:11:48.473 [info] Extracted extension to /home/logy/.vscode-oss/extensions/.7c836690-37aa-47ac-b4c2-2d9f8e415548: franneck94.c-cpp-runner
+2023-02-26 16:11:48.476 [info] Renamed to /home/logy/.vscode-oss/extensions/franneck94.c-cpp-runner-4.3.1-universal
+2023-02-26 16:11:48.478 [info] Extracting completed. franneck94.c-cpp-runner
+2023-02-26 16:11:48.486 [info] Extension installed successfully: vadimcn.vscode-lldb
+2023-02-26 16:11:48.486 [info] Extension installed successfully: franneck94.c-cpp-runner
+2023-02-26 16:11:49.944 [info] Getting Manifest... franneck94.vscode-c-cpp-config
+2023-02-26 16:11:49.972 [info] Installing extension: franneck94.vscode-c-cpp-config
+2023-02-26 16:11:50.193 [info] Getting Manifest... vadimcn.vscode-lldb
+2023-02-26 16:11:50.673 [info] Extracted extension to /home/logy/.vscode-oss/extensions/.37ff8e97-6ca9-43a2-8b03-f08ab96272ee: franneck94.vscode-c-cpp-config
+2023-02-26 16:11:50.677 [info] Renamed to /home/logy/.vscode-oss/extensions/franneck94.vscode-c-cpp-config-3.0.0-universal
+2023-02-26 16:11:50.678 [info] Extracting completed. franneck94.vscode-c-cpp-config
+2023-02-26 16:11:50.687 [info] Extension installed successfully: franneck94.vscode-c-cpp-config
+2023-02-26 16:12:01.961 [info] Getting Manifest... danielpinto8zz6.c-cpp-project-generator
+2023-02-26 16:12:01.987 [info] Installing extension: danielpinto8zz6.c-cpp-project-generator
+2023-02-26 16:12:02.673 [info] Extracted extension to /home/logy/.vscode-oss/extensions/.b84eed1a-ab90-4a70-b7a4-04e058d1d2eb: danielpinto8zz6.c-cpp-project-generator
+2023-02-26 16:12:02.676 [info] Renamed to /home/logy/.vscode-oss/extensions/danielpinto8zz6.c-cpp-project-generator-1.2.10-universal
+2023-02-26 16:12:02.678 [info] Extracting completed. danielpinto8zz6.c-cpp-project-generator
+2023-02-26 16:12:02.686 [info] Extension installed successfully: danielpinto8zz6.c-cpp-project-generator
+2023-02-26 16:13:08.710 [info] Getting Manifest... jdinhlife.gruvbox
+2023-02-26 16:13:08.736 [info] Installing extension: jdinhlife.gruvbox
+2023-02-26 16:13:09.751 [info] Extracted extension to /home/logy/.vscode-oss/extensions/.452df128-2c23-4483-bed7-05143f894126: jdinhlife.gruvbox
+2023-02-26 16:13:09.754 [info] Renamed to /home/logy/.vscode-oss/extensions/jdinhlife.gruvbox-1.8.0-universal
+2023-02-26 16:13:09.756 [info] Extracting completed. jdinhlife.gruvbox
+2023-02-26 16:13:09.762 [info] Extension installed successfully: jdinhlife.gruvbox
+2023-02-26 16:14:49.787 [info] Getting Manifest... auiworks.amvim
+2023-02-26 16:14:49.813 [info] Installing extension: auiworks.amvim
+2023-02-26 16:14:50.335 [info] Extracted extension to /home/logy/.vscode-oss/extensions/.886fc8f8-2ef4-4202-9a6f-24a43d3dcc0b: auiworks.amvim
+2023-02-26 16:14:50.340 [info] Renamed to /home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal
+2023-02-26 16:14:50.341 [info] Extracting completed. auiworks.amvim
+2023-02-26 16:14:50.348 [info] Extension installed successfully: auiworks.amvim
+2023-02-26 16:15:15.157 [info] Getting Manifest... meronz.hybrid-dim
+2023-02-26 16:15:15.183 [info] Installing extension: meronz.hybrid-dim
+2023-02-26 16:15:15.781 [info] Extracted extension to /home/logy/.vscode-oss/extensions/.748129ae-e1af-4549-963d-536426bcd302: meronz.hybrid-dim
+2023-02-26 16:15:15.786 [info] Renamed to /home/logy/.vscode-oss/extensions/meronz.hybrid-dim-0.0.3-universal
+2023-02-26 16:15:15.787 [info] Extracting completed. meronz.hybrid-dim
+2023-02-26 16:15:15.796 [info] Extension installed successfully: meronz.hybrid-dim
+2023-02-26 16:18:26.354 [info] Getting Manifest... garlicbreadcleric.pandoc-markdown-syntax
+2023-02-26 16:18:26.390 [info] Installing extension: garlicbreadcleric.pandoc-markdown-syntax
+2023-02-26 16:18:26.931 [info] Extracted extension to /home/logy/.vscode-oss/extensions/.b3418a60-68a1-4a98-adfc-8d9624b69675: garlicbreadcleric.pandoc-markdown-syntax
+2023-02-26 16:18:26.934 [info] Renamed to /home/logy/.vscode-oss/extensions/garlicbreadcleric.pandoc-markdown-syntax-0.0.2-universal
+2023-02-26 16:18:26.934 [info] Extracting completed. garlicbreadcleric.pandoc-markdown-syntax
+2023-02-26 16:18:26.942 [info] Extension installed successfully: garlicbreadcleric.pandoc-markdown-syntax
+2023-02-26 16:18:30.230 [info] Getting Manifest... zaaack.markdown-editor
+2023-02-26 16:18:30.259 [info] Installing extension: zaaack.markdown-editor
+2023-02-26 16:18:31.294 [info] Extracted extension to /home/logy/.vscode-oss/extensions/.33ff6814-55e6-46d8-ba46-07fb2b11a7f1: zaaack.markdown-editor
+2023-02-26 16:18:31.298 [info] Renamed to /home/logy/.vscode-oss/extensions/zaaack.markdown-editor-0.1.9-universal
+2023-02-26 16:18:31.300 [info] Extracting completed. zaaack.markdown-editor
+2023-02-26 16:18:31.306 [info] Extension installed successfully: zaaack.markdown-editor
+2023-02-26 16:19:04.446 [info] Worker process with pid 10722 terminated normally (type: fileWatcher, window: 1).
+2023-02-26 16:19:05.422 [info] Starting worker process with pid 12156 (type: fileWatcher, window: 1).

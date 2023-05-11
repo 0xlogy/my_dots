@@ -1,0 +1,14 @@
+[01/05/2023 16:20:51] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+legendary version "0.20.32", codename "Dark Energy (hotfix #6)"
+[01/05/2023 16:20:52] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[01/05/2023 16:20:53] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Logging in...
+[Core] INFO: Logging in...
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.auth_token.invalid_refresh_token
+[Core] ERROR: Stored credentials are no longer valid! Please login again.
+[cli] ERROR: Login failed, cannot continue!
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.auth_token.invalid_refresh_token
+[Core] ERROR: Stored credentials are no longer valid! Please login again.
+[cli] ERROR: Login failed, cannot continue!

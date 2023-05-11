@@ -1,0 +1,211 @@
+(10:00:09) INFO:    [Connection]:       Connectivity: check-online
+(10:00:09) INFO:    [Connection]:       Pinging external endpoints
+(10:00:09) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(10:00:09) INFO:    [Legendary]:        Legendary location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(10:00:09) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(10:00:09) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(10:00:09) WARNING: [Backend]:          Protocol already registered.
+(10:00:10) INFO:    [Gog]:              Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+(10:00:10) INFO:    [Connection]:       All ping requests failed:
+(10:00:10) INFO:    [Connection]:       AggregateError: All promises were rejected
+(10:00:10) INFO:    [Backend]:          Loading Screen Ready
+(10:00:10) INFO:    [Frontend]:         Refreshing Library
+(10:00:10) INFO:    [Legendary]:        Refreshing library...
+(10:00:10) INFO:    [Backend]:          Frontend Ready
+(10:00:10) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(10:00:10) INFO:    [Legendary]:        Refreshing library...
+(10:00:10) INFO:    [Backend]:          Checking for new Heroic Updates
+(10:00:10) ERROR:   [Backend]:          Error when checking for Heroic updates Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: api.github.com. is not in the cert's altnames: DNS:portal.ecole2600.com
+    at new NodeError (node:internal/errors:387:5)
+    at Object.checkServerIdentity (node:tls:354:12)
+    at TLSSocket.onConnectSecure (node:_tls_wrap:1545:27)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket._finishInit (node:_tls_wrap:949:8)
+    at ssl.onhandshakedone (node:_tls_wrap:730:12)
+(10:00:10) INFO:    [Backend]:          Checking for current version changelog
+(10:00:10) ERROR:   [Backend]:          Error when checking for current Heroic changelog
+(10:00:11) INFO:    [Backend]:          
+
+Heroic Version: 2.6.2 Trafalgar Law
+Legendary Version:  0.20.32 Dark Energy (hotfix #6)
+GOGdl Version: 0.6
+
+Electron Version: 22.2.0
+Chrome Version: 108.0.5359.215
+NodeJS Version: 16.17.1
+
+OS: ManjaroLinux KERNEL: 5.15.104-2-MANJARO ARCH: x64
+CPU: Intel Gen Intel® Core™ i7-1195G7 @2.9 GOVERNOR: powersave
+RAM: Total: 15.34 GiB Available: 13.87 GiB
+GRAPHICS: GPU0: TigerLake-LP GT2 [Iris Xe Graphics]  VRAM: 256MB  
+PROTOCOL: x11
+
+(10:00:12) WARNING: [DXVKInstaller]:    App offline, skipping possible DXVK update.
+(10:00:15) INFO:    [Connection]:       Pinging external endpoints
+(10:00:15) INFO:    [Backend]:          Starting the Download Queue
+(10:00:15) INFO:    [Connection]:       All ping requests failed:
+(10:00:15) INFO:    [Connection]:       AggregateError: All promises were rejected
+(10:00:20) INFO:    [Connection]:       Connectivity: online
+(10:00:20) INFO:    [Backend]:          User Not Found, removing it from Store
+(10:00:20) INFO:    [Gog]:              Getting data about the user
+(10:00:20) INFO:    [Gog]:              Refreshing access_token
+(10:00:20) WARNING: [Backend]:          Failed download of AreWeAntiCheatYet data: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: raw.githubusercontent.com. is not in the cert's altnames: DNS:portal.ecole2600.com
+(10:00:20) ERROR:   [Gog]:              Error with refreshing token, reauth required
+(10:00:20) ERROR:   [Gog]:              No credentials, can't get user data
+(10:01:01) INFO:    [Connection]:       Connectivity: offline
+(10:01:05) INFO:    [Connection]:       Connectivity: check-online
+(10:01:05) INFO:    [Connection]:       Pinging external endpoints
+(10:01:06) INFO:    [Connection]:       All ping requests failed:
+(10:01:06) INFO:    [Connection]:       AggregateError: All promises were rejected
+(10:01:11) INFO:    [Connection]:       Pinging external endpoints
+(10:01:11) INFO:    [Connection]:       All ping requests failed:
+(10:01:11) INFO:    [Connection]:       AggregateError: All promises were rejected
+(10:01:21) INFO:    [Connection]:       Pinging external endpoints
+(10:01:21) INFO:    [Connection]:       Connectivity: online
+(10:01:36) INFO:    [Connection]:       Connectivity: offline
+(10:01:37) INFO:    [Connection]:       Connectivity: check-online
+(10:01:37) INFO:    [Connection]:       Pinging external endpoints
+(10:01:37) INFO:    [Connection]:       Connectivity: online
+(10:01:50) INFO:    [Connection]:       Connectivity: offline
+(10:01:50) INFO:    [Connection]:       Connectivity: check-online
+(10:01:50) INFO:    [Connection]:       Pinging external endpoints
+(10:01:52) INFO:    [Connection]:       Connectivity: online
+(10:02:33) INFO:    [Legendary]:        Logging in: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(10:02:34) INFO:    [Legendary]:        Logging in: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(10:02:34) INFO:    [Legendary]:        Logging in: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(10:02:34) INFO:    [Legendary]:        Logging in: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(10:02:34) INFO:    [Legendary]:        Logging in: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(10:02:34) INFO:    [Legendary]:        Logging in: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(10:02:34) INFO:    [Legendary]:        Logging in: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(10:02:34) INFO:    [Legendary]:        Logging in: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(10:02:34) INFO:    [Legendary]:        Logging in: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(10:02:34) INFO:    [Legendary]:        Logging in: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(10:02:34) INFO:    [Legendary]:        Logging in: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(10:02:35) INFO:    [Frontend]:         Refreshing Library
+(10:02:35) INFO:    [Legendary]:        Refreshing library...
+(10:02:35) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(10:02:35) INFO:    [Legendary]:        Refreshing library...
+(10:02:35) INFO:    [Frontend]:         Refreshing Library
+(10:02:35) INFO:    [Legendary]:        Refreshing library...
+(10:02:35) INFO:    [Legendary]:        Refreshing Epic Games...
+(10:02:35) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(10:02:35) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(10:02:35) INFO:    [Legendary]:        Refreshing library...
+(10:02:35) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(10:02:35) INFO:    [Frontend]:         Refreshing Library
+(10:02:35) INFO:    [Legendary]:        Refreshing library...
+(10:02:35) INFO:    [Legendary]:        Refreshing Epic Games...
+(10:02:35) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(10:02:35) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(10:02:35) INFO:    [Legendary]:        Refreshing library...
+(10:02:35) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(10:02:35) INFO:    [Frontend]:         Refreshing Library
+(10:02:35) INFO:    [Legendary]:        Refreshing library...
+(10:02:35) INFO:    [Legendary]:        Refreshing Epic Games...
+(10:02:35) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(10:02:35) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(10:02:35) INFO:    [Legendary]:        Refreshing library...
+(10:02:35) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(10:02:35) INFO:    [Frontend]:         Refreshing Library
+(10:02:35) INFO:    [Legendary]:        Refreshing library...
+(10:02:35) INFO:    [Legendary]:        Refreshing Epic Games...
+(10:02:35) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(10:02:35) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(10:02:35) INFO:    [Legendary]:        Refreshing library...
+(10:02:35) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(10:02:35) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(10:02:35) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(10:02:35) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(10:02:35) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(10:02:36) INFO:    [Frontend]:         Refreshing Library
+(10:02:36) INFO:    [Legendary]:        Refreshing library...
+(10:02:36) INFO:    [Legendary]:        Refreshing Epic Games...
+(10:02:36) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(10:02:36) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(10:02:36) INFO:    [Legendary]:        Refreshing library...
+(10:02:36) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(10:02:36) INFO:    [Frontend]:         Refreshing Library
+(10:02:36) INFO:    [Legendary]:        Refreshing library...
+(10:02:36) INFO:    [Legendary]:        Refreshing Epic Games...
+(10:02:36) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(10:02:36) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(10:02:36) INFO:    [Legendary]:        Refreshing library...
+(10:02:36) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(10:02:36) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(10:02:36) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(10:02:42) INFO:    [Frontend]:         Refreshing Library
+(10:02:42) INFO:    [Legendary]:        Refreshing library...
+(10:02:42) INFO:    [Legendary]:        Refreshing Epic Games...
+(10:02:42) INFO:    [Gog]:              Refreshing access_token
+(10:02:42) INFO:    [Legendary]:        Game list updated, got 102 games & DLCs
+(10:02:42) INFO:    [Gog]:              Token refreshed successfully
+(10:02:42) INFO:    [Gog]:              Getting GOG library
+(10:02:42) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(10:02:42) INFO:    [Gog]:              Number of library pages: 1
+(10:02:42) INFO:    [Gog]:              Saved games data
+(10:02:42) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(10:02:42) INFO:    [Legendary]:        Refreshing library...
+(10:02:42) INFO:    [Legendary]:        Game list updated, got 102 games & DLCs
+(10:02:42) INFO:    [Frontend]:         Force Update
+(10:03:04) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for shapez
+(10:03:04) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for shapez
+(10:03:04) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for shapez
+(10:03:04) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(10:03:04) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(10:03:04) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(10:03:04) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(10:03:05) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info e87a43f695bc409ca8858206678ac7e7 --platform Windows --json
+(10:03:05) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info e87a43f695bc409ca8858206678ac7e7 --platform Windows --json
+(10:03:05) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info e87a43f695bc409ca8858206678ac7e7 --platform Windows --json
+(10:03:05) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info e87a43f695bc409ca8858206678ac7e7 --platform Windows --json
+(10:03:15) INFO:    [Connection]:       Connectivity: offline
+(10:03:19) INFO:    [Connection]:       Connectivity: check-online
+(10:03:19) INFO:    [Connection]:       Pinging external endpoints
+(10:03:25) INFO:    [Connection]:       Connectivity: online
+(10:03:50) INFO:    [Connection]:       Connectivity: offline
+(10:03:50) INFO:    [Connection]:       Connectivity: check-online
+(10:03:50) INFO:    [Connection]:       Pinging external endpoints
+(10:03:50) INFO:    [Connection]:       Connectivity: online
+(10:04:17) INFO:    [Connection]:       Connectivity: offline
+(10:04:19) INFO:    [Connection]:       Connectivity: check-online
+(10:04:19) INFO:    [Connection]:       Pinging external endpoints
+(10:04:19) INFO:    [Connection]:       Connectivity: online
+(10:16:25) DEBUG:   [Legendary]:        Using cached install info
+(10:16:25) DEBUG:   [Backend]:          {"free":204422430720,"diskSize":433427841024,"message":"190.38 GiB / 403.66 GiB","validPath":true}
+(10:16:25) DEBUG:   [Backend]:          {"free":204422430720,"diskSize":433427841024,"message":"190.38 GiB / 403.66 GiB","validPath":true}
+(10:16:28) INFO:    [Backend]:          Writing config for e87a43f695bc409ca8858206678ac7e7
+(10:16:28) INFO:    [Backend]:          Changed config: winePrefix from /home/logy/.wine to /home/logy/Games/Heroic/Prefixes/shapez
+(10:16:28) INFO:    [Backend]:          Changed config: wineCrossoverBottle from undefined to 
+(10:16:28) DEBUG:   [Legendary]:        Using cached install info
+(10:16:28) INFO:    [DownloadManager]:  shapez  was added to the download queue.
+(10:16:28) INFO:    [Backend]:          Preventing machine to sleep
+(10:16:28) DEBUG:   [Legendary]:        Using cached install info
+(10:16:28) INFO:    [Legendary]:        Installing e87a43f695bc409ca8858206678ac7e7: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary install e87a43f695bc409ca8858206678ac7e7 --platform Windows --base-path /home/logy/Games/Heroic --skip-dlcs --skip-sdl -y
+(10:16:28) DEBUG:   [Legendary]:        Logging to file "/home/logy/.config/heroic/GamesConfig/e87a43f695bc409ca8858206678ac7e7.log"
+(10:16:31) INFO:    [Legendary]:        Progress for shapez: 0%/0.00MiB/00:00:00 Down: 0MiB/s / Disk: 0MiB/s
+(10:16:32) INFO:    [Legendary]:        Progress for shapez: 0.14%/0.36MiB/00:00:00 Down: 0.36MiB/s / Disk: 0MiB/s
+(10:16:33) INFO:    [Legendary]:        Progress for shapez: 7.48%/18.65MiB/00:02:42 Down: 0MiB/s / Disk: 0MiB/s
+(10:16:34) INFO:    [Legendary]:        Progress for shapez: 12.78%/31.87MiB/00:01:03 Down: 13.21MiB/s / Disk: 0MiB/s
+(10:16:35) INFO:    [Legendary]:        Progress for shapez: 19.6%/48.88MiB/00:00:00 Down: 0MiB/s / Disk: 0MiB/s
+(10:16:36) INFO:    [Legendary]:        Progress for shapez: 26.79%/66.81MiB/00:00:00 Down: 0MiB/s / Disk: 0MiB/s
+(10:16:37) INFO:    [Legendary]:        Progress for shapez: 33.2%/82.77MiB/00:00:01 Down: 15.94MiB/s / Disk: 0MiB/s
+(10:16:38) INFO:    [Legendary]:        Progress for shapez: 40%/99.74MiB/00:00:01 Down: 16.94MiB/s / Disk: 38.95MiB/s
+(10:16:39) INFO:    [Legendary]:        Progress for shapez: 45.2%/112.70MiB/00:00:01 Down: 12.94MiB/s / Disk: 10.99MiB/s
+(10:16:40) INFO:    [Legendary]:        Progress for shapez: 50.8%/126.66MiB/00:00:01 Down: 13.95MiB/s / Disk: 12.99MiB/s
+(10:16:41) INFO:    [Legendary]:        Progress for shapez: 55.84%/139.24MiB/00:00:01 Down: 0MiB/s / Disk: 0MiB/s
+(10:16:42) INFO:    [Legendary]:        Progress for shapez: 60.13%/149.94MiB/00:00:01 Down: 0MiB/s / Disk: 0MiB/s
+(10:16:43) INFO:    [Legendary]:        Progress for shapez: 65.59%/163.55MiB/00:00:01 Down: 13.6MiB/s / Disk: 22.98MiB/s
+(10:16:44) INFO:    [Legendary]:        Progress for shapez: 70.7%/176.29MiB/00:00:01 Down: 12.72MiB/s / Disk: 0MiB/s
+(10:16:45) INFO:    [Legendary]:        Progress for shapez: 76.15%/189.87MiB/00:00:01 Down: 0MiB/s / Disk: 0MiB/s
+(10:16:46) INFO:    [Legendary]:        Progress for shapez: 83.27%/207.63MiB/00:00:00 Down: 17.73MiB/s / Disk: 48.92MiB/s
+(10:16:47) INFO:    [Legendary]:        Progress for shapez: 87.92%/219.22MiB/00:00:00 Down: 0MiB/s / Disk: 0MiB/s
+(10:16:48) INFO:    [Legendary]:        Progress for shapez: 92.64%/231.00MiB/00:00:00 Down: 0MiB/s / Disk: 0MiB/s
+(10:16:49) INFO:    [Legendary]:        Progress for shapez: 99.03%/246.92MiB/00:00:00 Down: 15.9MiB/s / Disk: 0MiB/s
+(10:16:50) INFO:    [Legendary]:        Progress for shapez: 100%/249.34MiB/00:00:00 Down: 0MiB/s / Disk: 0MiB/s
+(10:16:51) INFO:    [Backend]:          Adding shortcuts for shapez
+(10:16:53) INFO:    [DownloadManager]:  Finished installing of e87a43f695bc409ca8858206678ac7e7
+(10:16:53) INFO:    [DownloadManager]:  e87a43f695bc409ca8858206678ac7e7 added to download manager finished.
+(10:16:53) INFO:    [DownloadManager]:  e87a43f695bc409ca8858206678ac7e7 removed from download manager.
+(10:16:53) INFO:    [Frontend]:         Refreshing Library
+(10:16:53) INFO:    [Legendary]:        Refreshing library...
+(10:16:53) INFO:    [Legendary]:        Game list updated, got 102 games & DLCs

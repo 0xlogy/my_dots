@@ -1,0 +1,148 @@
+I[16:19:15.968] clangd version 15.0.7
+I[16:19:15.969] Features: linux
+I[16:19:15.969] PID: 12236
+I[16:19:15.969] Working directory: /home/logy/Documents/td_parser
+I[16:19:15.969] argv[0]: /usr/bin/clangd
+I[16:19:15.969] Starting LSP over stdin/stdout
+I[16:19:15.969] <-- initialize(0)
+I[16:19:15.971] --> reply:initialize(0) 1 ms
+I[16:19:15.974] <-- initialized
+I[16:19:15.984] <-- textDocument/didOpen
+I[16:19:15.985] Failed to find compilation database for /home/logy/Documents/td_parser/my_parser.c
+I[16:19:15.985] ASTWorker building file /home/logy/Documents/td_parser/my_parser.c version 1 with command clangd fallback
+[/home/logy/Documents/td_parser]
+/usr/bin/clang -resource-dir=/usr/lib/clang/15.0.7 -- /home/logy/Documents/td_parser/my_parser.c
+I[16:19:15.986] --> textDocument/clangd.fileStatus
+I[16:19:16.013] <-- textDocument/documentSymbol(1)
+I[16:19:16.014] <-- textDocument/codeAction(2)
+I[16:19:16.016] <-- textDocument/documentLink(3)
+I[16:19:16.016] <-- textDocument/inlayHint(4)
+I[16:19:16.024] --> workspace/semanticTokens/refresh(0)
+I[16:19:16.024] --> textDocument/clangd.fileStatus
+I[16:19:16.027] <-- reply(0)
+I[16:19:16.035] --> textDocument/publishDiagnostics
+I[16:19:16.036] --> reply:textDocument/documentSymbol(1) 22 ms
+I[16:19:16.037] --> reply:textDocument/codeAction(2) 23 ms
+I[16:19:16.037] --> reply:textDocument/documentLink(3) 20 ms
+I[16:19:16.037] --> reply:textDocument/inlayHint(4) 20 ms
+I[16:19:16.037] --> textDocument/clangd.fileStatus
+I[16:19:16.295] <-- textDocument/codeAction(5)
+I[16:19:16.295] --> reply:textDocument/codeAction(5) 0 ms
+I[16:19:16.295] --> textDocument/clangd.fileStatus
+I[16:19:16.954] <-- textDocument/hover(6)
+I[16:19:16.954] --> reply:textDocument/hover(6) 0 ms
+I[16:19:16.954] --> textDocument/clangd.fileStatus
+I[16:19:19.645] <-- textDocument/inlayHint(7)
+I[16:19:19.645] --> reply:textDocument/inlayHint(7) 0 ms
+I[16:19:19.646] --> textDocument/clangd.fileStatus
+I[16:19:20.381] <-- textDocument/inlayHint(8)
+I[16:19:20.381] --> reply:textDocument/inlayHint(8) 0 ms
+I[16:19:20.381] --> textDocument/clangd.fileStatus
+I[16:19:21.065] <-- textDocument/inlayHint(9)
+I[16:19:21.066] --> reply:textDocument/inlayHint(9) 0 ms
+I[16:19:21.066] --> textDocument/clangd.fileStatus
+I[16:19:21.649] <-- textDocument/inlayHint(10)
+I[16:19:21.649] --> reply:textDocument/inlayHint(10) 0 ms
+I[16:19:21.649] --> textDocument/clangd.fileStatus
+I[16:19:22.951] <-- textDocument/inlayHint(11)
+I[16:19:22.951] --> reply:textDocument/inlayHint(11) 0 ms
+I[16:19:22.951] --> textDocument/clangd.fileStatus
+I[16:19:23.383] <-- textDocument/inlayHint(12)
+I[16:19:23.383] --> reply:textDocument/inlayHint(12) 0 ms
+I[16:19:23.384] --> textDocument/clangd.fileStatus
+I[16:19:25.169] <-- textDocument/inlayHint(13)
+I[16:19:25.170] --> reply:textDocument/inlayHint(13) 0 ms
+I[16:19:25.170] --> textDocument/clangd.fileStatus
+I[16:19:26.786] <-- textDocument/inlayHint(14)
+I[16:19:26.786] --> reply:textDocument/inlayHint(14) 0 ms
+I[16:19:26.786] --> textDocument/clangd.fileStatus
+I[16:19:27.853] <-- textDocument/inlayHint(15)
+I[16:19:27.854] --> reply:textDocument/inlayHint(15) 0 ms
+I[16:19:27.854] --> textDocument/clangd.fileStatus
+I[16:19:28.354] <-- textDocument/inlayHint(16)
+I[16:19:28.354] --> reply:textDocument/inlayHint(16) 0 ms
+I[16:19:28.354] --> textDocument/clangd.fileStatus
+I[16:19:28.738] <-- textDocument/inlayHint(17)
+I[16:19:28.739] --> reply:textDocument/inlayHint(17) 0 ms
+I[16:19:28.739] --> textDocument/clangd.fileStatus
+I[16:19:29.255] <-- textDocument/inlayHint(18)
+I[16:19:29.255] --> reply:textDocument/inlayHint(18) 0 ms
+I[16:19:29.255] --> textDocument/clangd.fileStatus
+I[16:19:29.288] <-- textDocument/inlayHint(19)
+I[16:19:29.288] --> reply:textDocument/inlayHint(19) 0 ms
+I[16:19:29.288] --> textDocument/clangd.fileStatus
+I[16:19:29.346] <-- textDocument/inlayHint(20)
+I[16:19:29.346] --> reply:textDocument/inlayHint(20) 0 ms
+I[16:19:29.346] --> textDocument/clangd.fileStatus
+I[16:19:29.839] <-- textDocument/inlayHint(21)
+I[16:19:29.840] --> reply:textDocument/inlayHint(21) 0 ms
+I[16:19:29.840] --> textDocument/clangd.fileStatus
+I[16:24:38.077] <-- textDocument/didChange
+I[16:24:38.078] --> textDocument/clangd.fileStatus
+I[16:24:38.128] Failed to find compilation database for /home/logy/Documents/td_parser/my_parser.c
+I[16:24:38.128] ASTWorker building file /home/logy/Documents/td_parser/my_parser.c version 2 with command clangd fallback
+[/home/logy/Documents/td_parser]
+/usr/bin/clang -resource-dir=/usr/lib/clang/15.0.7 -- /home/logy/Documents/td_parser/my_parser.c
+I[16:24:38.130] --> textDocument/clangd.fileStatus
+I[16:24:38.130] --> textDocument/clangd.fileStatus
+I[16:24:38.131] --> textDocument/clangd.fileStatus
+I[16:24:38.143] --> textDocument/publishDiagnostics
+I[16:24:38.143] --> textDocument/clangd.fileStatus
+I[16:24:38.406] <-- textDocument/codeAction(22)
+I[16:24:38.406] --> reply:textDocument/codeAction(22) 0 ms
+I[16:24:38.406] --> textDocument/clangd.fileStatus
+I[16:24:38.415] <-- textDocument/documentSymbol(23)
+I[16:24:38.415] --> reply:textDocument/documentSymbol(23) 0 ms
+I[16:24:38.415] --> textDocument/clangd.fileStatus
+I[16:24:39.069] <-- textDocument/documentLink(24)
+I[16:24:39.069] --> reply:textDocument/documentLink(24) 0 ms
+I[16:24:39.069] --> textDocument/clangd.fileStatus
+I[16:24:39.318] <-- textDocument/inlayHint(25)
+I[16:24:39.319] --> reply:textDocument/inlayHint(25) 0 ms
+I[16:24:39.319] --> textDocument/clangd.fileStatus
+I[16:24:55.637] <-- textDocument/didChange
+I[16:24:55.637] --> textDocument/clangd.fileStatus
+I[16:24:55.687] Failed to find compilation database for /home/logy/Documents/td_parser/my_parser.c
+I[16:24:55.688] ASTWorker building file /home/logy/Documents/td_parser/my_parser.c version 3 with command clangd fallback
+[/home/logy/Documents/td_parser]
+/usr/bin/clang -resource-dir=/usr/lib/clang/15.0.7 -- /home/logy/Documents/td_parser/my_parser.c
+I[16:24:55.689] --> textDocument/clangd.fileStatus
+I[16:24:55.689] --> textDocument/clangd.fileStatus
+I[16:24:55.689] --> textDocument/clangd.fileStatus
+I[16:24:55.695] --> textDocument/publishDiagnostics
+I[16:24:55.696] --> textDocument/clangd.fileStatus
+I[16:24:55.952] <-- textDocument/codeAction(26)
+I[16:24:55.953] --> reply:textDocument/codeAction(26) 0 ms
+I[16:24:55.953] --> textDocument/clangd.fileStatus
+I[16:24:55.983] <-- textDocument/documentSymbol(27)
+I[16:24:55.984] --> reply:textDocument/documentSymbol(27) 0 ms
+I[16:24:55.985] --> textDocument/clangd.fileStatus
+I[16:24:56.634] <-- textDocument/documentLink(28)
+I[16:24:56.634] --> reply:textDocument/documentLink(28) 0 ms
+I[16:24:56.634] --> textDocument/clangd.fileStatus
+I[16:24:56.883] <-- textDocument/inlayHint(29)
+I[16:24:56.884] --> reply:textDocument/inlayHint(29) 0 ms
+I[16:24:56.884] --> textDocument/clangd.fileStatus
+I[16:25:07.326] <-- textDocument/didChange
+I[16:25:07.326] --> textDocument/clangd.fileStatus
+I[16:25:07.377] Failed to find compilation database for /home/logy/Documents/td_parser/my_parser.c
+I[16:25:07.377] ASTWorker building file /home/logy/Documents/td_parser/my_parser.c version 4 with command clangd fallback
+[/home/logy/Documents/td_parser]
+/usr/bin/clang -resource-dir=/usr/lib/clang/15.0.7 -- /home/logy/Documents/td_parser/my_parser.c
+I[16:25:07.378] --> textDocument/clangd.fileStatus
+I[16:25:07.378] --> textDocument/clangd.fileStatus
+I[16:25:07.378] --> textDocument/clangd.fileStatus
+I[16:25:07.387] --> textDocument/publishDiagnostics
+I[16:25:07.387] --> textDocument/clangd.fileStatus
+I[16:25:07.644] <-- textDocument/codeAction(30)
+I[16:25:07.644] --> reply:textDocument/codeAction(30) 0 ms
+I[16:25:07.645] --> textDocument/clangd.fileStatus
+I[16:25:07.672] <-- textDocument/documentSymbol(31)
+I[16:25:07.673] --> reply:textDocument/documentSymbol(31) 0 ms
+I[16:25:07.673] --> textDocument/clangd.fileStatus
+I[16:25:08.323] <-- textDocument/documentLink(32)
+I[16:25:08.323] --> reply:textDocument/documentLink(32) 0 ms
+I[16:25:08.323] --> textDocument/clangd.fileStatus
+I[16:25:08.574] <-- textDocument/inlayHint(33)
+I[16:25:08.574] --> reply:textDocument/inlayHint(33) 0 ms
+I[16:25:08.575] --> textDocument/clangd.fileStatus

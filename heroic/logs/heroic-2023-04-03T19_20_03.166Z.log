@@ -1,0 +1,51 @@
+(21:20:03) INFO:    [Connection]:       Connectivity: check-online
+(21:20:03) INFO:    [Connection]:       Pinging external endpoints
+(21:20:03) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(21:20:03) INFO:    [Legendary]:        Legendary location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(21:20:03) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(21:20:03) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(21:20:03) WARNING: [Backend]:          Protocol already registered.
+(21:20:03) INFO:    [Gog]:              Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+(21:20:03) INFO:    [Connection]:       Connectivity: online
+(21:20:03) INFO:    [Backend]:          User Not Found, removing it from Store
+(21:20:03) INFO:    [Gog]:              Getting data about the user
+(21:20:03) INFO:    [Gog]:              Refreshing access_token
+(21:20:03) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(21:20:03) INFO:    [Backend]:          Loading Screen Ready
+(21:20:03) INFO:    [Frontend]:         Refreshing Library
+(21:20:03) INFO:    [Legendary]:        Refreshing library...
+(21:20:03) INFO:    [Gog]:              Refreshing access_token
+(21:20:03) INFO:    [Backend]:          Frontend Ready
+(21:20:03) INFO:    [Backend]:          Checking for new Heroic Updates
+(21:20:04) INFO:    [Backend]:          Checking for current version changelog
+(21:20:04) INFO:    [Gog]:              Token refreshed successfully
+(21:20:04) INFO:    [Gog]:              Token refreshed successfully
+(21:20:04) INFO:    [Gog]:              Getting GOG library
+(21:20:04) INFO:    [Backend]:          
+
+Heroic Version: 2.6.2 Trafalgar Law
+Legendary Version:  0.20.32 Dark Energy (hotfix #6)
+GOGdl Version: 0.6
+
+Electron Version: 22.2.0
+Chrome Version: 108.0.5359.215
+NodeJS Version: 16.17.1
+
+OS: ManjaroLinux KERNEL: 5.15.104-2-MANJARO ARCH: x64
+CPU: Intel Gen Intel® Core™ i7-1195G7 @2.9 GOVERNOR: powersave
+RAM: Total: 15.34 GiB Available: 8.11 GiB
+GRAPHICS: GPU0: TigerLake-LP GT2 [Iris Xe Graphics]  VRAM: 256MB  
+PROTOCOL: x11
+
+(21:20:04) INFO:    [Gog]:              Number of library pages: 1
+(21:20:05) INFO:    [Gog]:              Saved user data to config
+(21:20:05) INFO:    [Gog]:              Saved games data
+(21:20:05) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(21:20:05) INFO:    [Legendary]:        Refreshing library...
+(21:20:05) INFO:    [Winetricks]:       Downloading Winetricks
+(21:20:05) INFO:    [DXVKInstaller]:    Updating vkd3d to: vkd3d-proton-2.8-git
+(21:20:06) INFO:    [Gog]:              Found 1 game(s) to update
+(21:20:06) INFO:    [DXVKInstaller]:    downloaded vkd3d
+(21:20:06) INFO:    [DXVKInstaller]:    extracting vkd3d
+(21:20:06) INFO:    [DXVKInstaller]:    vkd3d updated!
+(21:20:08) INFO:    [Backend]:          Starting the Download Queue

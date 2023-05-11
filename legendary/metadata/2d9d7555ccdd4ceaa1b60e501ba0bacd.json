@@ -1,0 +1,252 @@
+{
+  "app_name": "2d9d7555ccdd4ceaa1b60e501ba0bacd",
+  "app_title": "Them's Fightin' Herds",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2d9d7555ccdd4ceaa1b60e501ba0bacd",
+      "asset_id": "2d9d7555ccdd4ceaa1b60e501ba0bacd",
+      "build_version": "1680036237",
+      "catalog_item_id": "d74fb2e8ae09432db115612e1bde5655",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a567c32599bf4d4fb609e424f3691b39"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567VMvztBV67cAVZVRJaOz125dA",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-09-30T19:02:53.101Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ThemsFightinHerds"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Them's Fightin' Herds",
+    "developer": "Maximum Games",
+    "developerId": "o-awmpgf6ydj3bnkdtza83f25d5xcr2n",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-30T21:04:18.792Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Character 4",
+        "developer": "Maximum Games",
+        "developerId": "o-awmpgf6ydj3bnkdtza83f25d5xcr2n",
+        "endOfSupport": false,
+        "entitlementName": "e502790994bc4fdd935e636d32da610c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e502790994bc4fdd935e636d32da610c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-12-19T15:29:21.493Z",
+        "mainGameItem": {
+          "id": "d74fb2e8ae09432db115612e1bde5655",
+          "namespace": "a567c32599bf4d4fb609e424f3691b39",
+          "unsearchable": false
+        },
+        "namespace": "a567c32599bf4d4fb609e424f3691b39",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Character 4",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-30T21:04:09.623Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Stronghoof",
+        "developer": "Maximum Games",
+        "developerId": "o-awmpgf6ydj3bnkdtza83f25d5xcr2n",
+        "endOfSupport": false,
+        "entitlementName": "7201748bc3c24df18a25ecb4efb5be3b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7201748bc3c24df18a25ecb4efb5be3b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-12-19T15:29:21.477Z",
+        "mainGameItem": {
+          "id": "d74fb2e8ae09432db115612e1bde5655",
+          "namespace": "a567c32599bf4d4fb609e424f3691b39",
+          "unsearchable": false
+        },
+        "namespace": "a567c32599bf4d4fb609e424f3691b39",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Stronghoof",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-30T21:04:05.141Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Texas",
+        "developer": "Maximum Games",
+        "developerId": "o-awmpgf6ydj3bnkdtza83f25d5xcr2n",
+        "endOfSupport": false,
+        "entitlementName": "1f930918f1094048987ad592f93233ab",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1f930918f1094048987ad592f93233ab",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-12-19T15:29:21.471Z",
+        "mainGameItem": {
+          "id": "d74fb2e8ae09432db115612e1bde5655",
+          "namespace": "a567c32599bf4d4fb609e424f3691b39",
+          "unsearchable": false
+        },
+        "namespace": "a567c32599bf4d4fb609e424f3691b39",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Texas",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-30T21:04:15.302Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Character 3",
+        "developer": "Maximum Games",
+        "developerId": "o-awmpgf6ydj3bnkdtza83f25d5xcr2n",
+        "endOfSupport": false,
+        "entitlementName": "590ebd707a2b4fc2909f22e57055d63c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "590ebd707a2b4fc2909f22e57055d63c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-12-19T15:29:21.475Z",
+        "mainGameItem": {
+          "id": "d74fb2e8ae09432db115612e1bde5655",
+          "namespace": "a567c32599bf4d4fb609e424f3691b39",
+          "unsearchable": false
+        },
+        "namespace": "a567c32599bf4d4fb609e424f3691b39",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Character 3",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "d74fb2e8ae09432db115612e1bde5655",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "d74fb2e8ae09432db115612e1bde5655",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "da3a940faafe30c602d3966d2c295825",
+        "size": 498822,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-12-19T15:33:20.691Z",
+        "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S1_2560x1440-da3a940faafe30c602d3966d2c295825",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "9793ee024c43026c5c2b1612c7a487d0",
+        "size": 489170,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-12-19T15:33:26.837Z",
+        "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S2_1200x1600-9793ee024c43026c5c2b1612c7a487d0",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-12-19T15:46:10.549Z",
+    "namespace": "a567c32599bf4d4fb609e424f3691b39",
+    "releaseInfo": [
+      {
+        "appId": "2d9d7555ccdd4ceaa1b60e501ba0bacd",
+        "compatibleApps": [],
+        "dateAdded": "2022-09-30T20:28:58.405Z",
+        "id": "4f43fbfc914544fe88c356a705c5a111",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Them's Fightin' Herds",
+    "unsearchable": true
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "app_name": "806f3b7734764e2498962ce7b55c0dda",
+  "app_title": "LEGO\u00ae Builder's Journey",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "806f3b7734764e2498962ce7b55c0dda",
+      "asset_id": "806f3b7734764e2498962ce7b55c0dda",
+      "build_version": "617",
+      "catalog_item_id": "4c35cfd4b3c4487386a524867864481c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ea533c2d54754167a9392a2ffa61bb87"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567lvnSBOGj5hw4rZXeKNqzGsm0",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-05-05T13:31:54.628Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Temp/LEGO System A_S/Builder's Journey/datastorage/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "LEGOBuildersJourney"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ea533c2d54754167a9392a2ffa61bb87"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "LEGO\u00ae Builder's Journey",
+    "developer": "LEGO System A/S",
+    "developerId": "o-34ta7m8etxb4dkxp9xg24l8u4nwqm2",
+    "endOfSupport": false,
+    "entitlementName": "4c35cfd4b3c4487386a524867864481c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "4c35cfd4b3c4487386a524867864481c",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "6ae618ef78b4fe194f6f349a4fae9101",
+        "size": 1000993,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-21T19:59:57.336Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LEGOBuildersJourney_LightBrickStudio_S1_2560x1440-6ae618ef78b4fe194f6f349a4fae9101",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "dad6f4682babb9ffc39ca8c586e22ea1",
+        "size": 793022,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-21T19:59:59.747Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LEGOBuildersJourney_LightBrickStudio_S2_1200x1600-dad6f4682babb9ffc39ca8c586e22ea1",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-11-09T22:17:55.080Z",
+    "namespace": "ea533c2d54754167a9392a2ffa61bb87",
+    "releaseInfo": [
+      {
+        "appId": "806f3b7734764e2498962ce7b55c0dda",
+        "id": "b40039e792be4b1db0415d4a58267147",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "LEGO\u00ae Builder's Journey",
+    "unsearchable": true
+  }
+}

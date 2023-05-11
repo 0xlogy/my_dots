@@ -1,0 +1,35 @@
+I[10:15:48.664] clangd version 15.0.7
+I[10:15:48.664] Features: linux
+I[10:15:48.664] PID: 2809
+I[10:15:48.664] Working directory: /home/logy/Documents/td_parser
+I[10:15:48.664] argv[0]: /usr/bin/clangd
+I[10:15:48.664] Starting LSP over stdin/stdout
+I[10:15:48.665] <-- initialize(0)
+I[10:15:48.668] --> reply:initialize(0) 3 ms
+I[10:15:48.778] <-- initialized
+I[10:15:48.803] <-- textDocument/didOpen
+I[10:15:48.807] <-- textDocument/documentLink(1)
+I[10:15:48.807] <-- textDocument/inlayHint(2)
+I[10:15:48.807] <-- textDocument/codeAction(3)
+I[10:15:48.807] Failed to find compilation database for /home/logy/Documents/td_parser/my_parser.c
+I[10:15:48.807] ASTWorker building file /home/logy/Documents/td_parser/my_parser.c version 1 with command clangd fallback
+[/home/logy/Documents/td_parser]
+/usr/bin/clang -resource-dir=/usr/lib/clang/15.0.7 -- /home/logy/Documents/td_parser/my_parser.c
+I[10:15:48.819] --> textDocument/clangd.fileStatus
+I[10:15:48.848] <-- $/cancelRequest
+I[10:15:48.848] <-- textDocument/documentLink(4)
+I[10:15:48.860] --> workspace/semanticTokens/refresh(0)
+I[10:15:48.862] <-- reply(0)
+I[10:15:48.867] --> textDocument/publishDiagnostics
+I[10:15:48.867] --> reply:textDocument/documentLink(1) 60 ms, error: Task was cancelled.
+I[10:15:48.868] --> reply:textDocument/inlayHint(2) 60 ms
+I[10:15:48.868] --> reply:textDocument/codeAction(3) 61 ms
+I[10:15:48.868] --> reply:textDocument/documentLink(4) 19 ms
+I[10:15:48.868] --> textDocument/clangd.fileStatus
+[Error - 10:15:48] Request textDocument/documentLink failed.
+[object Object]
+I[10:15:50.029] <-- textDocument/documentSymbol(5)
+I[10:15:50.029] <-- textDocument/codeAction(6)
+I[10:15:50.029] --> reply:textDocument/documentSymbol(5) 0 ms
+I[10:15:50.030] --> reply:textDocument/codeAction(6) 0 ms
+I[10:15:50.030] --> textDocument/clangd.fileStatus

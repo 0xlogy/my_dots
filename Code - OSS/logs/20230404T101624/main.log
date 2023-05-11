@@ -1,0 +1,6 @@
+2023-04-04 10:16:24.341 [info] update#ctor - updates are disabled as there is no update URL
+2023-04-04 10:16:25.229 [info] Starting extension host with pid 3007 (fork() took 9 ms).
+2023-04-04 10:16:41.616 [info] Starting extension host with pid 3150 (fork() took 5 ms).
+2023-04-04 10:16:42.566 [info] Extension host with pid 3007 exited with code: 0, signal: null.
+2023-04-04 10:20:54.894 [info] Waiting for extension host with pid 3150 to exit.
+2023-04-04 10:20:54.908 [info] Extension host with pid 3150 exited with code: 0, signal: null.

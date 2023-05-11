@@ -1,0 +1,1 @@
+window.waxFetchData=function(){const e={};var n,t=document.getElementById("M_content_PCDZ_MF3KFEF_ctl00_Password");let a={};for(n of document.querySelectorAll("label"))if("User ID"===n.innerText){var o=n.nextElementSibling||{};if("DIV"===o.tagName){a=o;break}}return e[SymWax.constants.loginType.USERNAME]=a.innerText,e[SymWax.constants.loginType.PASSWORD]=t.value,e};

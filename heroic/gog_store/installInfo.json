@@ -1,0 +1,78 @@
+{
+	"1682649193_windows": {
+		"game": {
+			"app_name": "1682649193",
+			"title": "One Dreamer",
+			"owned_dlc": [],
+			"version": "1.0.7",
+			"launch_options": [],
+			"buildId": "55826129038479465"
+		},
+		"manifest": {
+			"disk_size": 1271865300,
+			"download_size": 620095128,
+			"app_name": "1682649193",
+			"languages": [
+				"en-US"
+			],
+			"versionEtag": "\"1276571477\""
+		}
+	},
+	"2070729622_windows": {
+		"game": {
+			"app_name": "2070729622",
+			"title": "EXAPUNKS",
+			"owned_dlc": [],
+			"version": "gog-11.14.2020",
+			"launch_options": [],
+			"buildId": "53918752670930835"
+		},
+		"manifest": {
+			"disk_size": 735652836,
+			"download_size": 596846213,
+			"app_name": "2070729622",
+			"languages": [
+				"en-US"
+			],
+			"versionEtag": "\"2205082979\""
+		}
+	},
+	"2049187585_windows": {
+		"game": {
+			"app_name": "2049187585",
+			"title": "Control Ultimate Edition",
+			"owned_dlc": [],
+			"version": "Update 2",
+			"launch_options": [],
+			"buildId": "53719897926016097"
+		},
+		"manifest": {
+			"disk_size": 46002178545,
+			"download_size": 27950274323,
+			"app_name": "2049187585",
+			"languages": [
+				"en-US"
+			],
+			"versionEtag": "\"2647227755\""
+		}
+	},
+	"2147483047_windows": {
+		"game": {
+			"app_name": "2147483047",
+			"title": "Moonlighter",
+			"owned_dlc": [],
+			"version": "1.14.37",
+			"launch_options": [],
+			"buildId": "54510200549578525"
+		},
+		"manifest": {
+			"disk_size": 1379721833,
+			"download_size": 698719305,
+			"app_name": "2147483047",
+			"languages": [
+				"en-US"
+			],
+			"versionEtag": "\"1741561887\""
+		}
+	}
+}

@@ -1,0 +1,4 @@
+2023-04-04 10:16:25.863 [info] Starting worker process with pid 3059 (type: fileWatcher, window: 1).
+2023-04-04 10:16:26.182 [info] Deleted from disk danielpinto8zz6.c-cpp-project-generator /home/logy/.vscode-oss/extensions/danielpinto8zz6.c-cpp-project-generator-1.2.10-universal
+2023-04-04 10:16:41.607 [info] Starting worker process with pid 3149 (type: fileWatcher, window: 3).
+2023-04-04 10:16:42.550 [info] Worker process with pid 3059 terminated normally (type: fileWatcher, window: 1).

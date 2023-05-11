@@ -1,0 +1,67 @@
+[06/04/2023 00:32:03] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+0.6
+[06/04/2023 00:32:09] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl update 2070729622 --platform linux --path=/home/logy/Games/Heroic/EXAPUNKS --token <redacted> --skip-dlcs --lang=en
+[API] INFO: Getting info from products endpoint for id: 2070729622
+[LINUX] INFO: Getting folder name from windows manifest
+[LINUX] INFO: Getting downlad info
+[API] INFO: Getting info from products endpoint for id: 2070729622
+[PROGRESS] INFO: = Progress: 0.00 0/552817851, Running for: 00:00:00, ETA: 00:00:00
+[PROGRESS] INFO: = Downloaded: 0.00 MiB, Written: 0.00 MiB
+[PROGRESS] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 0.00 MiB/s (write) / 0.00 MiB/s (read)
+[PROGRESS] INFO: = Progress: 0.00 60817408/552817851, Running for: 00:00:01, ETA: 00:00:00
+[PROGRESS] INFO: = Downloaded: 58.00 MiB, Written: 58.00 MiB
+[PROGRESS] INFO:  + Download	- 57.93 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 57.93 MiB/s (write) / 0.00 MiB/s (read)
+[PROGRESS] INFO: = Progress: 11.00 123731968/552817851, Running for: 00:00:02, ETA: 00:00:16
+[PROGRESS] INFO: = Downloaded: 118.00 MiB, Written: 118.00 MiB
+[PROGRESS] INFO:  + Download	- 59.94 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 59.94 MiB/s (write) / 0.00 MiB/s (read)
+[PROGRESS] INFO: = Progress: 22.38 191889408/552817851, Running for: 00:00:03, ETA: 00:00:10
+[PROGRESS] INFO: = Downloaded: 183.00 MiB, Written: 183.00 MiB
+[PROGRESS] INFO:  + Download	- 64.93 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 64.93 MiB/s (write) / 0.00 MiB/s (read)
+[PROGRESS] INFO: = Progress: 34.71 258998272/552817851, Running for: 00:00:04, ETA: 00:00:07
+[PROGRESS] INFO: = Downloaded: 247.00 MiB, Written: 247.00 MiB
+[PROGRESS] INFO:  + Download	- 63.93 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 63.93 MiB/s (write) / 0.00 MiB/s (read)
+[PROGRESS] INFO: = Progress: 46.85 310378496/552817851, Running for: 00:00:05, ETA: 00:00:05
+[PROGRESS] INFO: = Downloaded: 296.00 MiB, Written: 296.00 MiB
+[PROGRESS] INFO:  + Download	- 48.95 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 48.95 MiB/s (write) / 0.00 MiB/s (read)
+[PROGRESS] INFO: = Progress: 56.14 373293056/552817851, Running for: 00:00:06, ETA: 00:00:04
+[PROGRESS] INFO: = Downloaded: 356.00 MiB, Written: 356.00 MiB
+[PROGRESS] INFO:  + Download	- 59.96 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 59.96 MiB/s (write) / 0.00 MiB/s (read)
+[PROGRESS] INFO: = Progress: 67.53 440401920/552817851, Running for: 00:00:07, ETA: 00:00:03
+[PROGRESS] INFO: = Downloaded: 420.00 MiB, Written: 420.00 MiB
+[PROGRESS] INFO:  + Download	- 63.93 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 63.93 MiB/s (write) / 0.00 MiB/s (read)
+[PROGRESS] INFO: = Progress: 79.66 503316480/552817851, Running for: 00:00:08, ETA: 00:00:02
+[PROGRESS] INFO: = Downloaded: 480.00 MiB, Written: 480.00 MiB
+[PROGRESS] INFO:  + Download	- 59.93 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 59.93 MiB/s (write) / 0.00 MiB/s (read)
+[PROGRESS] INFO: = Progress: 91.05 519045120/552817851, Running for: 00:00:09, ETA: 00:00:00
+[PROGRESS] INFO: = Downloaded: 495.00 MiB, Written: 495.00 MiB
+[PROGRESS] INFO:  + Download	- 14.98 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 14.98 MiB/s (write) / 0.00 MiB/s (read)
+[LINUX] INFO: Checking available disk space
+warning [/home/logy/.cache/heroicGOGdl/exapunks_gog_26_03_2023_63466.s]:  827894 extra bytes at beginning or within zipfile
+  (attempting to process anyway)
+[LINUX] INFO: Looks fine continuing
+[LINUX] INFO: Unpacking game files
+[LINUX] INFO: Unpacking installer using unzip
+warning [/home/logy/.cache/heroicGOGdl/exapunks_gog_26_03_2023_63466.s]:  827894 extra bytes at beginning or within zipfile
+  (attempting to process anyway)
+[LINUX] INFO: Moving game files
+[LINUX] INFO: Cleaning up
+[LINUX] INFO: Done
+[06/04/2023 00:32:31] LD_PRELOAD= /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl launch /home/logy/Games/Heroic/EXAPUNKS 2070729622 --platform linux
+Running EXAPUNKS
+/usr/bin/xdg-open : ligne 756 :  4234 Erreur de segmentation  env "$command" "$@"
+/usr/bin/xdg-open: ligne 880: x-www-browser : commande introuvable
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.

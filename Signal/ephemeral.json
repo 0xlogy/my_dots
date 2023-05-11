@@ -1,0 +1,13 @@
+{
+  "theme-setting": "system",
+  "spell-check": true,
+  "window": {
+    "maximized": false,
+    "autoHideMenuBar": false,
+    "fullscreen": false,
+    "width": 1850,
+    "height": 1104,
+    "x": 35,
+    "y": 61
+  }
+}

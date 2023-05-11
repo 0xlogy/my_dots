@@ -1,0 +1,653 @@
+2023-02-26 16:11:19.025 [info] Extension host with pid 10646 started
+2023-02-26 16:11:19.149 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-26 16:11:19.150 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-26 16:11:19.198 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-02-26 16:11:19.198 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-26 16:11:19.343 [info] Eager extensions activated
+2023-02-26 16:11:19.382 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-26 16:11:19.382 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-26 16:11:48.609 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2023-02-26 16:11:50.813 [info] ExtensionService#_doActivateExtension franneck94.vscode-c-cpp-config, startup: false, activationEvent: 'onStartupFinished'
+2023-02-26 16:13:12.886 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-02-26 16:13:12.887 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-02-26 16:13:12.887 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-02-26 16:14:50.424 [info] ExtensionService#_doActivateExtension auiworks.amvim, startup: false, activationEvent: '*'
+2023-02-26 16:19:04.426 [info] Extension host terminating: received terminate message from renderer
+2023-02-26 16:19:04.444 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at P.clearInputs (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55324)
+	at P.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55227)
+	at P.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:63000)
+	at P.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55277)
+	at /home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41911
+	at Array.forEach (<anonymous>)
+	at t.Dispatcher.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41884)
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:19:04.445 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at b.clearInputs (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55324)
+	at b.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55227)
+	at b.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55277)
+	at /home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41911
+	at Array.forEach (<anonymous>)
+	at t.Dispatcher.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41884)
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:19:04.445 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at x.clearInputs (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55324)
+	at x.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55227)
+	at x.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55277)
+	at /home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41911
+	at Array.forEach (<anonymous>)
+	at t.Dispatcher.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41884)
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:19:04.445 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at y.clearInputs (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55324)
+	at y.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55227)
+	at y.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:52067)
+	at y.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55277)
+	at /home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41911
+	at Array.forEach (<anonymous>)
+	at t.Dispatcher.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41884)
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:19:04.445 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at a.clearInputs (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55324)
+	at a.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55227)
+	at a.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:52067)
+	at a.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55277)
+	at /home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41911
+	at Array.forEach (<anonymous>)
+	at t.Dispatcher.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41884)
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:19:04.447 [info] Extension host with pid 10646 exiting with code 0
+2023-02-26 16:19:05.880 [info] Extension host with pid 12157 started
+2023-02-26 16:19:05.880 [info] Skipping acquiring lock for /home/logy/.config/Code - OSS/User/workspaceStorage/a6eaeaa0e69c4940f99ff4db66e7cdb3.
+2023-02-26 16:19:05.953 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-26 16:19:05.953 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-02-26 16:19:05.986 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-26 16:19:05.991 [info] Eager extensions activated
+2023-02-26 16:19:05.994 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-26 16:19:05.994 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-26 16:19:10.571 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-02-26 16:19:10.605 [info] ExtensionService#_doActivateExtension auiworks.amvim, startup: false, activationEvent: '*'
+2023-02-26 16:19:10.605 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished', root cause: franneck94.vscode-c-cpp-config
+2023-02-26 16:19:10.692 [info] ExtensionService#_doActivateExtension franneck94.vscode-c-cpp-config, startup: false, activationEvent: 'onStartupFinished'
+2023-02-26 16:19:10.707 [info] ExtensionService#_doActivateExtension franneck94.c-cpp-runner, startup: false, activationEvent: 'workspaceContains:*.h,*.c,*.hh,*.cc,*.hxx,*.cxx,*.hpp,*.cpp'
+2023-02-26 16:19:15.688 [info] ExtensionService#_doActivateExtension llvm-vs-code-extensions.vscode-clangd, startup: false, activationEvent: 'onLanguage:c'
+2023-02-26 16:32:23.592 [info] Extension host terminating: received terminate message from renderer
+2023-02-26 16:32:23.605 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at D (/usr/lib/code/extensions/git/dist/main.js:2:2055373)
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at Object.h [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:2070210)
+	at /usr/lib/code/extensions/git/dist/main.js:2:2074183
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/lib/code/extensions/git/dist/main.js:2:2074169)
+	at C.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at C.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at C.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:2057503)
+	at C.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:32:23.605 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at D (/usr/lib/code/extensions/git/dist/main.js:2:2055373)
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at Object.h [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:2070210)
+	at /usr/lib/code/extensions/git/dist/main.js:2:2074183
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/lib/code/extensions/git/dist/main.js:2:2074169)
+	at C.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at C.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at C.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:2057503)
+	at C.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:32:23.605 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at D (/usr/lib/code/extensions/git/dist/main.js:2:2055373)
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at Object.h [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:2070210)
+	at /usr/lib/code/extensions/git/dist/main.js:2:2074183
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/lib/code/extensions/git/dist/main.js:2:2074169)
+	at C.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at C.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at C.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:2057503)
+	at C.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:32:23.605 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at P.clearInputs (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55324)
+	at P.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55227)
+	at P.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:63000)
+	at P.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55277)
+	at /home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41911
+	at Array.forEach (<anonymous>)
+	at t.Dispatcher.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41884)
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:32:23.606 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at b.clearInputs (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55324)
+	at b.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55227)
+	at b.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55277)
+	at /home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41911
+	at Array.forEach (<anonymous>)
+	at t.Dispatcher.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41884)
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:32:23.606 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at x.clearInputs (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55324)
+	at x.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55227)
+	at x.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55277)
+	at /home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41911
+	at Array.forEach (<anonymous>)
+	at t.Dispatcher.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41884)
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:32:23.606 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at y.clearInputs (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55324)
+	at y.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55227)
+	at y.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:52067)
+	at y.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55277)
+	at /home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41911
+	at Array.forEach (<anonymous>)
+	at t.Dispatcher.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41884)
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:32:23.606 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at a.clearInputs (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55324)
+	at a.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55227)
+	at a.exit (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:52067)
+	at a.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:55277)
+	at /home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41911
+	at Array.forEach (<anonymous>)
+	at t.Dispatcher.dispose (/home/logy/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal/dist/extension.js:1:41884)
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:32:23.607 [error] Canceled: Canceled
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at setContextValue (/home/logy/.vscode-oss/extensions/franneck94.c-cpp-runner-4.3.1-universal/dist/main.js:5298:28)
+	at Object.deactivate (/home/logy/.vscode-oss/extensions/franneck94.c-cpp-runner-4.3.1-universal/dist/main.js:3379:39)
+	at f.X (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11042)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-02-26 16:32:23.607 [info] Extension host with pid 12157 exiting with code 0

@@ -1,0 +1,15 @@
+2023-04-04 10:15:48.303 [info] Starting worker process with pid 2785 (type: fileWatcher, window: 1).
+2023-04-04 10:15:52.973 [info] Getting Manifest... danielpinto8zz6.c-cpp-project-generator
+2023-04-04 10:15:52.976 [info] Getting Manifest... vadimcn.vscode-lldb
+2023-04-04 10:15:53.867 [info] Installing extension: danielpinto8zz6.c-cpp-project-generator
+2023-04-04 10:15:53.887 [info] Installing extension: vadimcn.vscode-lldb
+2023-04-04 10:15:54.506 [info] Extracted extension to /home/logy/.vscode-oss/extensions/.fd1e4ff8-1547-4a98-83e2-7a07e428acd8: vadimcn.vscode-lldb
+2023-04-04 10:15:54.510 [info] Renamed to /home/logy/.vscode-oss/extensions/vadimcn.vscode-lldb-1.9.0-universal
+2023-04-04 10:15:54.511 [info] Extracting extension completed. vadimcn.vscode-lldb
+2023-04-04 10:15:54.520 [info] Extension installed successfully: vadimcn.vscode-lldb
+2023-04-04 10:15:54.521 [info] Marked extension as uninstalled vadimcn.vscode-lldb-1.8.1
+2023-04-04 10:15:55.295 [info] Extracted extension to /home/logy/.vscode-oss/extensions/.a937d1a8-f4e8-4aa5-83c1-1881dfee7db4: danielpinto8zz6.c-cpp-project-generator
+2023-04-04 10:15:55.298 [info] Renamed to /home/logy/.vscode-oss/extensions/danielpinto8zz6.c-cpp-project-generator-1.2.11-universal
+2023-04-04 10:15:55.299 [info] Extracting extension completed. danielpinto8zz6.c-cpp-project-generator
+2023-04-04 10:15:55.306 [info] Extension installed successfully: danielpinto8zz6.c-cpp-project-generator
+2023-04-04 10:15:55.308 [info] Marked extension as uninstalled danielpinto8zz6.c-cpp-project-generator-1.2.10-universal

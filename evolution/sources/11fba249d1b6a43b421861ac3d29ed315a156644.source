@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=mel.kelly.maisonnave@gmail.com
+Enabled=true
+Parent=e2a30ce08eff0cb028809412e99ffbac949f465e
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=05a3b87b37fc43c97fe4cc6ee5e59e78d90b0bda
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=mel.kelly.maisonnave@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

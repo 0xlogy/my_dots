@@ -1,0 +1,1014 @@
+[07/04/2023 10:00:09] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+legendary version "0.20.32", codename "Dark Energy (hotfix #6)"
+[07/04/2023 10:02:33] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[07/04/2023 10:02:34] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[07/04/2023 10:02:34] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[07/04/2023 10:02:34] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[07/04/2023 10:02:34] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[07/04/2023 10:02:34] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[07/04/2023 10:02:34] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[07/04/2023 10:02:34] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[07/04/2023 10:02:34] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[07/04/2023 10:02:34] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[07/04/2023 10:02:34] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[cli] INFO: Successfully logged in as "Lyogen"
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[07/04/2023 10:02:35] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[07/04/2023 10:02:35] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[07/04/2023 10:02:35] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[07/04/2023 10:02:35] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[cli] INFO: Getting game list... (this may take a while)
+[cli] INFO: Getting game list... (this may take a while)
+[cli] INFO: Getting game list... (this may take a while)
+[07/04/2023 10:02:36] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[07/04/2023 10:02:36] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[Core] INFO: Fetching metadata for 101 app(s).
+[Core] INFO: Fetching metadata for 101 app(s).
+[Core] INFO: Fetching metadata for 101 app(s).
+[Core] INFO: Fetching metadata for 101 app(s).
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+[cli] INFO: Getting game list... (this may take a while)
+[Core] INFO: Fetching metadata for 101 app(s).
+[Core] INFO: Fetching metadata for 101 app(s).
+
+Available games:
+ * A Plague Tale: Innocence (App name: e0fa47ae79514345823bff209ae29451 | Version: EGS_1.08.4)
+ * Alien: Isolation (App name: 8935bb3e1420443a9789fe01758039a5 | Version: 1.0RC5.284847.51533)
+ * Assassins Creed Syndicate (App name: Albacore | Version: 1.54)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Aztez (App name: Grunt | Version: 1.2-aeeb6200374fc01a6a51c3006846a350febeb243.21-Win)
+ * BioShock 2 Remastered (App name: b22ce34b4ce0408c97a888554447479b | Version: 1.0.0_BN-138_CL-17677)
+ * BioShock Infinite: Complete Edition (App name: f9d6f0530ea140909f8e8a997a7532d7 | Version: 1.0.0_BN-314_CL-17899)
+ * BioShock Remastered (App name: bc2c95c6ff564a16b26644f1d3ac3c55 | Version: 1.0.0_BN-187_CL-17677)
+ * Borderlands 3 (App name: Catnip | Version: 1.0.23_CL_2860060_Borderlands_3)
+ * Celeste (App name: Salt | Version: 1.4.0.0-Windows)
+ * Cities Skylines (App name: bcbc03d8812a44c18f41cf7d5f849265 | Version: 1.16.1-f3)
+ * City of Gangsters (App name: 002b00085aeb49b1a3f3c42e3f918f2f | Version: 1.4.3.5)
+ * Control (App name: Calluna | Version: 01.13)
+ * Cris Tales (App name: e7d92786abe54fae9319c1ddb94ae271 | Version: 1.0.7)
+ * DAEMON X MACHINA (App name: f4f0d39fbb4640e0be62aa91d9eca87d | Version: 1.0.6)
+ * Dandara: Trials of Fear Edition (App name: c35b9699c4e24c56976b5bd8eceba464 | Version: 1.4.11-pc)
+ * Darksiders II Deathinitive Edition (App name: Hoki | Version: 1.0)
+ * Death Stranding (App name: Boga | Version: 2742586.206.1)
+ * Death Stranding Content (App name: 5bf67f3153364181b54cb9e40ca7fa82 | Version: 1.01)
+  + DEATH STRANDING DIGITAL SOUNDTRACK (App name: 84067e3ec8f149b2bbf2342d7a136065 | Version: 1.02)
+  + HD Wallpaper (App name: f8bf1e29bbef480a9b28115ad0d644a0 | Version: 1.02)
+  + SELECTIONS OF TITAN ART BOOK (App name: c311b22f878749449886949eeb588999 | Version: 1.01)
+ * Dishonored - Definitive Edition (App name: d2da64bd4c4e422da4b1a88041492a3a | Version: 1.6)
+ * Dishonored®: Death of the Outsider™ (App name: 2fb8273dcf6f41e4899c0c881e047053 | Version: 0.0.0.4)
+ * Divine Knockout (App name: 2a7875f5060d4381af355104773ca649 | Version: 927)
+ * Duskers (App name: 1e9c3a9a10c6463e9c065f371b8b42bf | Version: 1.205)
+ * Dying Light Enhanced Edition (App name: 04a54ed532ce4fbfbf8fd5833f60def0 | Version: DL_1.49.6f1)
+  + Dying Light The Bozak (App name: 71816b992ef04030b1c58af6b9845fe5 | Version: BOZ_1.49.6f1)
+  + Dying Light The Following (App name: f653266870894ee1acbb5250e3b04bd1 | Version: FOLL_1.49.6f1)
+ * Enter the Gungeon (App name: Garlic | Version: 2.1.9a)
+ * Eximius: Seize the Frontline (App name: 70f92598b33d42e290e411f07397aeee | Version: 1.2.1-10780-357)
+ * F.I.S.T.: Forged In Shadow Torch (App name: bf4808b3395b43fb80afbe6773e1661f | Version: 1.200.001)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_2925_3)
+ * Faster Than Light (App name: Blowfish | Version: 1.6.12.Windows)
+ * Filament (App name: 14a38161ad3c45adab18425415b5df3d | Version: 1.21)
+ * First Class Trouble (App name: 0c942b2c920149ff986af1ed93c92ddf | Version: 1.7.9.5-36062)
+ * For The King (App name: Discus | Version: 45)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-24.10-CL-24903530-Windows)
+ * Gamedec - Definitive Edition (App name: a01150ee6deb406c92dd2b2445186163 | Version: 20221128_1.7.1.r70100)
+ * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 67)
+ * Godfall (App name: Carp | Version: 5.1.23-prod-stable)
+ * Guild of Dungeoneering (App name: b8bdc716e79e461bbf161d99f842f29a | Version: 0.02)
+ * Hell is Others (App name: 0e70be0cea0446599acb4c26d2e925f9 | Version: 2.0.2-20230404_1421)
+ * HITMAN 3 (App name: Eider | Version: 6519315)
+  + Berlin (App name: a94eddb97c72495f95350ce8840642b9 | Version: 7)
+  + Carpathian Mountains (App name: 62af9e3ead7a49d59f12ae6196af8117 | Version: 7)
+  + Chongquing (App name: 445902ab2a7841a1a2ec9d536dc4d297 | Version: 7)
+  + Dartmoor (App name: fc97ef705954490ab4bf3d6773bce766 | Version: 7)
+  + Dubai (App name: f73a0557f7fc4ca08e3cb2c0e5dfb22b | Version: 7)
+  + Mendoza (App name: 1ed82fbb0d7f42db93646185e267677f | Version: 7)
+ * Hood Outlaws and Legends (App name: 098f5323a3994362b6c68503d8cf3d57 | Version: HoodStaging2022R14Client_Win64Epic_Shipping_1601377.zip_Live)
+ * In Sound Mind (App name: 29ee5d32f328471590b3bd3ac03ed7d0 | Version: 1.027)
+ * InnerSpace (App name: Almond | Version: 1.0.0c)
+ * Insurmountable (App name: 8b556e7471ac46eda46445d93fa2e73f | Version: 2.0.7.3)
+ * Iratus (App name: 82ab0adb6e0b41bea531fcbb0c43cfc7 | Version: 0.96010)
+ * Jotun Valhalla Edition (App name: Grouse | Version: 1.02)
+ * Just Die Already (App name: 06621054d7d24f44bf13e3c31c9ec05d | Version: 1.4.2)
+ * Kerbal Space Program (App name: a1e2ce30defe4a9187ebc14fc9d2bd8b | Version: KSP.1.12.5.en-us)
+ * KID A MNESIA EXHIBITION (App name: 33411619626243f1859d0b7fb5cc5405 | Version: 0.0333.012725)
+ * Killing Floor 2 (App name: Finch | Version: 484021-2023_03_01_04h58m30s)
+ * KillingFloor2Beta (App name: 3223ccf6ac9b4189bd4e144c047d33fb | Version: NOVERSION-2022_10_20_16h30m51s)
+ * Kingdom Come Deliverance (App name: Eel | Version: 1.9.6-404-504czj3)
+ * Kingdom New Lands (App name: cacao | Version: 1.2.8-r2121-Windows)
+ * LEGO® Builder's Journey (App name: 806f3b7734764e2498962ce7b55c0dda | Version: 617)
+ * Loop Hero (App name: f7a0ebb44f93430fb1c4388a395eba96 | Version: 11054)
+ * Mages of Mystralia (App name: 4b920bb4aebf4586a4f6d823817fe32d | Version: 1.0)
+ * Metro Last Light Redux (App name: Speedwell | Version: 0.1.0.0)
+ * Minit (App name: Petrel | Version: 0.1-staging-win32)
+ * Moving Out (App name: 8e29583ae4b44a21883038668f7e301e | Version: 11)
+ * Never Alone (Kisima Ingitchuna) (App name: f38de9fa4c6d43eabac080942cb394a1 | Version: NeverAlone-Win-1.2.8)
+ * Pikuniku (App name: 48619f5656da446abccb727b78cda644 | Version: Win64_1)
+ * PREY (App name: 52d88e9a6df248da913c8e99f1e4c526 | Version: 1.8)
+ * Rage 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Redout: Enhanced Edition (App name: 1be5efb848844b1dabf9d67f8017a7ae | Version: 85e552)
+ * Remnant: From the Ashes (App name: b4a0d2d15acb4db894a599b810297543 | Version: Remnant_Win64_Shipping_275957)
+ * Riverbond (App name: 087f062df2574091a67fe614a6ec15a4 | Version: 22)
+ * Rocket League® (App name: Sugar | Version: BC2_Update41+415510)
+ * Rogue Company (App name: Pewee | Version: 1698)
+ * Rogue Legacy (App name: 01f1e8046e9e433db190a611a0411579 | Version: 1.4.1e_0)
+ * Saints Row The Third Remastered (App name: Loon | Version: SRTTR_20211028_epic_14th_patch)
+ * Second Extinction™ (App name: 18a85afedeac4ea885b27fee3e0c81db | Version: 0.0.335)
+ * Shadow Tactics Blades of the Shogun (App name: a334978574a840d594c31521592925f3 | Version: 3.2.25.F.r4769a)
+ * shapez (App name: e87a43f695bc409ca8858206678ac7e7 | Version: 1.5.5)
+ * Spellbreak (App name: Newt | Version: release.15196-7866)
+ * Star Wars Squadrons (App name: bobcat | Version: None)
+  - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin bobcat" to activate and/or run the game.
+ * Steep (App name: Barracuda | Version: 1.00)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Surviving Mars (App name: Ovenbird | Version: 1.5_Fuglesang.1011166-Windows)
+ * Terraforming Mars (App name: 582c8940f499450d9033840efe5937a6 | Version: Windows_2.0000.3.12730)
+ * The First Tree (App name: cd98b47155654e1f9a9e84e60d0b49e4 | Version: 1.0.0.32)
+ * The Spectrum Retreat (App name: 7b8fb449c8d3404ba7eda9cd4da1401b | Version: 1.0rc)
+ * The Vanishing of Ethan Carter (App name: 9447b19ffb6a47e1a654b75178779a28 | Version: 1.00)
+ * The Vanishing of Ethan Carter Redux (App name: 58a6b5e81c644fba8bab2e05137429d9 | Version: 1.05)
+ * The Witness (App name: Magnolia | Version: 2019_1_23_fix)
+ * Them's Fightin' Herds (App name: 2d9d7555ccdd4ceaa1b60e501ba0bacd | Version: 1680036237)
+
+Available games:
+ * A Plague Tale: Innocence (App name: e0fa47ae79514345823bff209ae29451 | Version: EGS_1.08.4)
+ * Alien: Isolation (App name: 8935bb3e1420443a9789fe01758039a5 | Version: 1.0RC5.284847.51533)
+ * Assassins Creed Syndicate (App name: Albacore | Version: 1.54)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Aztez (App name: Grunt | Version: 1.2-aeeb6200374fc01a6a51c3006846a350febeb243.21-Win)
+ * BioShock 2 Remastered (App name: b22ce34b4ce0408c97a888554447479b | Version: 1.0.0_BN-138_CL-17677)
+ * BioShock Infinite: Complete Edition (App name: f9d6f0530ea140909f8e8a997a7532d7 | Version: 1.0.0_BN-314_CL-17899)
+ * BioShock Remastered (App name: bc2c95c6ff564a16b26644f1d3ac3c55 | Version: 1.0.0_BN-187_CL-17677)
+ * Borderlands 3 (App name: Catnip | Version: 1.0.23_CL_2860060_Borderlands_3)
+ * Celeste (App name: Salt | Version: 1.4.0.0-Windows)
+ * Cities Skylines (App name: bcbc03d8812a44c18f41cf7d5f849265 | Version: 1.16.1-f3)
+ * City of Gangsters (App name: 002b00085aeb49b1a3f3c42e3f918f2f | Version: 1.4.3.5)
+ * Control (App name: Calluna | Version: 01.13)
+ * Cris Tales (App name: e7d92786abe54fae9319c1ddb94ae271 | Version: 1.0.7)
+ * DAEMON X MACHINA (App name: f4f0d39fbb4640e0be62aa91d9eca87d | Version: 1.0.6)
+ * Dandara: Trials of Fear Edition (App name: c35b9699c4e24c56976b5bd8eceba464 | Version: 1.4.11-pc)
+ * Darksiders II Deathinitive Edition (App name: Hoki | Version: 1.0)
+ * Death Stranding (App name: Boga | Version: 2742586.206.1)
+ * Death Stranding Content (App name: 5bf67f3153364181b54cb9e40ca7fa82 | Version: 1.01)
+  + DEATH STRANDING DIGITAL SOUNDTRACK (App name: 84067e3ec8f149b2bbf2342d7a136065 | Version: 1.02)
+  + HD Wallpaper (App name: f8bf1e29bbef480a9b28115ad0d644a0 | Version: 1.02)
+  + SELECTIONS OF TITAN ART BOOK (App name: c311b22f878749449886949eeb588999 | Version: 1.01)
+ * Dishonored - Definitive Edition (App name: d2da64bd4c4e422da4b1a88041492a3a | Version: 1.6)
+ * Dishonored®: Death of the Outsider™ (App name: 2fb8273dcf6f41e4899c0c881e047053 | Version: 0.0.0.4)
+ * Divine Knockout (App name: 2a7875f5060d4381af355104773ca649 | Version: 927)
+ * Duskers (App name: 1e9c3a9a10c6463e9c065f371b8b42bf | Version: 1.205)
+ * Dying Light Enhanced Edition (App name: 04a54ed532ce4fbfbf8fd5833f60def0 | Version: DL_1.49.6f1)
+  + Dying Light The Bozak (App name: 71816b992ef04030b1c58af6b9845fe5 | Version: BOZ_1.49.6f1)
+  + Dying Light The Following (App name: f653266870894ee1acbb5250e3b04bd1 | Version: FOLL_1.49.6f1)
+ * Enter the Gungeon (App name: Garlic | Version: 2.1.9a)
+ * Eximius: Seize the Frontline (App name: 70f92598b33d42e290e411f07397aeee | Version: 1.2.1-10780-357)
+ * F.I.S.T.: Forged In Shadow Torch (App name: bf4808b3395b43fb80afbe6773e1661f | Version: 1.200.001)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_2925_3)
+ * Faster Than Light (App name: Blowfish | Version: 1.6.12.Windows)
+ * Filament (App name: 14a38161ad3c45adab18425415b5df3d | Version: 1.21)
+ * First Class Trouble (App name: 0c942b2c920149ff986af1ed93c92ddf | Version: 1.7.9.5-36062)
+ * For The King (App name: Discus | Version: 45)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-24.10-CL-24903530-Windows)
+ * Gamedec - Definitive Edition (App name: a01150ee6deb406c92dd2b2445186163 | Version: 20221128_1.7.1.r70100)
+ * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 67)
+ * Godfall (App name: Carp | Version: 5.1.23-prod-stable)
+ * Guild of Dungeoneering (App name: b8bdc716e79e461bbf161d99f842f29a | Version: 0.02)
+ * Hell is Others (App name: 0e70be0cea0446599acb4c26d2e925f9 | Version: 2.0.2-20230404_1421)
+ * HITMAN 3 (App name: Eider | Version: 6519315)
+  + Berlin (App name: a94eddb97c72495f95350ce8840642b9 | Version: 7)
+  + Carpathian Mountains (App name: 62af9e3ead7a49d59f12ae6196af8117 | Version: 7)
+  + Chongquing (App name: 445902ab2a7841a1a2ec9d536dc4d297 | Version: 7)
+  + Dartmoor (App name: fc97ef705954490ab4bf3d6773bce766 | Version: 7)
+  + Dubai (App name: f73a0557f7fc4ca08e3cb2c0e5dfb22b | Version: 7)
+  + Mendoza (App name: 1ed82fbb0d7f42db93646185e267677f | Version: 7)
+ * Hood Outlaws and Legends (App name: 098f5323a3994362b6c68503d8cf3d57 | Version: HoodStaging2022R14Client_Win64Epic_Shipping_1601377.zip_Live)
+ * In Sound Mind (App name: 29ee5d32f328471590b3bd3ac03ed7d0 | Version: 1.027)
+ * InnerSpace (App name: Almond | Version: 1.0.0c)
+ * Insurmountable (App name: 8b556e7471ac46eda46445d93fa2e73f | Version: 2.0.7.3)
+ * Iratus (App name: 82ab0adb6e0b41bea531fcbb0c43cfc7 | Version: 0.96010)
+ * Jotun Valhalla Edition (App name: Grouse | Version: 1.02)
+ * Just Die Already (App name: 06621054d7d24f44bf13e3c31c9ec05d | Version: 1.4.2)
+ * Kerbal Space Program (App name: a1e2ce30defe4a9187ebc14fc9d2bd8b | Version: KSP.1.12.5.en-us)
+ * KID A MNESIA EXHIBITION (App name: 33411619626243f1859d0b7fb5cc5405 | Version: 0.0333.012725)
+ * Killing Floor 2 (App name: Finch | Version: 484021-2023_03_01_04h58m30s)
+ * KillingFloor2Beta (App name: 3223ccf6ac9b4189bd4e144c047d33fb | Version: NOVERSION-2022_10_20_16h30m51s)
+ * Kingdom Come Deliverance (App name: Eel | Version: 1.9.6-404-504czj3)
+ * Kingdom New Lands (App name: cacao | Version: 1.2.8-r2121-Windows)
+ * LEGO® Builder's Journey (App name: 806f3b7734764e2498962ce7b55c0dda | Version: 617)
+ * Loop Hero (App name: f7a0ebb44f93430fb1c4388a395eba96 | Version: 11054)
+ * Mages of Mystralia (App name: 4b920bb4aebf4586a4f6d823817fe32d | Version: 1.0)
+ * Metro Last Light Redux (App name: Speedwell | Version: 0.1.0.0)
+ * Minit (App name: Petrel | Version: 0.1-staging-win32)
+ * Moving Out (App name: 8e29583ae4b44a21883038668f7e301e | Version: 11)
+ * Never Alone (Kisima Ingitchuna) (App name: f38de9fa4c6d43eabac080942cb394a1 | Version: NeverAlone-Win-1.2.8)
+ * Pikuniku (App name: 48619f5656da446abccb727b78cda644 | Version: Win64_1)
+ * PREY (App name: 52d88e9a6df248da913c8e99f1e4c526 | Version: 1.8)
+ * Rage 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Redout: Enhanced Edition (App name: 1be5efb848844b1dabf9d67f8017a7ae | Version: 85e552)
+ * Remnant: From the Ashes (App name: b4a0d2d15acb4db894a599b810297543 | Version: Remnant_Win64_Shipping_275957)
+ * Riverbond (App name: 087f062df2574091a67fe614a6ec15a4 | Version: 22)
+ * Rocket League® (App name: Sugar | Version: BC2_Update41+415510)
+ * Rogue Company (App name: Pewee | Version: 1698)
+ * Rogue Legacy (App name: 01f1e8046e9e433db190a611a0411579 | Version: 1.4.1e_0)
+ * Saints Row The Third Remastered (App name: Loon | Version: SRTTR_20211028_epic_14th_patch)
+ * Second Extinction™ (App name: 18a85afedeac4ea885b27fee3e0c81db | Version: 0.0.335)
+ * Shadow Tactics Blades of the Shogun (App name: a334978574a840d594c31521592925f3 | Version: 3.2.25.F.r4769a)
+ * shapez (App name: e87a43f695bc409ca8858206678ac7e7 | Version: 1.5.5)
+ * Spellbreak (App name: Newt | Version: release.15196-7866)
+ * Star Wars Squadrons (App name: bobcat | Version: None)
+  - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin bobcat" to activate and/or run the game.
+ * Steep (App name: Barracuda | Version: 1.00)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Surviving Mars (App name: Ovenbird | Version: 1.5_Fuglesang.1011166-Windows)
+ * Terraforming Mars (App name: 582c8940f499450d9033840efe5937a6 | Version: Windows_2.0000.3.12730)
+ * The First Tree (App name: cd98b47155654e1f9a9e84e60d0b49e4 | Version: 1.0.0.32)
+ * The Spectrum Retreat (App name: 7b8fb449c8d3404ba7eda9cd4da1401b | Version: 1.0rc)
+ * The Vanishing of Ethan Carter (App name: 9447b19ffb6a47e1a654b75178779a28 | Version: 1.00)
+ * The Vanishing of Ethan Carter Redux (App name: 58a6b5e81c644fba8bab2e05137429d9 | Version: 1.05)
+ * The Witness (App name: Magnolia | Version: 2019_1_23_fix)
+ * Them's Fightin' Herds (App name: 2d9d7555ccdd4ceaa1b60e501ba0bacd | Version: 1680036237)
+ * Totally Accurate Battle Simulator (App name: Driftfish | Version: 1.1.4_win64)
+ * Trackmania (App name: Pigeon | Version: 1.2)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Vampyr (App name: Nautilus | Version: 666399-666439)
+ * Wargame: Red Dragon (App name: 2cd446792405468e9e87f67649d864c2 | Version: 72352)
+ * Watch Dogs (App name: Jasper | Version: 1.0)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * while True: learn() (App name: 4f272a49a39742b795d63e1f483a7c7d | Version: 1.6.100b.win64)
+ * Wolfenstein: The New Order (App name: a64dcf9b711a4a60a3c0b6f052dfc7da | Version: 1.3.1)
+ * Wonder Boy The Dragons Trap (App name: 4c30fe9841264abfb120b581d061a8fd | Version: sub0624-20220216-1.03g)
+ * XCOM 2 (App name: 3be3c4d681bc46b3b8b26c5df3ae0a18 | Version: 1.0.1_CL-870730)
+
+Total: 91
+ * Totally Accurate Battle Simulator (App name: Driftfish | Version: 1.1.4_win64)
+ * Trackmania (App name: Pigeon | Version: 1.2)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Vampyr (App name: Nautilus | Version: 666399-666439)
+ * Wargame: Red Dragon (App name: 2cd446792405468e9e87f67649d864c2 | Version: 72352)
+ * Watch Dogs (App name: Jasper | Version: 1.0)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * while True: learn() (App name: 4f272a49a39742b795d63e1f483a7c7d | Version: 1.6.100b.win64)
+ * Wolfenstein: The New Order (App name: a64dcf9b711a4a60a3c0b6f052dfc7da | Version: 1.3.1)
+ * Wonder Boy The Dragons Trap (App name: 4c30fe9841264abfb120b581d061a8fd | Version: sub0624-20220216-1.03g)
+ * XCOM 2 (App name: 3be3c4d681bc46b3b8b26c5df3ae0a18 | Version: 1.0.1_CL-870730)
+
+Total: 91
+
+Available games:
+ * A Plague Tale: Innocence (App name: e0fa47ae79514345823bff209ae29451 | Version: EGS_1.08.4)
+ * Alien: Isolation (App name: 8935bb3e1420443a9789fe01758039a5 | Version: 1.0RC5.284847.51533)
+ * Assassins Creed Syndicate (App name: Albacore | Version: 1.54)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Aztez (App name: Grunt | Version: 1.2-aeeb6200374fc01a6a51c3006846a350febeb243.21-Win)
+ * BioShock 2 Remastered (App name: b22ce34b4ce0408c97a888554447479b | Version: 1.0.0_BN-138_CL-17677)
+ * BioShock Infinite: Complete Edition (App name: f9d6f0530ea140909f8e8a997a7532d7 | Version: 1.0.0_BN-314_CL-17899)
+ * BioShock Remastered (App name: bc2c95c6ff564a16b26644f1d3ac3c55 | Version: 1.0.0_BN-187_CL-17677)
+ * Borderlands 3 (App name: Catnip | Version: 1.0.23_CL_2860060_Borderlands_3)
+ * Celeste (App name: Salt | Version: 1.4.0.0-Windows)
+ * Cities Skylines (App name: bcbc03d8812a44c18f41cf7d5f849265 | Version: 1.16.1-f3)
+ * City of Gangsters (App name: 002b00085aeb49b1a3f3c42e3f918f2f | Version: 1.4.3.5)
+ * Control (App name: Calluna | Version: 01.13)
+ * Cris Tales (App name: e7d92786abe54fae9319c1ddb94ae271 | Version: 1.0.7)
+ * DAEMON X MACHINA (App name: f4f0d39fbb4640e0be62aa91d9eca87d | Version: 1.0.6)
+ * Dandara: Trials of Fear Edition (App name: c35b9699c4e24c56976b5bd8eceba464 | Version: 1.4.11-pc)
+ * Darksiders II Deathinitive Edition (App name: Hoki | Version: 1.0)
+ * Death Stranding (App name: Boga | Version: 2742586.206.1)
+ * Death Stranding Content (App name: 5bf67f3153364181b54cb9e40ca7fa82 | Version: 1.01)
+  + DEATH STRANDING DIGITAL SOUNDTRACK (App name: 84067e3ec8f149b2bbf2342d7a136065 | Version: 1.02)
+  + HD Wallpaper (App name: f8bf1e29bbef480a9b28115ad0d644a0 | Version: 1.02)
+  + SELECTIONS OF TITAN ART BOOK (App name: c311b22f878749449886949eeb588999 | Version: 1.01)
+ * Dishonored - Definitive Edition (App name: d2da64bd4c4e422da4b1a88041492a3a | Version: 1.6)
+ * Dishonored®: Death of the Outsider™ (App name: 2fb8273dcf6f41e4899c0c881e047053 | Version: 0.0.0.4)
+ * Divine Knockout (App name: 2a7875f5060d4381af355104773ca649 | Version: 927)
+ * Duskers (App name: 1e9c3a9a10c6463e9c065f371b8b42bf | Version: 1.205)
+ * Dying Light Enhanced Edition (App name: 04a54ed532ce4fbfbf8fd5833f60def0 | Version: DL_1.49.6f1)
+  + Dying Light The Bozak (App name: 71816b992ef04030b1c58af6b9845fe5 | Version: BOZ_1.49.6f1)
+  + Dying Light The Following (App name: f653266870894ee1acbb5250e3b04bd1 | Version: FOLL_1.49.6f1)
+ * Enter the Gungeon (App name: Garlic | Version: 2.1.9a)
+ * Eximius: Seize the Frontline (App name: 70f92598b33d42e290e411f07397aeee | Version: 1.2.1-10780-357)
+ * F.I.S.T.: Forged In Shadow Torch (App name: bf4808b3395b43fb80afbe6773e1661f | Version: 1.200.001)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_2925_3)
+ * Faster Than Light (App name: Blowfish | Version: 1.6.12.Windows)
+ * Filament (App name: 14a38161ad3c45adab18425415b5df3d | Version: 1.21)
+ * First Class Trouble (App name: 0c942b2c920149ff986af1ed93c92ddf | Version: 1.7.9.5-36062)
+ * For The King (App name: Discus | Version: 45)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-24.10-CL-24903530-Windows)
+ * Gamedec - Definitive Edition (App name: a01150ee6deb406c92dd2b2445186163 | Version: 20221128_1.7.1.r70100)
+ * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 67)
+ * Godfall (App name: Carp | Version: 5.1.23-prod-stable)
+ * Guild of Dungeoneering (App name: b8bdc716e79e461bbf161d99f842f29a | Version: 0.02)
+ * Hell is Others (App name: 0e70be0cea0446599acb4c26d2e925f9 | Version: 2.0.2-20230404_1421)
+ * HITMAN 3 (App name: Eider | Version: 6519315)
+  + Berlin (App name: a94eddb97c72495f95350ce8840642b9 | Version: 7)
+  + Carpathian Mountains (App name: 62af9e3ead7a49d59f12ae6196af8117 | Version: 7)
+  + Chongquing (App name: 445902ab2a7841a1a2ec9d536dc4d297 | Version: 7)
+  + Dartmoor (App name: fc97ef705954490ab4bf3d6773bce766 | Version: 7)
+  + Dubai (App name: f73a0557f7fc4ca08e3cb2c0e5dfb22b | Version: 7)
+  + Mendoza (App name: 1ed82fbb0d7f42db93646185e267677f | Version: 7)
+ * Hood Outlaws and Legends (App name: 098f5323a3994362b6c68503d8cf3d57 | Version: HoodStaging2022R14Client_Win64Epic_Shipping_1601377.zip_Live)
+ * In Sound Mind (App name: 29ee5d32f328471590b3bd3ac03ed7d0 | Version: 1.027)
+ * InnerSpace (App name: Almond | Version: 1.0.0c)
+ * Insurmountable (App name: 8b556e7471ac46eda46445d93fa2e73f | Version: 2.0.7.3)
+ * Iratus (App name: 82ab0adb6e0b41bea531fcbb0c43cfc7 | Version: 0.96010)
+ * Jotun Valhalla Edition (App name: Grouse | Version: 1.02)
+ * Just Die Already (App name: 06621054d7d24f44bf13e3c31c9ec05d | Version: 1.4.2)
+ * Kerbal Space Program (App name: a1e2ce30defe4a9187ebc14fc9d2bd8b | Version: KSP.1.12.5.en-us)
+ * KID A MNESIA EXHIBITION (App name: 33411619626243f1859d0b7fb5cc5405 | Version: 0.0333.012725)
+ * Killing Floor 2 (App name: Finch | Version: 484021-2023_03_01_04h58m30s)
+ * KillingFloor2Beta (App name: 3223ccf6ac9b4189bd4e144c047d33fb | Version: NOVERSION-2022_10_20_16h30m51s)
+ * Kingdom Come Deliverance (App name: Eel | Version: 1.9.6-404-504czj3)
+ * Kingdom New Lands (App name: cacao | Version: 1.2.8-r2121-Windows)
+ * LEGO® Builder's Journey (App name: 806f3b7734764e2498962ce7b55c0dda | Version: 617)
+ * Loop Hero (App name: f7a0ebb44f93430fb1c4388a395eba96 | Version: 11054)
+ * Mages of Mystralia (App name: 4b920bb4aebf4586a4f6d823817fe32d | Version: 1.0)
+ * Metro Last Light Redux (App name: Speedwell | Version: 0.1.0.0)
+ * Minit (App name: Petrel | Version: 0.1-staging-win32)
+ * Moving Out (App name: 8e29583ae4b44a21883038668f7e301e | Version: 11)
+ * Never Alone (Kisima Ingitchuna) (App name: f38de9fa4c6d43eabac080942cb394a1 | Version: NeverAlone-Win-1.2.8)
+ * Pikuniku (App name: 48619f5656da446abccb727b78cda644 | Version: Win64_1)
+ * PREY (App name: 52d88e9a6df248da913c8e99f1e4c526 | Version: 1.8)
+ * Rage 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Redout: Enhanced Edition (App name: 1be5efb848844b1dabf9d67f8017a7ae | Version: 85e552)
+ * Remnant: From the Ashes (App name: b4a0d2d15acb4db894a599b810297543 | Version: Remnant_Win64_Shipping_275957)
+ * Riverbond (App name: 087f062df2574091a67fe614a6ec15a4 | Version: 22)
+ * Rocket League® (App name: Sugar | Version: BC2_Update41+415510)
+ * Rogue Company (App name: Pewee | Version: 1698)
+ * Rogue Legacy (App name: 01f1e8046e9e433db190a611a0411579 | Version: 1.4.1e_0)
+ * Saints Row The Third Remastered (App name: Loon | Version: SRTTR_20211028_epic_14th_patch)
+ * Second Extinction™ (App name: 18a85afedeac4ea885b27fee3e0c81db | Version: 0.0.335)
+ * Shadow Tactics Blades of the Shogun (App name: a334978574a840d594c31521592925f3 | Version: 3.2.25.F.r4769a)
+ * shapez (App name: e87a43f695bc409ca8858206678ac7e7 | Version: 1.5.5)
+ * Spellbreak (App name: Newt | Version: release.15196-7866)
+ * Star Wars Squadrons (App name: bobcat | Version: None)
+  - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin bobcat" to activate and/or run the game.
+ * Steep (App name: Barracuda | Version: 1.00)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Surviving Mars (App name: Ovenbird | Version: 1.5_Fuglesang.1011166-Windows)
+ * Terraforming Mars (App name: 582c8940f499450d9033840efe5937a6 | Version: Windows_2.0000.3.12730)
+ * The First Tree (App name: cd98b47155654e1f9a9e84e60d0b49e4 | Version: 1.0.0.32)
+ * The Spectrum Retreat (App name: 7b8fb449c8d3404ba7eda9cd4da1401b | Version: 1.0rc)
+ * The Vanishing of Ethan Carter (App name: 9447b19ffb6a47e1a654b75178779a28 | Version: 1.00)
+ * The Vanishing of Ethan Carter Redux (App name: 58a6b5e81c644fba8bab2e05137429d9 | Version: 1.05)
+ * The Witness (App name: Magnolia | Version: 2019_1_23_fix)
+ * Them's Fightin' Herds (App name: 2d9d7555ccdd4ceaa1b60e501ba0bacd | Version: 1680036237)
+ * Totally Accurate Battle Simulator (App name: Driftfish | Version: 1.1.4_win64)
+ * Trackmania (App name: Pigeon | Version: 1.2)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Vampyr (App name: Nautilus | Version: 666399-666439)
+ * Wargame: Red Dragon (App name: 2cd446792405468e9e87f67649d864c2 | Version: 72352)
+ * Watch Dogs (App name: Jasper | Version: 1.0)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * while True: learn() (App name: 4f272a49a39742b795d63e1f483a7c7d | Version: 1.6.100b.win64)
+ * Wolfenstein: The New Order (App name: a64dcf9b711a4a60a3c0b6f052dfc7da | Version: 1.3.1)
+ * Wonder Boy The Dragons Trap (App name: 4c30fe9841264abfb120b581d061a8fd | Version: sub0624-20220216-1.03g)
+ * XCOM 2 (App name: 3be3c4d681bc46b3b8b26c5df3ae0a18 | Version: 1.0.1_CL-870730)
+
+Total: 91
+
+Available games:
+ * A Plague Tale: Innocence (App name: e0fa47ae79514345823bff209ae29451 | Version: EGS_1.08.4)
+ * Alien: Isolation (App name: 8935bb3e1420443a9789fe01758039a5 | Version: 1.0RC5.284847.51533)
+ * Assassins Creed Syndicate (App name: Albacore | Version: 1.54)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Aztez (App name: Grunt | Version: 1.2-aeeb6200374fc01a6a51c3006846a350febeb243.21-Win)
+ * BioShock 2 Remastered (App name: b22ce34b4ce0408c97a888554447479b | Version: 1.0.0_BN-138_CL-17677)
+ * BioShock Infinite: Complete Edition (App name: f9d6f0530ea140909f8e8a997a7532d7 | Version: 1.0.0_BN-314_CL-17899)
+ * BioShock Remastered (App name: bc2c95c6ff564a16b26644f1d3ac3c55 | Version: 1.0.0_BN-187_CL-17677)
+ * Borderlands 3 (App name: Catnip | Version: 1.0.23_CL_2860060_Borderlands_3)
+ * Celeste (App name: Salt | Version: 1.4.0.0-Windows)
+ * Cities Skylines (App name: bcbc03d8812a44c18f41cf7d5f849265 | Version: 1.16.1-f3)
+ * City of Gangsters (App name: 002b00085aeb49b1a3f3c42e3f918f2f | Version: 1.4.3.5)
+ * Control (App name: Calluna | Version: 01.13)
+ * Cris Tales (App name: e7d92786abe54fae9319c1ddb94ae271 | Version: 1.0.7)
+ * DAEMON X MACHINA (App name: f4f0d39fbb4640e0be62aa91d9eca87d | Version: 1.0.6)
+ * Dandara: Trials of Fear Edition (App name: c35b9699c4e24c56976b5bd8eceba464 | Version: 1.4.11-pc)
+ * Darksiders II Deathinitive Edition (App name: Hoki | Version: 1.0)
+ * Death Stranding (App name: Boga | Version: 2742586.206.1)
+ * Death Stranding Content (App name: 5bf67f3153364181b54cb9e40ca7fa82 | Version: 1.01)
+  + DEATH STRANDING DIGITAL SOUNDTRACK (App name: 84067e3ec8f149b2bbf2342d7a136065 | Version: 1.02)
+  + HD Wallpaper (App name: f8bf1e29bbef480a9b28115ad0d644a0 | Version: 1.02)
+  + SELECTIONS OF TITAN ART BOOK (App name: c311b22f878749449886949eeb588999 | Version: 1.01)
+ * Dishonored - Definitive Edition (App name: d2da64bd4c4e422da4b1a88041492a3a | Version: 1.6)
+ * Dishonored®: Death of the Outsider™ (App name: 2fb8273dcf6f41e4899c0c881e047053 | Version: 0.0.0.4)
+ * Divine Knockout (App name: 2a7875f5060d4381af355104773ca649 | Version: 927)
+ * Duskers (App name: 1e9c3a9a10c6463e9c065f371b8b42bf | Version: 1.205)
+ * Dying Light Enhanced Edition (App name: 04a54ed532ce4fbfbf8fd5833f60def0 | Version: DL_1.49.6f1)
+  + Dying Light The Bozak (App name: 71816b992ef04030b1c58af6b9845fe5 | Version: BOZ_1.49.6f1)
+  + Dying Light The Following (App name: f653266870894ee1acbb5250e3b04bd1 | Version: FOLL_1.49.6f1)
+ * Enter the Gungeon (App name: Garlic | Version: 2.1.9a)
+ * Eximius: Seize the Frontline (App name: 70f92598b33d42e290e411f07397aeee | Version: 1.2.1-10780-357)
+ * F.I.S.T.: Forged In Shadow Torch (App name: bf4808b3395b43fb80afbe6773e1661f | Version: 1.200.001)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_2925_3)
+ * Faster Than Light (App name: Blowfish | Version: 1.6.12.Windows)
+ * Filament (App name: 14a38161ad3c45adab18425415b5df3d | Version: 1.21)
+ * First Class Trouble (App name: 0c942b2c920149ff986af1ed93c92ddf | Version: 1.7.9.5-36062)
+ * For The King (App name: Discus | Version: 45)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-24.10-CL-24903530-Windows)
+ * Gamedec - Definitive Edition (App name: a01150ee6deb406c92dd2b2445186163 | Version: 20221128_1.7.1.r70100)
+ * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 67)
+ * Godfall (App name: Carp | Version: 5.1.23-prod-stable)
+ * Guild of Dungeoneering (App name: b8bdc716e79e461bbf161d99f842f29a | Version: 0.02)
+ * Hell is Others (App name: 0e70be0cea0446599acb4c26d2e925f9 | Version: 2.0.2-20230404_1421)
+ * HITMAN 3 (App name: Eider | Version: 6519315)
+  + Berlin (App name: a94eddb97c72495f95350ce8840642b9 | Version: 7)
+  + Carpathian Mountains (App name: 62af9e3ead7a49d59f12ae6196af8117 | Version: 7)
+  + Chongquing (App name: 445902ab2a7841a1a2ec9d536dc4d297 | Version: 7)
+  + Dartmoor (App name: fc97ef705954490ab4bf3d6773bce766 | Version: 7)
+  + Dubai (App name: f73a0557f7fc4ca08e3cb2c0e5dfb22b | Version: 7)
+  + Mendoza (App name: 1ed82fbb0d7f42db93646185e267677f | Version: 7)
+ * Hood Outlaws and Legends (App name: 098f5323a3994362b6c68503d8cf3d57 | Version: HoodStaging2022R14Client_Win64Epic_Shipping_1601377.zip_Live)
+ * In Sound Mind (App name: 29ee5d32f328471590b3bd3ac03ed7d0 | Version: 1.027)
+ * InnerSpace (App name: Almond | Version: 1.0.0c)
+ * Insurmountable (App name: 8b556e7471ac46eda46445d93fa2e73f | Version: 2.0.7.3)
+ * Iratus (App name: 82ab0adb6e0b41bea531fcbb0c43cfc7 | Version: 0.96010)
+ * Jotun Valhalla Edition (App name: Grouse | Version: 1.02)
+ * Just Die Already (App name: 06621054d7d24f44bf13e3c31c9ec05d | Version: 1.4.2)
+ * Kerbal Space Program (App name: a1e2ce30defe4a9187ebc14fc9d2bd8b | Version: KSP.1.12.5.en-us)
+ * KID A MNESIA EXHIBITION (App name: 33411619626243f1859d0b7fb5cc5405 | Version: 0.0333.012725)
+ * Killing Floor 2 (App name: Finch | Version: 484021-2023_03_01_04h58m30s)
+ * KillingFloor2Beta (App name: 3223ccf6ac9b4189bd4e144c047d33fb | Version: NOVERSION-2022_10_20_16h30m51s)
+ * Kingdom Come Deliverance (App name: Eel | Version: 1.9.6-404-504czj3)
+ * Kingdom New Lands (App name: cacao | Version: 1.2.8-r2121-Windows)
+ * LEGO® Builder's Journey (App name: 806f3b7734764e2498962ce7b55c0dda | Version: 617)
+ * Loop Hero (App name: f7a0ebb44f93430fb1c4388a395eba96 | Version: 11054)
+ * Mages of Mystralia (App name: 4b920bb4aebf4586a4f6d823817fe32d | Version: 1.0)
+ * Metro Last Light Redux (App name: Speedwell | Version: 0.1.0.0)
+ * Minit (App name: Petrel | Version: 0.1-staging-win32)
+ * Moving Out (App name: 8e29583ae4b44a21883038668f7e301e | Version: 11)
+ * Never Alone (Kisima Ingitchuna) (App name: f38de9fa4c6d43eabac080942cb394a1 | Version: NeverAlone-Win-1.2.8)
+ * Pikuniku (App name: 48619f5656da446abccb727b78cda644 | Version: Win64_1)
+ * PREY (App name: 52d88e9a6df248da913c8e99f1e4c526 | Version: 1.8)
+ * Rage 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Redout: Enhanced Edition (App name: 1be5efb848844b1dabf9d67f8017a7ae | Version: 85e552)
+ * Remnant: From the Ashes (App name: b4a0d2d15acb4db894a599b810297543 | Version: Remnant_Win64_Shipping_275957)
+ * Riverbond (App name: 087f062df2574091a67fe614a6ec15a4 | Version: 22)
+ * Rocket League® (App name: Sugar | Version: BC2_Update41+415510)
+ * Rogue Company (App name: Pewee | Version: 1698)
+ * Rogue Legacy (App name: 01f1e8046e9e433db190a611a0411579 | Version: 1.4.1e_0)
+ * Saints Row The Third Remastered (App name: Loon | Version: SRTTR_20211028_epic_14th_patch)
+ * Second Extinction™ (App name: 18a85afedeac4ea885b27fee3e0c81db | Version: 0.0.335)
+ * Shadow Tactics Blades of the Shogun (App name: a334978574a840d594c31521592925f3 | Version: 3.2.25.F.r4769a)
+ * shapez (App name: e87a43f695bc409ca8858206678ac7e7 | Version: 1.5.5)
+ * Spellbreak (App name: Newt | Version: release.15196-7866)
+ * Star Wars Squadrons (App name: bobcat | Version: None)
+  - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin bobcat" to activate and/or run the game.
+ * Steep (App name: Barracuda | Version: 1.00)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Surviving Mars (App name: Ovenbird | Version: 1.5_Fuglesang.1011166-Windows)
+ * Terraforming Mars (App name: 582c8940f499450d9033840efe5937a6 | Version: Windows_2.0000.3.12730)
+ * The First Tree (App name: cd98b47155654e1f9a9e84e60d0b49e4 | Version: 1.0.0.32)
+ * The Spectrum Retreat (App name: 7b8fb449c8d3404ba7eda9cd4da1401b | Version: 1.0rc)
+ * The Vanishing of Ethan Carter (App name: 9447b19ffb6a47e1a654b75178779a28 | Version: 1.00)
+ * The Vanishing of Ethan Carter Redux (App name: 58a6b5e81c644fba8bab2e05137429d9 | Version: 1.05)
+ * The Witness (App name: Magnolia | Version: 2019_1_23_fix)
+ * Them's Fightin' Herds (App name: 2d9d7555ccdd4ceaa1b60e501ba0bacd | Version: 1680036237)
+ * Totally Accurate Battle Simulator (App name: Driftfish | Version: 1.1.4_win64)
+ * Trackmania (App name: Pigeon | Version: 1.2)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Vampyr (App name: Nautilus | Version: 666399-666439)
+ * Wargame: Red Dragon (App name: 2cd446792405468e9e87f67649d864c2 | Version: 72352)
+ * Watch Dogs (App name: Jasper | Version: 1.0)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * while True: learn() (App name: 4f272a49a39742b795d63e1f483a7c7d | Version: 1.6.100b.win64)
+ * Wolfenstein: The New Order (App name: a64dcf9b711a4a60a3c0b6f052dfc7da | Version: 1.3.1)
+ * Wonder Boy The Dragons Trap (App name: 4c30fe9841264abfb120b581d061a8fd | Version: sub0624-20220216-1.03g)
+ * XCOM 2 (App name: 3be3c4d681bc46b3b8b26c5df3ae0a18 | Version: 1.0.1_CL-870730)
+
+Total: 91
+
+Available games:
+ * A Plague Tale: Innocence (App name: e0fa47ae79514345823bff209ae29451 | Version: EGS_1.08.4)
+ * Alien: Isolation (App name: 8935bb3e1420443a9789fe01758039a5 | Version: 1.0RC5.284847.51533)
+ * Assassins Creed Syndicate (App name: Albacore | Version: 1.54)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Aztez (App name: Grunt | Version: 1.2-aeeb6200374fc01a6a51c3006846a350febeb243.21-Win)
+ * BioShock 2 Remastered (App name: b22ce34b4ce0408c97a888554447479b | Version: 1.0.0_BN-138_CL-17677)
+ * BioShock Infinite: Complete Edition (App name: f9d6f0530ea140909f8e8a997a7532d7 | Version: 1.0.0_BN-314_CL-17899)
+ * BioShock Remastered (App name: bc2c95c6ff564a16b26644f1d3ac3c55 | Version: 1.0.0_BN-187_CL-17677)
+ * Borderlands 3 (App name: Catnip | Version: 1.0.23_CL_2860060_Borderlands_3)
+ * Celeste (App name: Salt | Version: 1.4.0.0-Windows)
+ * Cities Skylines (App name: bcbc03d8812a44c18f41cf7d5f849265 | Version: 1.16.1-f3)
+ * City of Gangsters (App name: 002b00085aeb49b1a3f3c42e3f918f2f | Version: 1.4.3.5)
+ * Control (App name: Calluna | Version: 01.13)
+ * Cris Tales (App name: e7d92786abe54fae9319c1ddb94ae271 | Version: 1.0.7)
+ * DAEMON X MACHINA (App name: f4f0d39fbb4640e0be62aa91d9eca87d | Version: 1.0.6)
+ * Dandara: Trials of Fear Edition (App name: c35b9699c4e24c56976b5bd8eceba464 | Version: 1.4.11-pc)
+ * Darksiders II Deathinitive Edition (App name: Hoki | Version: 1.0)
+ * Death Stranding (App name: Boga | Version: 2742586.206.1)
+ * Death Stranding Content (App name: 5bf67f3153364181b54cb9e40ca7fa82 | Version: 1.01)
+  + DEATH STRANDING DIGITAL SOUNDTRACK (App name: 84067e3ec8f149b2bbf2342d7a136065 | Version: 1.02)
+  + HD Wallpaper (App name: f8bf1e29bbef480a9b28115ad0d644a0 | Version: 1.02)
+  + SELECTIONS OF TITAN ART BOOK (App name: c311b22f878749449886949eeb588999 | Version: 1.01)
+ * Dishonored - Definitive Edition (App name: d2da64bd4c4e422da4b1a88041492a3a | Version: 1.6)
+ * Dishonored®: Death of the Outsider™ (App name: 2fb8273dcf6f41e4899c0c881e047053 | Version: 0.0.0.4)
+ * Divine Knockout (App name: 2a7875f5060d4381af355104773ca649 | Version: 927)
+ * Duskers (App name: 1e9c3a9a10c6463e9c065f371b8b42bf | Version: 1.205)
+ * Dying Light Enhanced Edition (App name: 04a54ed532ce4fbfbf8fd5833f60def0 | Version: DL_1.49.6f1)
+  + Dying Light The Bozak (App name: 71816b992ef04030b1c58af6b9845fe5 | Version: BOZ_1.49.6f1)
+  + Dying Light The Following (App name: f653266870894ee1acbb5250e3b04bd1 | Version: FOLL_1.49.6f1)
+ * Enter the Gungeon (App name: Garlic | Version: 2.1.9a)
+ * Eximius: Seize the Frontline (App name: 70f92598b33d42e290e411f07397aeee | Version: 1.2.1-10780-357)
+ * F.I.S.T.: Forged In Shadow Torch (App name: bf4808b3395b43fb80afbe6773e1661f | Version: 1.200.001)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_2925_3)
+ * Faster Than Light (App name: Blowfish | Version: 1.6.12.Windows)
+ * Filament (App name: 14a38161ad3c45adab18425415b5df3d | Version: 1.21)
+ * First Class Trouble (App name: 0c942b2c920149ff986af1ed93c92ddf | Version: 1.7.9.5-36062)
+ * For The King (App name: Discus | Version: 45)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-24.10-CL-24903530-Windows)
+ * Gamedec - Definitive Edition (App name: a01150ee6deb406c92dd2b2445186163 | Version: 20221128_1.7.1.r70100)
+ * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 67)
+ * Godfall (App name: Carp | Version: 5.1.23-prod-stable)
+ * Guild of Dungeoneering (App name: b8bdc716e79e461bbf161d99f842f29a | Version: 0.02)
+ * Hell is Others (App name: 0e70be0cea0446599acb4c26d2e925f9 | Version: 2.0.2-20230404_1421)
+ * HITMAN 3 (App name: Eider | Version: 6519315)
+  + Berlin (App name: a94eddb97c72495f95350ce8840642b9 | Version: 7)
+  + Carpathian Mountains (App name: 62af9e3ead7a49d59f12ae6196af8117 | Version: 7)
+  + Chongquing (App name: 445902ab2a7841a1a2ec9d536dc4d297 | Version: 7)
+  + Dartmoor (App name: fc97ef705954490ab4bf3d6773bce766 | Version: 7)
+  + Dubai (App name: f73a0557f7fc4ca08e3cb2c0e5dfb22b | Version: 7)
+  + Mendoza (App name: 1ed82fbb0d7f42db93646185e267677f | Version: 7)
+ * Hood Outlaws and Legends (App name: 098f5323a3994362b6c68503d8cf3d57 | Version: HoodStaging2022R14Client_Win64Epic_Shipping_1601377.zip_Live)
+ * In Sound Mind (App name: 29ee5d32f328471590b3bd3ac03ed7d0 | Version: 1.027)
+ * InnerSpace (App name: Almond | Version: 1.0.0c)
+ * Insurmountable (App name: 8b556e7471ac46eda46445d93fa2e73f | Version: 2.0.7.3)
+ * Iratus (App name: 82ab0adb6e0b41bea531fcbb0c43cfc7 | Version: 0.96010)
+ * Jotun Valhalla Edition (App name: Grouse | Version: 1.02)
+ * Just Die Already (App name: 06621054d7d24f44bf13e3c31c9ec05d | Version: 1.4.2)
+ * Kerbal Space Program (App name: a1e2ce30defe4a9187ebc14fc9d2bd8b | Version: KSP.1.12.5.en-us)
+ * KID A MNESIA EXHIBITION (App name: 33411619626243f1859d0b7fb5cc5405 | Version: 0.0333.012725)
+ * Killing Floor 2 (App name: Finch | Version: 484021-2023_03_01_04h58m30s)
+ * KillingFloor2Beta (App name: 3223ccf6ac9b4189bd4e144c047d33fb | Version: NOVERSION-2022_10_20_16h30m51s)
+ * Kingdom Come Deliverance (App name: Eel | Version: 1.9.6-404-504czj3)
+ * Kingdom New Lands (App name: cacao | Version: 1.2.8-r2121-Windows)
+ * LEGO® Builder's Journey (App name: 806f3b7734764e2498962ce7b55c0dda | Version: 617)
+ * Loop Hero (App name: f7a0ebb44f93430fb1c4388a395eba96 | Version: 11054)
+ * Mages of Mystralia (App name: 4b920bb4aebf4586a4f6d823817fe32d | Version: 1.0)
+ * Metro Last Light Redux (App name: Speedwell | Version: 0.1.0.0)
+ * Minit (App name: Petrel | Version: 0.1-staging-win32)
+ * Moving Out (App name: 8e29583ae4b44a21883038668f7e301e | Version: 11)
+ * Never Alone (Kisima Ingitchuna) (App name: f38de9fa4c6d43eabac080942cb394a1 | Version: NeverAlone-Win-1.2.8)
+ * Pikuniku (App name: 48619f5656da446abccb727b78cda644 | Version: Win64_1)
+ * PREY (App name: 52d88e9a6df248da913c8e99f1e4c526 | Version: 1.8)
+ * Rage 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Redout: Enhanced Edition (App name: 1be5efb848844b1dabf9d67f8017a7ae | Version: 85e552)
+ * Remnant: From the Ashes (App name: b4a0d2d15acb4db894a599b810297543 | Version: Remnant_Win64_Shipping_275957)
+ * Riverbond (App name: 087f062df2574091a67fe614a6ec15a4 | Version: 22)
+ * Rocket League® (App name: Sugar | Version: BC2_Update41+415510)
+ * Rogue Company (App name: Pewee | Version: 1698)
+ * Rogue Legacy (App name: 01f1e8046e9e433db190a611a0411579 | Version: 1.4.1e_0)
+ * Saints Row The Third Remastered (App name: Loon | Version: SRTTR_20211028_epic_14th_patch)
+ * Second Extinction™ (App name: 18a85afedeac4ea885b27fee3e0c81db | Version: 0.0.335)
+ * Shadow Tactics Blades of the Shogun (App name: a334978574a840d594c31521592925f3 | Version: 3.2.25.F.r4769a)
+ * shapez (App name: e87a43f695bc409ca8858206678ac7e7 | Version: 1.5.5)
+ * Spellbreak (App name: Newt | Version: release.15196-7866)
+ * Star Wars Squadrons (App name: bobcat | Version: None)
+  - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin bobcat" to activate and/or run the game.
+ * Steep (App name: Barracuda | Version: 1.00)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Surviving Mars (App name: Ovenbird | Version: 1.5_Fuglesang.1011166-Windows)
+ * Terraforming Mars (App name: 582c8940f499450d9033840efe5937a6 | Version: Windows_2.0000.3.12730)
+ * The First Tree (App name: cd98b47155654e1f9a9e84e60d0b49e4 | Version: 1.0.0.32)
+ * The Spectrum Retreat (App name: 7b8fb449c8d3404ba7eda9cd4da1401b | Version: 1.0rc)
+ * The Vanishing of Ethan Carter (App name: 9447b19ffb6a47e1a654b75178779a28 | Version: 1.00)
+ * The Vanishing of Ethan Carter Redux (App name: 58a6b5e81c644fba8bab2e05137429d9 | Version: 1.05)
+ * The Witness (App name: Magnolia | Version: 2019_1_23_fix)
+ * Them's Fightin' Herds (App name: 2d9d7555ccdd4ceaa1b60e501ba0bacd | Version: 1680036237)
+ * Totally Accurate Battle Simulator (App name: Driftfish | Version: 1.1.4_win64)
+ * Trackmania (App name: Pigeon | Version: 1.2)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Vampyr (App name: Nautilus | Version: 666399-666439)
+ * Wargame: Red Dragon (App name: 2cd446792405468e9e87f67649d864c2 | Version: 72352)
+ * Watch Dogs (App name: Jasper | Version: 1.0)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * while True: learn() (App name: 4f272a49a39742b795d63e1f483a7c7d | Version: 1.6.100b.win64)
+ * Wolfenstein: The New Order (App name: a64dcf9b711a4a60a3c0b6f052dfc7da | Version: 1.3.1)
+ * Wonder Boy The Dragons Trap (App name: 4c30fe9841264abfb120b581d061a8fd | Version: sub0624-20220216-1.03g)
+ * XCOM 2 (App name: 3be3c4d681bc46b3b8b26c5df3ae0a18 | Version: 1.0.1_CL-870730)
+
+Total: 91
+
+Available games:
+ * A Plague Tale: Innocence (App name: e0fa47ae79514345823bff209ae29451 | Version: EGS_1.08.4)
+ * Alien: Isolation (App name: 8935bb3e1420443a9789fe01758039a5 | Version: 1.0RC5.284847.51533)
+ * Assassins Creed Syndicate (App name: Albacore | Version: 1.54)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Aztez (App name: Grunt | Version: 1.2-aeeb6200374fc01a6a51c3006846a350febeb243.21-Win)
+ * BioShock 2 Remastered (App name: b22ce34b4ce0408c97a888554447479b | Version: 1.0.0_BN-138_CL-17677)
+ * BioShock Infinite: Complete Edition (App name: f9d6f0530ea140909f8e8a997a7532d7 | Version: 1.0.0_BN-314_CL-17899)
+ * BioShock Remastered (App name: bc2c95c6ff564a16b26644f1d3ac3c55 | Version: 1.0.0_BN-187_CL-17677)
+ * Borderlands 3 (App name: Catnip | Version: 1.0.23_CL_2860060_Borderlands_3)
+ * Celeste (App name: Salt | Version: 1.4.0.0-Windows)
+ * Cities Skylines (App name: bcbc03d8812a44c18f41cf7d5f849265 | Version: 1.16.1-f3)
+ * City of Gangsters (App name: 002b00085aeb49b1a3f3c42e3f918f2f | Version: 1.4.3.5)
+ * Control (App name: Calluna | Version: 01.13)
+ * Cris Tales (App name: e7d92786abe54fae9319c1ddb94ae271 | Version: 1.0.7)
+ * DAEMON X MACHINA (App name: f4f0d39fbb4640e0be62aa91d9eca87d | Version: 1.0.6)
+ * Dandara: Trials of Fear Edition (App name: c35b9699c4e24c56976b5bd8eceba464 | Version: 1.4.11-pc)
+ * Darksiders II Deathinitive Edition (App name: Hoki | Version: 1.0)
+ * Death Stranding (App name: Boga | Version: 2742586.206.1)
+ * Death Stranding Content (App name: 5bf67f3153364181b54cb9e40ca7fa82 | Version: 1.01)
+  + DEATH STRANDING DIGITAL SOUNDTRACK (App name: 84067e3ec8f149b2bbf2342d7a136065 | Version: 1.02)
+  + HD Wallpaper (App name: f8bf1e29bbef480a9b28115ad0d644a0 | Version: 1.02)
+  + SELECTIONS OF TITAN ART BOOK (App name: c311b22f878749449886949eeb588999 | Version: 1.01)
+ * Dishonored - Definitive Edition (App name: d2da64bd4c4e422da4b1a88041492a3a | Version: 1.6)
+ * Dishonored®: Death of the Outsider™ (App name: 2fb8273dcf6f41e4899c0c881e047053 | Version: 0.0.0.4)
+ * Divine Knockout (App name: 2a7875f5060d4381af355104773ca649 | Version: 927)
+ * Duskers (App name: 1e9c3a9a10c6463e9c065f371b8b42bf | Version: 1.205)
+ * Dying Light Enhanced Edition (App name: 04a54ed532ce4fbfbf8fd5833f60def0 | Version: DL_1.49.6f1)
+  + Dying Light The Bozak (App name: 71816b992ef04030b1c58af6b9845fe5 | Version: BOZ_1.49.6f1)
+  + Dying Light The Following (App name: f653266870894ee1acbb5250e3b04bd1 | Version: FOLL_1.49.6f1)
+ * Enter the Gungeon (App name: Garlic | Version: 2.1.9a)
+ * Eximius: Seize the Frontline (App name: 70f92598b33d42e290e411f07397aeee | Version: 1.2.1-10780-357)
+ * F.I.S.T.: Forged In Shadow Torch (App name: bf4808b3395b43fb80afbe6773e1661f | Version: 1.200.001)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_2925_3)
+ * Faster Than Light (App name: Blowfish | Version: 1.6.12.Windows)
+ * Filament (App name: 14a38161ad3c45adab18425415b5df3d | Version: 1.21)
+ * First Class Trouble (App name: 0c942b2c920149ff986af1ed93c92ddf | Version: 1.7.9.5-36062)
+ * For The King (App name: Discus | Version: 45)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-24.10-CL-24903530-Windows)
+ * Gamedec - Definitive Edition (App name: a01150ee6deb406c92dd2b2445186163 | Version: 20221128_1.7.1.r70100)
+ * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 67)
+ * Godfall (App name: Carp | Version: 5.1.23-prod-stable)
+ * Guild of Dungeoneering (App name: b8bdc716e79e461bbf161d99f842f29a | Version: 0.02)
+ * Hell is Others (App name: 0e70be0cea0446599acb4c26d2e925f9 | Version: 2.0.2-20230404_1421)
+ * HITMAN 3 (App name: Eider | Version: 6519315)
+  + Berlin (App name: a94eddb97c72495f95350ce8840642b9 | Version: 7)
+  + Carpathian Mountains (App name: 62af9e3ead7a49d59f12ae6196af8117 | Version: 7)
+  + Chongquing (App name: 445902ab2a7841a1a2ec9d536dc4d297 | Version: 7)
+  + Dartmoor (App name: fc97ef705954490ab4bf3d6773bce766 | Version: 7)
+  + Dubai (App name: f73a0557f7fc4ca08e3cb2c0e5dfb22b | Version: 7)
+  + Mendoza (App name: 1ed82fbb0d7f42db93646185e267677f | Version: 7)
+ * Hood Outlaws and Legends (App name: 098f5323a3994362b6c68503d8cf3d57 | Version: HoodStaging2022R14Client_Win64Epic_Shipping_1601377.zip_Live)
+ * In Sound Mind (App name: 29ee5d32f328471590b3bd3ac03ed7d0 | Version: 1.027)
+ * InnerSpace (App name: Almond | Version: 1.0.0c)
+ * Insurmountable (App name: 8b556e7471ac46eda46445d93fa2e73f | Version: 2.0.7.3)
+ * Iratus (App name: 82ab0adb6e0b41bea531fcbb0c43cfc7 | Version: 0.96010)
+ * Jotun Valhalla Edition (App name: Grouse | Version: 1.02)
+ * Just Die Already (App name: 06621054d7d24f44bf13e3c31c9ec05d | Version: 1.4.2)
+ * Kerbal Space Program (App name: a1e2ce30defe4a9187ebc14fc9d2bd8b | Version: KSP.1.12.5.en-us)
+ * KID A MNESIA EXHIBITION (App name: 33411619626243f1859d0b7fb5cc5405 | Version: 0.0333.012725)
+ * Killing Floor 2 (App name: Finch | Version: 484021-2023_03_01_04h58m30s)
+ * KillingFloor2Beta (App name: 3223ccf6ac9b4189bd4e144c047d33fb | Version: NOVERSION-2022_10_20_16h30m51s)
+ * Kingdom Come Deliverance (App name: Eel | Version: 1.9.6-404-504czj3)
+ * Kingdom New Lands (App name: cacao | Version: 1.2.8-r2121-Windows)
+ * LEGO® Builder's Journey (App name: 806f3b7734764e2498962ce7b55c0dda | Version: 617)
+ * Loop Hero (App name: f7a0ebb44f93430fb1c4388a395eba96 | Version: 11054)
+ * Mages of Mystralia (App name: 4b920bb4aebf4586a4f6d823817fe32d | Version: 1.0)
+ * Metro Last Light Redux (App name: Speedwell | Version: 0.1.0.0)
+ * Minit (App name: Petrel | Version: 0.1-staging-win32)
+ * Moving Out (App name: 8e29583ae4b44a21883038668f7e301e | Version: 11)
+ * Never Alone (Kisima Ingitchuna) (App name: f38de9fa4c6d43eabac080942cb394a1 | Version: NeverAlone-Win-1.2.8)
+ * Pikuniku (App name: 48619f5656da446abccb727b78cda644 | Version: Win64_1)
+ * PREY (App name: 52d88e9a6df248da913c8e99f1e4c526 | Version: 1.8)
+ * Rage 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Redout: Enhanced Edition (App name: 1be5efb848844b1dabf9d67f8017a7ae | Version: 85e552)
+ * Remnant: From the Ashes (App name: b4a0d2d15acb4db894a599b810297543 | Version: Remnant_Win64_Shipping_275957)
+ * Riverbond (App name: 087f062df2574091a67fe614a6ec15a4 | Version: 22)
+ * Rocket League® (App name: Sugar | Version: BC2_Update41+415510)
+ * Rogue Company (App name: Pewee | Version: 1698)
+ * Rogue Legacy (App name: 01f1e8046e9e433db190a611a0411579 | Version: 1.4.1e_0)
+ * Saints Row The Third Remastered (App name: Loon | Version: SRTTR_20211028_epic_14th_patch)
+ * Second Extinction™ (App name: 18a85afedeac4ea885b27fee3e0c81db | Version: 0.0.335)
+ * Shadow Tactics Blades of the Shogun (App name: a334978574a840d594c31521592925f3 | Version: 3.2.25.F.r4769a)
+ * shapez (App name: e87a43f695bc409ca8858206678ac7e7 | Version: 1.5.5)
+ * Spellbreak (App name: Newt | Version: release.15196-7866)
+ * Star Wars Squadrons (App name: bobcat | Version: None)
+  - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin bobcat" to activate and/or run the game.
+ * Steep (App name: Barracuda | Version: 1.00)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Surviving Mars (App name: Ovenbird | Version: 1.5_Fuglesang.1011166-Windows)
+ * Terraforming Mars (App name: 582c8940f499450d9033840efe5937a6 | Version: Windows_2.0000.3.12730)
+ * The First Tree (App name: cd98b47155654e1f9a9e84e60d0b49e4 | Version: 1.0.0.32)
+ * The Spectrum Retreat (App name: 7b8fb449c8d3404ba7eda9cd4da1401b | Version: 1.0rc)
+ * The Vanishing of Ethan Carter (App name: 9447b19ffb6a47e1a654b75178779a28 | Version: 1.00)
+ * The Vanishing of Ethan Carter Redux (App name: 58a6b5e81c644fba8bab2e05137429d9 | Version: 1.05)
+ * The Witness (App name: Magnolia | Version: 2019_1_23_fix)
+ * Them's Fightin' Herds (App name: 2d9d7555ccdd4ceaa1b60e501ba0bacd | Version: 1680036237)
+ * Totally Accurate Battle Simulator (App name: Driftfish | Version: 1.1.4_win64)
+ * Trackmania (App name: Pigeon | Version: 1.2)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Vampyr (App name: Nautilus | Version: 666399-666439)
+ * Wargame: Red Dragon (App name: 2cd446792405468e9e87f67649d864c2 | Version: 72352)
+ * Watch Dogs (App name: Jasper | Version: 1.0)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * while True: learn() (App name: 4f272a49a39742b795d63e1f483a7c7d | Version: 1.6.100b.win64)
+ * Wolfenstein: The New Order (App name: a64dcf9b711a4a60a3c0b6f052dfc7da | Version: 1.3.1)
+ * Wonder Boy The Dragons Trap (App name: 4c30fe9841264abfb120b581d061a8fd | Version: sub0624-20220216-1.03g)
+ * XCOM 2 (App name: 3be3c4d681bc46b3b8b26c5df3ae0a18 | Version: 1.0.1_CL-870730)
+
+Total: 91
+[07/04/2023 10:02:42] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+
+Available games:
+ * A Plague Tale: Innocence (App name: e0fa47ae79514345823bff209ae29451 | Version: EGS_1.08.4)
+ * Alien: Isolation (App name: 8935bb3e1420443a9789fe01758039a5 | Version: 1.0RC5.284847.51533)
+ * Assassins Creed Syndicate (App name: Albacore | Version: 1.54)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Aztez (App name: Grunt | Version: 1.2-aeeb6200374fc01a6a51c3006846a350febeb243.21-Win)
+ * BioShock 2 Remastered (App name: b22ce34b4ce0408c97a888554447479b | Version: 1.0.0_BN-138_CL-17677)
+ * BioShock Infinite: Complete Edition (App name: f9d6f0530ea140909f8e8a997a7532d7 | Version: 1.0.0_BN-314_CL-17899)
+ * BioShock Remastered (App name: bc2c95c6ff564a16b26644f1d3ac3c55 | Version: 1.0.0_BN-187_CL-17677)
+ * Borderlands 3 (App name: Catnip | Version: 1.0.23_CL_2860060_Borderlands_3)
+ * Celeste (App name: Salt | Version: 1.4.0.0-Windows)
+ * Cities Skylines (App name: bcbc03d8812a44c18f41cf7d5f849265 | Version: 1.16.1-f3)
+ * City of Gangsters (App name: 002b00085aeb49b1a3f3c42e3f918f2f | Version: 1.4.3.5)
+ * Control (App name: Calluna | Version: 01.13)
+ * Cris Tales (App name: e7d92786abe54fae9319c1ddb94ae271 | Version: 1.0.7)
+ * DAEMON X MACHINA (App name: f4f0d39fbb4640e0be62aa91d9eca87d | Version: 1.0.6)
+ * Dandara: Trials of Fear Edition (App name: c35b9699c4e24c56976b5bd8eceba464 | Version: 1.4.11-pc)
+ * Darksiders II Deathinitive Edition (App name: Hoki | Version: 1.0)
+ * Death Stranding (App name: Boga | Version: 2742586.206.1)
+ * Death Stranding Content (App name: 5bf67f3153364181b54cb9e40ca7fa82 | Version: 1.01)
+  + DEATH STRANDING DIGITAL SOUNDTRACK (App name: 84067e3ec8f149b2bbf2342d7a136065 | Version: 1.02)
+  + HD Wallpaper (App name: f8bf1e29bbef480a9b28115ad0d644a0 | Version: 1.02)
+  + SELECTIONS OF TITAN ART BOOK (App name: c311b22f878749449886949eeb588999 | Version: 1.01)
+ * Dishonored - Definitive Edition (App name: d2da64bd4c4e422da4b1a88041492a3a | Version: 1.6)
+ * Dishonored®: Death of the Outsider™ (App name: 2fb8273dcf6f41e4899c0c881e047053 | Version: 0.0.0.4)
+ * Divine Knockout (App name: 2a7875f5060d4381af355104773ca649 | Version: 927)
+ * Duskers (App name: 1e9c3a9a10c6463e9c065f371b8b42bf | Version: 1.205)
+ * Dying Light Enhanced Edition (App name: 04a54ed532ce4fbfbf8fd5833f60def0 | Version: DL_1.49.6f1)
+  + Dying Light The Bozak (App name: 71816b992ef04030b1c58af6b9845fe5 | Version: BOZ_1.49.6f1)
+  + Dying Light The Following (App name: f653266870894ee1acbb5250e3b04bd1 | Version: FOLL_1.49.6f1)
+ * Enter the Gungeon (App name: Garlic | Version: 2.1.9a)
+ * Eximius: Seize the Frontline (App name: 70f92598b33d42e290e411f07397aeee | Version: 1.2.1-10780-357)
+ * F.I.S.T.: Forged In Shadow Torch (App name: bf4808b3395b43fb80afbe6773e1661f | Version: 1.200.001)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_2925_3)
+ * Faster Than Light (App name: Blowfish | Version: 1.6.12.Windows)
+ * Filament (App name: 14a38161ad3c45adab18425415b5df3d | Version: 1.21)
+ * First Class Trouble (App name: 0c942b2c920149ff986af1ed93c92ddf | Version: 1.7.9.5-36062)
+ * For The King (App name: Discus | Version: 45)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-24.10-CL-24903530-Windows)
+ * Gamedec - Definitive Edition (App name: a01150ee6deb406c92dd2b2445186163 | Version: 20221128_1.7.1.r70100)
+ * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 67)
+ * Godfall (App name: Carp | Version: 5.1.23-prod-stable)
+ * Guild of Dungeoneering (App name: b8bdc716e79e461bbf161d99f842f29a | Version: 0.02)
+ * Hell is Others (App name: 0e70be0cea0446599acb4c26d2e925f9 | Version: 2.0.2-20230404_1421)
+ * HITMAN 3 (App name: Eider | Version: 6519315)
+  + Berlin (App name: a94eddb97c72495f95350ce8840642b9 | Version: 7)
+  + Carpathian Mountains (App name: 62af9e3ead7a49d59f12ae6196af8117 | Version: 7)
+  + Chongquing (App name: 445902ab2a7841a1a2ec9d536dc4d297 | Version: 7)
+  + Dartmoor (App name: fc97ef705954490ab4bf3d6773bce766 | Version: 7)
+  + Dubai (App name: f73a0557f7fc4ca08e3cb2c0e5dfb22b | Version: 7)
+  + Mendoza (App name: 1ed82fbb0d7f42db93646185e267677f | Version: 7)
+ * Hood Outlaws and Legends (App name: 098f5323a3994362b6c68503d8cf3d57 | Version: HoodStaging2022R14Client_Win64Epic_Shipping_1601377.zip_Live)
+ * In Sound Mind (App name: 29ee5d32f328471590b3bd3ac03ed7d0 | Version: 1.027)
+ * InnerSpace (App name: Almond | Version: 1.0.0c)
+ * Insurmountable (App name: 8b556e7471ac46eda46445d93fa2e73f | Version: 2.0.7.3)
+ * Iratus (App name: 82ab0adb6e0b41bea531fcbb0c43cfc7 | Version: 0.96010)
+ * Jotun Valhalla Edition (App name: Grouse | Version: 1.02)
+ * Just Die Already (App name: 06621054d7d24f44bf13e3c31c9ec05d | Version: 1.4.2)
+ * Kerbal Space Program (App name: a1e2ce30defe4a9187ebc14fc9d2bd8b | Version: KSP.1.12.5.en-us)
+ * KID A MNESIA EXHIBITION (App name: 33411619626243f1859d0b7fb5cc5405 | Version: 0.0333.012725)
+ * Killing Floor 2 (App name: Finch | Version: 484021-2023_03_01_04h58m30s)
+ * KillingFloor2Beta (App name: 3223ccf6ac9b4189bd4e144c047d33fb | Version: NOVERSION-2022_10_20_16h30m51s)
+ * Kingdom Come Deliverance (App name: Eel | Version: 1.9.6-404-504czj3)
+ * Kingdom New Lands (App name: cacao | Version: 1.2.8-r2121-Windows)
+ * LEGO® Builder's Journey (App name: 806f3b7734764e2498962ce7b55c0dda | Version: 617)
+ * Loop Hero (App name: f7a0ebb44f93430fb1c4388a395eba96 | Version: 11054)
+ * Mages of Mystralia (App name: 4b920bb4aebf4586a4f6d823817fe32d | Version: 1.0)
+ * Metro Last Light Redux (App name: Speedwell | Version: 0.1.0.0)
+ * Minit (App name: Petrel | Version: 0.1-staging-win32)
+ * Moving Out (App name: 8e29583ae4b44a21883038668f7e301e | Version: 11)
+ * Never Alone (Kisima Ingitchuna) (App name: f38de9fa4c6d43eabac080942cb394a1 | Version: NeverAlone-Win-1.2.8)
+ * Pikuniku (App name: 48619f5656da446abccb727b78cda644 | Version: Win64_1)
+ * PREY (App name: 52d88e9a6df248da913c8e99f1e4c526 | Version: 1.8)
+ * Rage 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Redout: Enhanced Edition (App name: 1be5efb848844b1dabf9d67f8017a7ae | Version: 85e552)
+ * Remnant: From the Ashes (App name: b4a0d2d15acb4db894a599b810297543 | Version: Remnant_Win64_Shipping_275957)
+ * Riverbond (App name: 087f062df2574091a67fe614a6ec15a4 | Version: 22)
+ * Rocket League® (App name: Sugar | Version: BC2_Update41+415510)
+ * Rogue Company (App name: Pewee | Version: 1698)
+ * Rogue Legacy (App name: 01f1e8046e9e433db190a611a0411579 | Version: 1.4.1e_0)
+ * Saints Row The Third Remastered (App name: Loon | Version: SRTTR_20211028_epic_14th_patch)
+ * Second Extinction™ (App name: 18a85afedeac4ea885b27fee3e0c81db | Version: 0.0.335)
+ * Shadow Tactics Blades of the Shogun (App name: a334978574a840d594c31521592925f3 | Version: 3.2.25.F.r4769a)
+ * shapez (App name: e87a43f695bc409ca8858206678ac7e7 | Version: 1.5.5)
+ * Spellbreak (App name: Newt | Version: release.15196-7866)
+ * Star Wars Squadrons (App name: bobcat | Version: None)
+  - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin bobcat" to activate and/or run the game.
+ * Steep (App name: Barracuda | Version: 1.00)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Surviving Mars (App name: Ovenbird | Version: 1.5_Fuglesang.1011166-Windows)
+ * Terraforming Mars (App name: 582c8940f499450d9033840efe5937a6 | Version: Windows_2.0000.3.12730)
+ * The First Tree (App name: cd98b47155654e1f9a9e84e60d0b49e4 | Version: 1.0.0.32)
+ * The Spectrum Retreat (App name: 7b8fb449c8d3404ba7eda9cd4da1401b | Version: 1.0rc)
+ * The Vanishing of Ethan Carter (App name: 9447b19ffb6a47e1a654b75178779a28 | Version: 1.00)
+ * The Vanishing of Ethan Carter Redux (App name: 58a6b5e81c644fba8bab2e05137429d9 | Version: 1.05)
+ * The Witness (App name: Magnolia | Version: 2019_1_23_fix)
+ * Them's Fightin' Herds (App name: 2d9d7555ccdd4ceaa1b60e501ba0bacd | Version: 1680036237)
+ * Totally Accurate Battle Simulator (App name: Driftfish | Version: 1.1.4_win64)
+ * Trackmania (App name: Pigeon | Version: 1.2)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * Vampyr (App name: Nautilus | Version: 666399-666439)
+ * Wargame: Red Dragon (App name: 2cd446792405468e9e87f67649d864c2 | Version: 72352)
+ * Watch Dogs (App name: Jasper | Version: 1.0)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * while True: learn() (App name: 4f272a49a39742b795d63e1f483a7c7d | Version: 1.6.100b.win64)
+ * Wolfenstein: The New Order (App name: a64dcf9b711a4a60a3c0b6f052dfc7da | Version: 1.3.1)
+ * Wonder Boy The Dragons Trap (App name: 4c30fe9841264abfb120b581d061a8fd | Version: sub0624-20220216-1.03g)
+ * XCOM 2 (App name: 3be3c4d681bc46b3b8b26c5df3ae0a18 | Version: 1.0.1_CL-870730)
+
+Total: 91
+[07/04/2023 10:03:05] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info e87a43f695bc409ca8858206678ac7e7 --platform Windows --json
+[07/04/2023 10:03:05] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info e87a43f695bc409ca8858206678ac7e7 --platform Windows --json
+[07/04/2023 10:03:05] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info e87a43f695bc409ca8858206678ac7e7 --platform Windows --json
+[07/04/2023 10:03:05] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info e87a43f695bc409ca8858206678ac7e7 --platform Windows --json
+[Core] INFO: Trying to re-use existing login session...
+[Core] INFO: Trying to re-use existing login session...
+[Core] INFO: Trying to re-use existing login session...
+[Core] INFO: Trying to re-use existing login session...
+[Core] WARNING: Unable to download manifest from "download.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download2.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download2.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download2.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download2.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download3.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download3.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download3.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download3.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download4.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download4.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download4.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download4.epicgames.com" (status: 403), trying next URL...
+{"game": {"app_name": "e87a43f695bc409ca8858206678ac7e7", "title": "shapez", "version": "1.5.5", "platform_versions": {"Windows": "1.5.5"}, "cloud_saves_supported": false, "cloud_save_folder": null, "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "owned_dlc": []}, "install": null, "manifest": {"size": 88816, "type": "binary", "version": 17, "feature_level": 17, "app_name": "e87a43f695bc409ca8858206678ac7e7", "launch_exe": "shapezio.exe", "launch_command": "--disable-direct-composition --in-process-gpu", "build_version": "1.5.5", "build_id": "DDLAcL5FPt0ZRCEEhCaVAZDuyog", "prerequisites": null, "install_tags": [""], "num_files": 1927, "num_chunks": 361, "disk_size": 378312919, "download_size": 261448085, "tag_disk_size": [], "tag_download_size": []}}
+{"game": {"app_name": "e87a43f695bc409ca8858206678ac7e7", "title": "shapez", "version": "1.5.5", "platform_versions": {"Windows": "1.5.5"}, "cloud_saves_supported": false, "cloud_save_folder": null, "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "owned_dlc": []}, "install": null, "manifest": {"size": 88816, "type": "binary", "version": 17, "feature_level": 17, "app_name": "e87a43f695bc409ca8858206678ac7e7", "launch_exe": "shapezio.exe", "launch_command": "--disable-direct-composition --in-process-gpu", "build_version": "1.5.5", "build_id": "DDLAcL5FPt0ZRCEEhCaVAZDuyog", "prerequisites": null, "install_tags": [""], "num_files": 1927, "num_chunks": 361, "disk_size": 378312919, "download_size": 261448085, "tag_disk_size": [], "tag_download_size": []}}
+{"game": {"app_name": "e87a43f695bc409ca8858206678ac7e7", "title": "shapez", "version": "1.5.5", "platform_versions": {"Windows": "1.5.5"}, "cloud_saves_supported": false, "cloud_save_folder": null, "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "owned_dlc": []}, "install": null, "manifest": {"size": 88816, "type": "binary", "version": 17, "feature_level": 17, "app_name": "e87a43f695bc409ca8858206678ac7e7", "launch_exe": "shapezio.exe", "launch_command": "--disable-direct-composition --in-process-gpu", "build_version": "1.5.5", "build_id": "DDLAcL5FPt0ZRCEEhCaVAZDuyog", "prerequisites": null, "install_tags": [""], "num_files": 1927, "num_chunks": 361, "disk_size": 378312919, "download_size": 261448085, "tag_disk_size": [], "tag_download_size": []}}
+{"game": {"app_name": "e87a43f695bc409ca8858206678ac7e7", "title": "shapez", "version": "1.5.5", "platform_versions": {"Windows": "1.5.5"}, "cloud_saves_supported": false, "cloud_save_folder": null, "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "owned_dlc": []}, "install": null, "manifest": {"size": 88816, "type": "binary", "version": 17, "feature_level": 17, "app_name": "e87a43f695bc409ca8858206678ac7e7", "launch_exe": "shapezio.exe", "launch_command": "--disable-direct-composition --in-process-gpu", "build_version": "1.5.5", "build_id": "DDLAcL5FPt0ZRCEEhCaVAZDuyog", "prerequisites": null, "install_tags": [""], "num_files": 1927, "num_chunks": 361, "disk_size": 378312919, "download_size": 261448085, "tag_disk_size": [], "tag_download_size": []}}
+[07/04/2023 10:16:28] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary install e87a43f695bc409ca8858206678ac7e7 --platform Windows --base-path /home/logy/Games/Heroic --skip-dlcs --skip-sdl -y
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Preparing download for "shapez" (e87a43f695bc409ca8858206678ac7e7)...
+[Core] WARNING: Unable to download manifest from "download.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download2.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download3.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download4.epicgames.com" (status: 403), trying next URL...
+[Core] INFO: Parsing game manifest...
+[Core] INFO: Install path: /home/logy/Games/Heroic/shapezaa2PF
+[Core] INFO: Selected CDN: download.epicgames.com (https)
+[cli] INFO: Install size: 360.79 MiB
+[cli] INFO: Download size: 249.34 MiB (Compression savings: 30.9%)
+[cli] INFO: Reusable size: 0.00 MiB (chunks) / 0.00 MiB (unchanged / skipped)
+[cli] INFO: Downloads are resumable, you can interrupt the download with CTRL-C and resume it using the same command later on.
+[DLManager] INFO: Download Manager running with process-id: 4077
+[DLManager] INFO: Starting download workers...
+[DLManager] INFO: Starting file writing worker...
+[DLManager] INFO: = Progress: 0.00% (0/2287), Running for 00:00:00, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 0.00 MiB, Written: 0.00 MiB
+[DLManager] INFO:  - Cache usage: 3.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 0.00 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 0.00% (0/2287), Running for 00:00:00, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 0.36 MiB, Written: 0.00 MiB
+[DLManager] INFO:  - Cache usage: 33.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 0.36 MiB/s (raw) / 1.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 0.00 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 1.22% (28/2287), Running for 00:00:02, ETA: 00:02:42
+[DLManager] INFO:  - Downloaded: 18.65 MiB, Written: 22.00 MiB
+[DLManager] INFO:  - Cache usage: 55.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 18.26 MiB/s (raw) / 43.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 21.96 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 4.55% (104/2287), Running for 00:00:03, ETA: 00:01:03
+[DLManager] INFO:  - Downloaded: 31.87 MiB, Written: 42.00 MiB
+[DLManager] INFO:  - Cache usage: 51.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 13.21 MiB/s (raw) / 15.99 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 19.98 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 85.40% (1953/2287), Running for 00:00:04, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 48.88 MiB, Written: 61.00 MiB
+[DLManager] INFO:  - Cache usage: 50.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 17.00 MiB/s (raw) / 17.99 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 18.99 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 85.66% (1959/2287), Running for 00:00:05, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 66.81 MiB, Written: 67.00 MiB
+[DLManager] INFO:  - Cache usage: 62.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 17.90 MiB/s (raw) / 17.98 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 5.99 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 85.66% (1959/2287), Running for 00:00:06, ETA: 00:00:01
+[DLManager] INFO:  - Downloaded: 82.77 MiB, Written: 67.00 MiB
+[DLManager] INFO:  - Cache usage: 78.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 15.94 MiB/s (raw) / 15.98 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 0.00 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 87.41% (1999/2287), Running for 00:00:07, ETA: 00:00:01
+[DLManager] INFO:  - Downloaded: 99.74 MiB, Written: 106.00 MiB
+[DLManager] INFO:  - Cache usage: 56.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 16.94 MiB/s (raw) / 16.98 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 38.95 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 87.89% (2010/2287), Running for 00:00:08, ETA: 00:00:01
+[DLManager] INFO:  - Downloaded: 112.70 MiB, Written: 117.00 MiB
+[DLManager] INFO:  - Cache usage: 58.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 12.94 MiB/s (raw) / 12.98 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 10.99 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 88.46% (2023/2287), Running for 00:00:09, ETA: 00:00:01
+[DLManager] INFO:  - Downloaded: 126.66 MiB, Written: 130.00 MiB
+[DLManager] INFO:  - Cache usage: 59.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 13.95 MiB/s (raw) / 13.99 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 12.99 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 88.46% (2023/2287), Running for 00:00:10, ETA: 00:00:01
+[DLManager] INFO:  - Downloaded: 139.24 MiB, Written: 130.00 MiB
+[DLManager] INFO:  - Cache usage: 72.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 12.56 MiB/s (raw) / 12.98 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 0.00 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 88.89% (2033/2287), Running for 00:00:11, ETA: 00:00:01
+[DLManager] INFO:  - Downloaded: 149.94 MiB, Written: 140.00 MiB
+[DLManager] INFO:  - Cache usage: 73.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 10.69 MiB/s (raw) / 10.99 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 9.99 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 89.90% (2056/2287), Running for 00:00:12, ETA: 00:00:01
+[DLManager] INFO:  - Downloaded: 163.55 MiB, Written: 163.00 MiB
+[DLManager] INFO:  - Cache usage: 64.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 13.60 MiB/s (raw) / 13.99 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 22.98 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 91.25% (2087/2287), Running for 00:00:13, ETA: 00:00:01
+[DLManager] INFO:  - Downloaded: 176.29 MiB, Written: 193.00 MiB
+[DLManager] INFO:  - Cache usage: 48.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 12.72 MiB/s (raw) / 13.98 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 29.96 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 91.65% (2096/2287), Running for 00:00:14, ETA: 00:00:01
+[DLManager] INFO:  - Downloaded: 189.87 MiB, Written: 202.00 MiB
+[DLManager] INFO:  - Cache usage: 61.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 13.56 MiB/s (raw) / 21.97 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 8.99 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 94.84% (2169/2287), Running for 00:00:15, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 207.63 MiB, Written: 251.00 MiB
+[DLManager] INFO:  - Cache usage: 45.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 17.73 MiB/s (raw) / 32.95 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 48.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 96.37% (2204/2287), Running for 00:00:16, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 219.22 MiB, Written: 286.00 MiB
+[DLManager] INFO:  - Cache usage: 36.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 11.58 MiB/s (raw) / 25.96 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 34.95 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 96.76% (2213/2287), Running for 00:00:17, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 231.00 MiB, Written: 295.00 MiB
+[DLManager] INFO:  - Cache usage: 52.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 11.77 MiB/s (raw) / 24.98 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 8.99 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 99.52% (2276/2287), Running for 00:00:18, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 246.92 MiB, Written: 355.00 MiB
+[DLManager] INFO:  - Cache usage: 6.00 MiB, active tasks: 6
+[DLManager] INFO:  + Download	- 15.90 MiB/s (raw) / 39.95 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 59.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 100.00% (2287/2287), Running for 00:00:19, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 249.34 MiB, Written: 360.79 MiB
+[DLManager] INFO:  - Cache usage: 0.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 2.41 MiB/s (raw) / 5.99 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 5.78 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: Waiting for installation to finish...
+[DLManager] INFO: All done! Download manager quitting...
+[cli] INFO: Finished installation process in 20.08 seconds.

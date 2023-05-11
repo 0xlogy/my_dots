@@ -1,0 +1,148 @@
+{
+	"finished": [
+		{
+			"params": {
+				"appName": "1682649193",
+				"path": "/home/logy/Games/Heroic",
+				"installDlcs": false,
+				"sdlList": [],
+				"installLanguage": "en",
+				"runner": "gog",
+				"platformToInstall": "linux",
+				"gameInfo": {
+					"runner": "gog",
+					"store_url": "https://gog.com/en/game/one_dreamer",
+					"developer": "F2House",
+					"app_name": "1682649193",
+					"art_cover": "https://images-1.gog-statics.com/89c81d3bc2ae66d2b0e670cb27ec1476c7cbce8f73e535a0cef9d4e1e88425c8.jpg",
+					"art_square": "https://images.gog.com/5fef78f5d03a502fb8d88136a1c48fb00c4395caa90a058d138c3189aeb41917.jpg?namespace=gamesdb",
+					"cloud_save_enabled": true,
+					"extra": {
+						"about": {
+							"description": "Help Frank, a burnt out indie game developer, rediscover his love for video games while struggling to release his debut title. Reprogram objects, fix bugs and solve coding puzzles as you journey through the story of One Dreamer.",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://gog.com/en/game/one_dreamer"
+					},
+					"folder_name": "",
+					"install": {
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "one_dreamer",
+					"save_folder": "",
+					"title": "One Dreamer",
+					"canRunOffline": true,
+					"is_mac_native": true,
+					"is_linux_native": true
+				},
+				"size": "591.37 MiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1676760573964,
+			"endTime": 1676760623083,
+			"startTime": 1676760573968,
+			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "2070729622",
+				"runner": "gog",
+				"gameInfo": {
+					"runner": "gog",
+					"store_url": "https://gog.com/en/game/exapunks",
+					"developer": "Zachtronics",
+					"app_name": "2070729622",
+					"art_cover": "https://images-3.gog-statics.com/2a6029c976f582e71ca7ee811bf68d97daae16d0a056de4641a1c4e47702eb0b.jpg",
+					"art_square": "https://images.gog.com/8c18c124acababa38e944199c8bd65f40387134a3cf46958537f2906505e48ac.jpg?namespace=gamesdb",
+					"cloud_save_enabled": true,
+					"extra": {
+						"about": {
+							"description": "The year is 1997. You used to be a hacker, but now you have the phage. You made a deal: one hack, one dose. There’s nothing left to lose… except your life.",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://gog.com/en/game/exapunks"
+					},
+					"folder_name": "EXAPUNKS",
+					"install": {
+						"platform": "linux",
+						"executable": "",
+						"install_path": "/home/logy/Games/Heroic/EXAPUNKS",
+						"install_size": "701.57 MiB",
+						"is_dlc": false,
+						"version": "gog-11.14.2020",
+						"appName": "2070729622",
+						"installedWithDLCs": false,
+						"language": "en",
+						"versionEtag": "",
+						"buildId": ""
+					},
+					"is_installed": true,
+					"namespace": "exapunks",
+					"save_folder": "",
+					"title": "EXAPUNKS",
+					"canRunOffline": true,
+					"is_mac_native": true,
+					"is_linux_native": true
+				},
+				"path": "/home/logy/Games/Heroic/EXAPUNKS",
+				"platformToInstall": "linux",
+				"size": "569.2 MiB"
+			},
+			"type": "update",
+			"addToQueueTime": 1680733929080,
+			"endTime": 1680733947195,
+			"startTime": 1680733929087,
+			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "e87a43f695bc409ca8858206678ac7e7",
+				"path": "/home/logy/Games/Heroic",
+				"installDlcs": false,
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "e87a43f695bc409ca8858206678ac7e7",
+					"art_cover": "https://cdn1.epicgames.com/spt-assets/6aac3071aeae452990a71aac0a1fbc30/shapez-b1eas.png",
+					"art_square": "https://cdn1.epicgames.com/spt-assets/6aac3071aeae452990a71aac0a1fbc30/shapez-vaox3.png",
+					"cloud_save_enabled": false,
+					"developer": "Prismatika GmbH",
+					"extra": {
+						"about": {
+							"description": "shapez",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/shapez"
+					},
+					"folder_name": "shapezaa2PF",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "315e6807f6684c279fc286d0fc36a44f",
+					"is_mac_native": false,
+					"save_folder": "",
+					"title": "shapez",
+					"canRunOffline": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/shapez"
+				},
+				"size": "249.34 MiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1680855388340,
+			"endTime": 1680855413288,
+			"startTime": 1680855388345,
+			"status": "done"
+		}
+	],
+	"queue": []
+}

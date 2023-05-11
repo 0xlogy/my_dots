@@ -1,0 +1,48 @@
+System Info:
+Heroic Version: 2.6.2 Trafalgar Law
+Legendary Version:  0.20.32 Dark Energy (hotfix #6)
+GOGdl Version: 0.6
+
+Electron Version: 22.2.0
+Chrome Version: 108.0.5359.215
+NodeJS Version: 16.17.1
+
+OS: ManjaroLinux KERNEL: 5.15.85-1-MANJARO ARCH: x64
+CPU: Intel Gen Intel® Core™ i7-1195G7 @2.9 GOVERNOR: powersave
+RAM: Total: 15.34 GiB Available: 12.43 GiB
+GRAPHICS: GPU0: TigerLake-LP GT2 [Iris Xe Graphics]  VRAM: 256MB  
+PROTOCOL: x11
+
+Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallVkd3d": true,
+	"preferSystemLibs": false,
+	"nvidiaPrime": false,
+	"enviromentOptions": [],
+	"wrapperOptions": [],
+	"showFps": false,
+	"useGameMode": false,
+	"language": "",
+	"wineVersion": {
+		"bin": "",
+		"name": "Default Wine - Not Found",
+		"type": "wine"
+	},
+	"winePrefix": "/home/logy/.wine"
+}
+
+Game launched at: Sat Feb 18 2023 23:51:39 GMT+0100 (heure normale d’Europe centrale)
+
+Launch Command: LD_PRELOAD= /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl launch "/home/logy/Games/Heroic/One Dreamer" 1682649193 --platform linux
+
+Game Log:
+Running One Dreamer
+Set current directory to /home/logy/Games/Heroic/One Dreamer/game
+Found path: /home/logy/Games/Heroic/One Dreamer/game/One Dreamer.x86_64
+Mono path[0] = '/home/logy/Games/Heroic/One Dreamer/game/One Dreamer_Data/Managed'
+Mono path[1] = '/home/logy/Games/Heroic/One Dreamer/game/One Dreamer_Data/Mono'
+Mono config path = '/home/logy/Games/Heroic/One Dreamer/game/One Dreamer_Data/Mono/etc'
+Preloaded 'ScreenSelector.so'
+Preloaded 'libsteam_api.so'
+Player data archive not found at `/home/logy/Games/Heroic/One Dreamer/game/One Dreamer_Data/data.unity3d`, using local filesystemLaunch command: ['/home/logy/Games/Heroic/One Dreamer/start.sh']
+All processes exited

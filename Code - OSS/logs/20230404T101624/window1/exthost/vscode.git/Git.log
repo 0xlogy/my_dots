@@ -1,0 +1,44 @@
+2023-04-04 10:16:26.305 [info] Log level: Info
+2023-04-04 10:16:26.305 [info] Validating found git in: "git"
+2023-04-04 10:16:26.305 [info] Using git "2.40.0" from "git"
+2023-04-04 10:16:26.305 [info] > git rev-parse --show-toplevel [4ms]
+2023-04-04 10:16:26.305 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-04 10:16:26.305 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-04 10:16:26.305 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-04 10:16:26.305 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-04 10:16:26.305 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-04-04 10:16:26.305 [info] Open repository: /home/logy/Documents/td_parser/criterion
+2023-04-04 10:16:26.305 [info] > git rev-parse --show-toplevel [5ms]
+2023-04-04 10:16:26.305 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-04 10:16:26.305 [info] > git config --get commit.template [5ms]
+2023-04-04 10:16:26.305 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-04 10:16:26.305 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-04 10:16:26.305 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/bleeding refs/remotes/bleeding [21ms]
+2023-04-04 10:16:26.305 [info] > git status -z -uall [7ms]
+2023-04-04 10:16:26.305 [info] > git config --get commit.template [0ms]
+2023-04-04 10:16:26.305 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/bleeding refs/remotes/bleeding [1ms]
+2023-04-04 10:16:26.306 [info] > git status -z -uall [6ms]
+2023-04-04 10:16:26.325 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-04 10:16:26.325 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-04 10:16:26.507 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-04 10:16:26.507 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-04 10:16:26.776 [info] > git check-ignore -v -z --stdin [0ms]
+2023-04-04 10:16:26.812 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-04 10:16:26.815 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-04-04 10:16:26.818 [info] Open repository: /home/logy/Documents/td_parser/criterion/dependencies/klib
+2023-04-04 10:16:26.824 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-04 10:16:26.829 [info] > git config --get commit.template [5ms]
+2023-04-04 10:16:26.829 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-04-04 10:16:26.831 [info] Open repository: /home/logy/Documents/td_parser/criterion/dependencies/debugbreak
+2023-04-04 10:16:26.839 [info] > git config --get commit.template [1ms]
+2023-04-04 10:16:26.839 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [4ms]
+2023-04-04 10:16:26.847 [info] > git status -z -uall [4ms]
+2023-04-04 10:16:26.851 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [4ms]
+2023-04-04 10:16:26.856 [info] > git status -z -uall [2ms]
+2023-04-04 10:16:27.334 [info] > git check-ignore -v -z --stdin [1ms]

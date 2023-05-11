@@ -1,0 +1,33 @@
+2023/04/27-09:30:33.842 d6b Reusing MANIFEST /home/logy/.config/microsoft-edge/Default/Local Extension Settings/bdaafgjhhjkdplpffldcncdignokfkbo/MANIFEST-000001
+2023/04/27-09:30:33.843 d6b Recovering log #3
+2023/04/27-09:30:33.847 d6b Reusing old log /home/logy/.config/microsoft-edge/Default/Local Extension Settings/bdaafgjhhjkdplpffldcncdignokfkbo/000003.log 
+2023/04/27-10:27:35.213 d6c Level-0 table #5: started
+2023/04/27-10:27:35.220 d6c Level-0 table #5: 591899 bytes OK
+2023/04/27-10:27:35.223 d6c Delete type=0 #3
+2023/04/27-12:06:35.949 d6c Level-0 table #7: started
+2023/04/27-12:06:35.953 d6c Level-0 table #7: 253791 bytes OK
+2023/04/27-12:06:35.957 d6c Delete type=0 #4
+2023/04/27-13:14:36.469 d6c Level-0 table #9: started
+2023/04/27-13:14:36.475 d6c Level-0 table #9: 242202 bytes OK
+2023/04/27-13:14:36.480 d6c Delete type=0 #6
+2023/04/27-14:09:36.880 d6c Level-0 table #11: started
+2023/04/27-14:09:36.884 d6c Level-0 table #11: 241379 bytes OK
+2023/04/27-14:09:36.889 d6c Delete type=0 #8
+2023/04/27-14:57:37.271 d6c Level-0 table #13: started
+2023/04/27-14:57:37.276 d6c Level-0 table #13: 238020 bytes OK
+2023/04/27-14:57:37.280 d6c Delete type=0 #10
+2023/04/27-15:39:37.542 d6c Level-0 table #15: started
+2023/04/27-15:39:37.565 d6c Level-0 table #15: 229190 bytes OK
+2023/04/27-15:39:37.567 d6c Delete type=0 #12
+2023/04/27-15:39:37.568 d6c Compacting 4@0 + 1@1 files
+2023/04/27-15:39:37.574 d6c Generated table #16@0: 1 keys, 5754 bytes
+2023/04/27-15:39:37.574 d6c Compacted 4@0 + 1@1 files => 5754 bytes
+2023/04/27-15:39:37.577 d6c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/27-15:39:37.577 d6c Delete type=2 #7
+2023/04/27-15:39:37.577 d6c Delete type=2 #9
+2023/04/27-15:39:37.577 d6c Delete type=2 #11
+2023/04/27-15:39:37.577 d6c Delete type=2 #13
+2023/04/27-15:39:37.577 d6c Delete type=2 #15
+2023/04/27-16:18:37.836 d6c Level-0 table #18: started
+2023/04/27-16:18:37.841 d6c Level-0 table #18: 230298 bytes OK
+2023/04/27-16:18:37.845 d6c Delete type=0 #14

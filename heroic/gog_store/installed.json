@@ -1,0 +1,30 @@
+{
+	"installed": [
+		{
+			"platform": "linux",
+			"executable": "",
+			"install_path": "/home/logy/Games/Heroic/One Dreamer",
+			"install_size": "1.18 GiB",
+			"is_dlc": false,
+			"version": "1.0.7",
+			"appName": "1682649193",
+			"installedWithDLCs": false,
+			"language": "en",
+			"versionEtag": "",
+			"buildId": ""
+		},
+		{
+			"platform": "linux",
+			"executable": "",
+			"install_path": "/home/logy/Games/Heroic/EXAPUNKS",
+			"install_size": "701.57 MiB",
+			"is_dlc": false,
+			"version": "gog-26.03.2023",
+			"appName": "2070729622",
+			"installedWithDLCs": false,
+			"language": "en",
+			"versionEtag": "",
+			"buildId": ""
+		}
+	]
+}

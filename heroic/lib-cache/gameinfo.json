@@ -1,0 +1,36 @@
+{
+	"315e6807f6684c279fc286d0fc36a44f": {
+		"about": {
+			"description": "shapez is a game about building factories to automate the creation and processing of increasingly complex shapes across an infinitely expanding map.",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Windows 10 64bit",
+				"recommended": "Windows 10 64bit",
+				"title": "OS version"
+			},
+			{
+				"minimum": "2 Ghz or faster",
+				"recommended": "2 Ghz or faster",
+				"title": "CPU"
+			},
+			{
+				"minimum": "2048 MB RAM",
+				"recommended": "4096 MB RAM",
+				"title": "Memory"
+			},
+			{
+				"minimum": "Any",
+				"recommended": "Dedicated Graphics Card",
+				"title": "GPU"
+			},
+			{
+				"minimum": "300 MB available space",
+				"recommended": null,
+				"title": "Storage"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/shapez-0929c9"
+	}
+}

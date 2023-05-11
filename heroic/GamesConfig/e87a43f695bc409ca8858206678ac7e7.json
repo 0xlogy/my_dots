@@ -1,0 +1,22 @@
+{
+  "e87a43f695bc409ca8858206678ac7e7": {
+    "autoInstallDxvk": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "language": "",
+    "wineVersion": {
+      "bin": "",
+      "name": "Default Wine - Not Found",
+      "type": "wine"
+    },
+    "winePrefix": "/home/logy/Games/Heroic/Prefixes/shapez",
+    "wineCrossoverBottle": ""
+  },
+  "version": "v0",
+  "explicit": true
+}

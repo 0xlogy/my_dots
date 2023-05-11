@@ -1,0 +1,6 @@
+2023-02-26 16:11:17.520 [info] update#ctor - updates are disabled as there is no update URL
+2023-02-26 16:11:18.425 [info] Starting extension host with pid 10646 (fork() took 7 ms).
+2023-02-26 16:19:04.461 [info] Extension host with pid 10646 exited with code: 0, signal: null.
+2023-02-26 16:19:05.412 [info] Starting extension host with pid 12157 (fork() took 8 ms).
+2023-02-26 16:32:23.615 [info] Waiting for extension host with pid 12157 to exit.
+2023-02-26 16:32:23.620 [info] Extension host with pid 12157 exited with code: 0, signal: null.

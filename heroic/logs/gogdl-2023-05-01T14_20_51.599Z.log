@@ -1,0 +1,18 @@
+[01/05/2023 16:20:52] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+0.6
+[01/05/2023 16:50:45] LD_PRELOAD= /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl launch /home/logy/Games/Heroic/EXAPUNKS 2070729622 --platform linux
+Running EXAPUNKS
+/usr/bin/xdg-open : ligne 756 : 292612 Erreur de segmentation  env "$command" "$@"
+/usr/bin/xdg-open: ligne 880: x-www-browser : commande introuvable
+/usr/bin/xdg-open : ligne 756 : 291025 Erreur de segmentation  env "$command" "$@"
+/usr/bin/xdg-open: ligne 880: x-www-browser : commande introuvable
+/usr/bin/xdg-open : ligne 756 : 291333 Erreur de segmentation  env "$command" "$@"
+/usr/bin/xdg-open: ligne 880: x-www-browser : commande introuvable
+/usr/bin/xdg-open : ligne 756 : 291978 Erreur de segmentation  env "$command" "$@"
+/usr/bin/xdg-open: ligne 880: x-www-browser : commande introuvable
+/usr/bin/xdg-open : ligne 756 : 291711 Erreur de segmentation  env "$command" "$@"
+/usr/bin/xdg-open: ligne 880: x-www-browser : commande introuvable
+/usr/bin/xdg-open : ligne 756 : 291575 Erreur de segmentation  env "$command" "$@"
+/usr/bin/xdg-open: ligne 880: x-www-browser : commande introuvable
+Launch command: ['/home/logy/Games/Heroic/EXAPUNKS/start.sh']
+All processes exited

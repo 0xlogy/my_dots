@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=mel.kelly.maisonnave@gmail.com
+Enabled=true
+Parent=e2a30ce08eff0cb028809412e99ffbac949f465e
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=mel.kelly.maisonnave@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false

@@ -1,0 +1,41 @@
+{
+	"e87a43f695bc409ca8858206678ac7e7": {
+		"game": {
+			"app_name": "e87a43f695bc409ca8858206678ac7e7",
+			"title": "shapez",
+			"version": "1.5.5",
+			"platform_versions": {
+				"Windows": "1.5.5"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 88816,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "e87a43f695bc409ca8858206678ac7e7",
+			"launch_exe": "shapezio.exe",
+			"launch_command": "--disable-direct-composition --in-process-gpu",
+			"build_version": "1.5.5",
+			"build_id": "DDLAcL5FPt0ZRCEEhCaVAZDuyog",
+			"prerequisites": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 1927,
+			"num_chunks": 361,
+			"disk_size": 378312919,
+			"download_size": 261448085,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	}
+}

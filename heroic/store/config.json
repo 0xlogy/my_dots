@@ -1,0 +1,124 @@
+{
+	"general-logs": {
+		"currentLogFile": "/home/logy/.config/heroic/logs/heroic-2023-05-01T14_20_51.599Z.log",
+		"lastLogFile": "/home/logy/.config/heroic/logs/heroic-2023-04-07T08_00_09.705Z.log",
+		"legendaryLogFile": "/home/logy/.config/heroic/logs/legendary-2023-05-01T14_20_51.599Z.log",
+		"gogdlLogFile": "/home/logy/.config/heroic/logs/gogdl-2023-05-01T14_20_51.599Z.log"
+	},
+	"settings": {
+		"checkUpdatesInterval": 10,
+		"enableUpdates": false,
+		"addDesktopShortcuts": false,
+		"addStartMenuShortcuts": false,
+		"autoInstallDxvk": true,
+		"autoInstallVkd3d": true,
+		"addSteamShortcuts": false,
+		"preferSystemLibs": false,
+		"checkForUpdatesOnStartup": true,
+		"autoUpdateGames": false,
+		"customWinePaths": [],
+		"defaultInstallPath": "/home/logy/Games/Heroic",
+		"libraryTopSection": "disabled",
+		"defaultSteamPath": "/home/logy/.steam/steam",
+		"defaultWinePrefix": "/home/logy/Games/Heroic/Prefixes",
+		"hideChangelogsOnStartup": false,
+		"language": "en",
+		"maxWorkers": 0,
+		"minimizeOnLaunch": false,
+		"nvidiaPrime": false,
+		"enviromentOptions": [],
+		"wrapperOptions": [],
+		"showFps": false,
+		"useGameMode": false,
+		"userInfo": {
+			"name": "logy"
+		},
+		"wineCrossoverBottle": "Heroic",
+		"winePrefix": "/home/logy/.wine",
+		"wineVersion": {
+			"bin": "",
+			"name": "Default Wine - Not Found",
+			"type": "wine"
+		}
+	},
+	"userHome": "/home/logy",
+	"language": "en",
+	"games": {
+		"recent": [
+			{
+				"appName": "2070729622",
+				"title": "EXAPUNKS"
+			},
+			{
+				"appName": "1682649193",
+				"title": "One Dreamer"
+			}
+		]
+	},
+	"theme": "high-contrast",
+	"window-props": {
+		"x": 35,
+		"y": 61,
+		"width": 1850,
+		"height": 1104
+	},
+	"userInfo": {
+		"account_id": "c675ba8ab54f4c7b9f573a51c9a9ebf9",
+		"displayName": "Lyogen",
+		"user": "logy"
+	},
+	"shapez": {
+		"timestampLastFetch": "Fri Apr 07 2023 10:03:05 GMT+0200 (heure d’été d’Europe centrale)",
+		"pcgamingwiki": {
+			"steamID": "1318690",
+			"howLongToBeatID": "80051",
+			"metacritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"opencritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"igdb": {
+				"score": "",
+				"urlid": ""
+			},
+			"direct3DVersions": [
+				"11"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"id": "80051",
+			"name": "shapez.io",
+			"description": "",
+			"platforms": [
+				"PC"
+			],
+			"imageUrl": "https://howlongtobeat.com/games/80051_shapezio.jpg",
+			"timeLabels": [
+				[
+					"Main",
+					"Main"
+				],
+				[
+					"Main + Extra",
+					"Main + Extra"
+				],
+				[
+					"Completionist",
+					"Completionist"
+				]
+			],
+			"gameplayMain": 26,
+			"gameplayMainExtra": 35,
+			"gameplayCompletionist": 40,
+			"similarity": 0.67,
+			"searchTerm": "shapez",
+			"playableOn": [
+				"PC"
+			]
+		}
+	}
+}

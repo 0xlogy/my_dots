@@ -1,0 +1,326 @@
+{
+  "app_name": "Fortnite",
+  "app_title": "Fortnite",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Fortnite",
+      "asset_id": "Fortnite",
+      "build_version": "++Fortnite+Release-24.10-CL-24903530-Windows",
+      "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "FortniteInstallationPool"
+      },
+      "namespace": "fn"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2014-09-12T15:20:06.103Z",
+    "customAttributes": {
+      "AppAccessType": {
+        "type": "STRING",
+        "value": "Public"
+      },
+      "CanSkipCabinedWarning": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Fortnite"
+      },
+      "HasGateKeeper": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "LaunchSocialOnFirstInstall": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{\"Requirements\": {\"MacOS\": {\"MinMajorVersion\": 10, \"MinMinorVersion\" : 13, \"MinRevision\" : 6 }}}"
+      },
+      "SysTrayRestore": {
+        "type": "STRING",
+        "value": "{\"SysTrayRestoreDisable\": \"2022-12-03T20:00:00.000Z\", \"SysTrayRestoreEnable\": \"2022-12-04T12:00:00.000Z\"}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "com.epicgames.portal.product.privacyPolicyUrl": {
+        "type": "STRING",
+        "value": "https://www.epicgames.com/site/privacypolicy"
+      },
+      "com.epicgames.portal.product.websiteUrl": {
+        "type": "STRING",
+        "value": "https://www.epicgames.com/fortnite/home"
+      }
+    },
+    "description": "Cr\u00e9ez, jouez et affrontez vos amis gratuitement dans Fortnite. Soyez le dernier survivant dans Battle Royale et Z\u00e9ro construction, participez \u00e0 des concerts et des \u00e9v\u00e9nements ou lancez-vous dans plus d'un million de jeux con\u00e7us par des cr\u00e9ateurs dans une multitude de genres\u00a0: course, parkour, survie... Tout cela, c'est dans Fortnite\u00a0!",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons/launchable"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-08-04T22:15:10.018Z",
+        "customAttributes": {
+          "AdditionalCommandLine": {
+            "type": "STRING",
+            "value": "-epicapp=Fortnite"
+          },
+          "CanSkipCabinedWarning": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Unreal Editor pour Fortnite",
+        "developer": "Epic Games",
+        "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+        "endOfSupport": false,
+        "entitlementName": "1e8bda5cfbb641b9a9aea8bd62285f73",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "1e8bda5cfbb641b9a9aea8bd62285f73",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "d94a058fcb950275a94acfba532061f7",
+            "size": 1002542,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-03-23T16:57:42.867Z",
+            "url": "https://cdn1.epicgames.com/offer/fn/FR_EpicGames_UEFN_S4_1200x1600_1200x1600-d94a058fcb950275a94acfba532061f7",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-03-23T17:00:11.124Z",
+        "mainGameItem": {
+          "id": "4fe75bbc5a674f4f9b356b5c90567da5",
+          "namespace": "fn",
+          "unsearchable": false
+        },
+        "namespace": "fn",
+        "releaseInfo": [
+          {
+            "appId": "Fortnite_Studio",
+            "compatibleApps": [],
+            "dateAdded": "2023-03-10T16:11:34.775Z",
+            "id": "04f26964d63b45cb8cf51682260f3f4a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Unreal Editor pour Fortnite",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons/launchable"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2023-02-24T22:47:11.016Z",
+        "customAttributes": {
+          "AdditionalCommandLine": {
+            "type": "STRING",
+            "value": "-epicapp=Fortnite -ForceZeroBuild "
+          }
+        },
+        "description": "Fortnite Zero Build: No-Build Battle Royale",
+        "developer": "Epic Games",
+        "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+        "endOfSupport": false,
+        "entitlementName": "d75daf91c89b49ecb110b69a7bd68996",
+        "entitlementType": "ENTITLEMENT",
+        "eulaIds": [],
+        "id": "d75daf91c89b49ecb110b69a7bd68996",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "36c55fee33e86397cbeedd5ce58a1135",
+            "size": 3208700,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-03-13T22:42:23.152Z",
+            "url": "https://cdn1.epicgames.com/offer/fn/EN_24BR_ZeroBuild_EGS_Landscape_2560x1440_2560x1440-36c55fee33e86397cbeedd5ce58a1135",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "6f39d89ed10b7075cdfcc86bb601593e",
+            "size": 1890401,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-03-13T18:49:40.400Z",
+            "url": "https://cdn1.epicgames.com/item/fn/EN_24BR_ZeroBuild_EGS_Portrait_1200x1600_1200x1600-6f39d89ed10b7075cdfcc86bb601593e",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-03-14T21:01:41.357Z",
+        "mainGameItem": {
+          "id": "4fe75bbc5a674f4f9b356b5c90567da5",
+          "namespace": "fn",
+          "unsearchable": false
+        },
+        "namespace": "fn",
+        "releaseInfo": [
+          {
+            "appId": "afdb5a85efcc45d8ae8e406e2121d81c",
+            "compatibleApps": [],
+            "dateAdded": "2023-03-14T17:27:41.306Z",
+            "id": "3c8ef9a925e14182a033a455f0fd7a6c",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Fortnite Zero Build: No-Build Battle Royale",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "Fortnite",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "fn"
+    ],
+    "id": "4fe75bbc5a674f4f9b356b5c90567da5",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 512,
+        "md5": "2ef0176b240defe26d0600d073306a60",
+        "size": 320735,
+        "type": "AndroidIcon",
+        "uploadedDate": "2023-03-10T01:56:47.035Z",
+        "url": "https://cdn1.epicgames.com/item/fn/S24_AndroidLauncher_AppIcon_512x512-2ef0176b240defe26d0600d073306a60",
+        "width": 512
+      },
+      {
+        "height": 800,
+        "md5": "f775ba4d79342f727f418cb42cf77135",
+        "size": 819542,
+        "type": "Featured",
+        "uploadedDate": "2023-03-10T01:56:49.820Z",
+        "url": "https://cdn1.epicgames.com/item/fn/S24_AndroidLauncher_800x800_800x800-f775ba4d79342f727f418cb42cf77135",
+        "width": 800
+      },
+      {
+        "height": 1440,
+        "md5": "437d0424d02f5fd286ab659ddade30db",
+        "size": 2054108,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-03-10T01:57:14.169Z",
+        "url": "https://cdn1.epicgames.com/item/fn/24BR_S24_EGS_Launcher_Blade_2560x1440_2560x1440-437d0424d02f5fd286ab659ddade30db",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "0f74a2c818a2b043fa684875eca49784",
+        "size": 985168,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-03-10T01:57:17.535Z",
+        "url": "https://cdn1.epicgames.com/item/fn/24BR_S24_EGS_Launcher_Blade_1200x1600_1200x1600-0f74a2c818a2b043fa684875eca49784",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "70261f0cf461d76dc2d20ce858887222",
+        "size": 1651875,
+        "type": "Screenshot",
+        "uploadedDate": "2023-03-10T02:07:26.565Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FR_24BR_MobileScreenshots_UnlockTheBattlePass_2688x1440-70261f0cf461d76dc2d20ce858887222",
+        "width": 2688
+      },
+      {
+        "height": 1440,
+        "md5": "c8eb33813aa3f53bc430435f1c13e27d",
+        "size": 2494234,
+        "type": "Screenshot",
+        "uploadedDate": "2023-03-10T02:07:43.899Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FR_24BR_MobileScreenshots_NewWaysToMove_2688x1440-c8eb33813aa3f53bc430435f1c13e27d",
+        "width": 2688
+      },
+      {
+        "height": 1440,
+        "md5": "3d76ac31af9bc6dc236b96b8011549f1",
+        "size": 2644234,
+        "type": "Screenshot",
+        "uploadedDate": "2023-03-10T02:07:47.866Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FR_24BR_MobileScreenshots_ExploreVibrantBiomes_2688x1440-3d76ac31af9bc6dc236b96b8011549f1",
+        "width": 2688
+      },
+      {
+        "height": 1440,
+        "md5": "9bb8d89bc3f6e7a30c9fd8c632042a65",
+        "size": 2537924,
+        "type": "Screenshot",
+        "uploadedDate": "2023-03-10T02:07:50.646Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FR_24BR_MobileScreenshots_PerfectYourStrategy_2688x1440-9bb8d89bc3f6e7a30c9fd8c632042a65",
+        "width": 2688
+      }
+    ],
+    "lastModifiedDate": "2023-04-04T21:20:57.953Z",
+    "longDescription": "**Quoi de neuf**\nFortnite Chapitre\u00a04 - Saison\u00a02\n\nPassez au niveau M\u00c9GA dans Fortnite Battle Royale Chapitre\u00a04 - Saison\u00a02. Survolez \u00ab\u00a0M\u00c9GA City\u00a0\u00bb gr\u00e2ce aux rails de glisse ou \u00e9cumez ses rues sur une moto de sport. Par-del\u00e0 les gratte-ciels et les n\u00e9ons s'\u00e9tend un nouveau d\u00e9cor\u00a0: faites des ravages \u00e0 \u00ab\u00a0Steamy Springs\u00a0\u00bb, pilotez une Nitro Drifter sur le circuit de la \u00ab\u00a0Cr\u00eate des d\u00e9rapages\u00a0\u00bb ou entra\u00eenez-vous \u00e0 la lame cin\u00e9tique \u00e0 \u00ab\u00a0Kenjutsu Crossing\u00a0\u00bb\u00a0!\n\n**Description**\nFortnite est un monde rempli d'exp\u00e9riences diverses et vari\u00e9es. Atterrissez sur l'\u00eele et affrontez les autres pour savoir qui sera le dernier survivant. D\u00e9tendez-vous avec vos amis et regardez un concert ou un film. Cr\u00e9ez une \u00eele rien qu'\u00e0 vous avec ses propres r\u00e8gles ou d\u00e9couvrez un monde cr\u00e9\u00e9 par d'autres joueurs. \n\nGr\u00e2ce \u00e0 Fortnite sur mobile, vous pouvez retrouver dans la paume de votre main tout ce que vous aimez dans le jeu. Connectez-vous et discutez avec vos amis, quelle que soit la plateforme qu'ils utilisent, et progressez dans votre Passe de combat comme si vous \u00e9tiez devant votre ordinateur ou votre console\u00a0!\n\nLA LOI DU PLUS FORT - Explorez un vaste terrain destructible o\u00f9 chaque partie est unique. B\u00e2tissez des forts \u00e9normes, d\u00e9nichez du butin et faites \u00e9quipe avec vos amis pour d\u00e9crocher la Victoire royale. \n\nRETROUVEZ VOS AMIS - Ne perdez jamais le contact\u00a0! Peu importe o\u00f9 vos amis jouent, l'application Fortnite vous permet de rester connect\u00e9 avec eux en permanence. \n\nMISES \u00c0 JOUR ET \u00c9V\u00c9NEMENTS \u00c9PIQUES - Les mises \u00e0 jour prolongent le plaisir. De nouveaux modes sp\u00e9ciaux, des tenues s\u00e9rieuses ou totalement folles pour votre avatar, des armes et des objets in\u00e9dits... Fortnite \u00e9volue en permanence.\n\nL'EXP\u00c9RIENCE CONSOLE ACCESSIBLE PARTOUT - Fortnite sur mobile est compatible avec les manettes Bluetooth les plus populaires du march\u00e9. Apr\u00e8s un appariage rapide, vous aurez la possibilit\u00e9 d'utiliser les m\u00eames commandes que sur console. \n\nN\u00e9cessite un acc\u00e8s \u00e0 Internet.\n\nUtilise la technologie Unreal Engine.",
+    "namespace": "fn",
+    "releaseInfo": [
+      {
+        "appId": "Fortnite",
+        "compatibleApps": [],
+        "dateAdded": "2014-09-11T00:00:00.000Z",
+        "id": "1a29c19c260c49e599167f94c87cfefe",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "technicalDetails": "Fortnite n\u00e9cessite une connexion \u00e0 Internet, Android\u00a08.0 ou plus r\u00e9cent, 64\u00a0bits et 4\u00a0Go de m\u00e9moire vive. \n\nVotre appareil est incompatible avec Fortnite\u00a0? Vous pouvez toujours t\u00e9l\u00e9charger d'autres super jeux sur l'appli Epic\u00a0Games.",
+    "title": "Fortnite",
+    "unsearchable": true
+  }
+}

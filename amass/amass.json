@@ -1,0 +1,13 @@
+{"name":"usadhabhakti.com","domain":"usadhabhakti.com","addresses":null,"tag":"dns","sources":["DNS","Bing","Mnemonic","HackerTarget","Yahoo","Ask","CertSpotter","DuckDuckGo","HyperStat"]}
+{"name":"mail.usadhabhakti.com","domain":"usadhabhakti.com","addresses":null,"tag":"cert","sources":["Mnemonic","CertSpotter"]}
+{"name":"webdisk.usadhabhakti.com","domain":"usadhabhakti.com","addresses":null,"tag":"cert","sources":["HackerTarget","CertSpotter"]}
+{"name":"ns2.usadhabhakti.com","domain":"usadhabhakti.com","addresses":null,"tag":"api","sources":["HackerTarget"]}
+{"name":"www.adminc.usadhabhakti.com","domain":"usadhabhakti.com","addresses":null,"tag":"cert","sources":["HackerTarget","CertSpotter"]}
+{"name":"www.usadhabhakti.com","domain":"usadhabhakti.com","addresses":null,"tag":"cert","sources":["Bing","Mnemonic","Yahoo","Ask","CertSpotter","DuckDuckGo"]}
+{"name":"cpcalendars.usadhabhakti.com","domain":"usadhabhakti.com","addresses":null,"tag":"cert","sources":["HackerTarget","CertSpotter"]}
+{"name":"cpcontacts.usadhabhakti.com","domain":"usadhabhakti.com","addresses":null,"tag":"cert","sources":["HackerTarget","CertSpotter"]}
+{"name":"adminc.usadhabhakti.com","domain":"usadhabhakti.com","addresses":null,"tag":"cert","sources":["HackerTarget","CertSpotter"]}
+{"name":"webmail.usadhabhakti.com","domain":"usadhabhakti.com","addresses":null,"tag":"cert","sources":["HackerTarget","CertSpotter"]}
+{"name":"cpanel.usadhabhakti.com","domain":"usadhabhakti.com","addresses":null,"tag":"cert","sources":["CertSpotter"]}
+{"name":"ns1.usadhabhakti.com","domain":"usadhabhakti.com","addresses":null,"tag":"api","sources":["HackerTarget"]}
+{"name":"2a.usadhabhakti.com","domain":"usadhabhakti.com","addresses":null,"tag":"scrape","sources":["Google"]}

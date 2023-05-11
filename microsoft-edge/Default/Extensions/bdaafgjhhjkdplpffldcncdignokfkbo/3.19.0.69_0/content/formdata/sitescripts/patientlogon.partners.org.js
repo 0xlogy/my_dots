@@ -1,0 +1,1 @@
+!function(n){if("##REPLACE_STRING_FOR_BROWSER##"()){let e="";n.waxMain=function(){let n=document.getElementById("MainContent_LabelUserName");var t=n.innerText.trim();""!=t&&(e=t)},n.waxFetchData=function(){const n={};return n[SymWax.constants.loginType.USERNAME]=e,n},n.onload=n.waxMain}}(window);

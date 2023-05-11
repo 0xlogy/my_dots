@@ -1,0 +1,101 @@
+{
+  "payload": {
+    "quickLinksRequest": [
+      {
+        "name": "amazon",
+        "browsers": ["Chrome", "Edge-Chromium"]
+      },
+      {
+        "name": "amazon-intl",
+        "browsers": ["Chrome", "Edge-Chromium"]
+      },
+      {
+        "name": "amazon-firefox",
+        "browsers": ["Firefox"]
+      },
+      {
+        "name": "walmart"
+      },
+      {
+        "name": "tripadvisor"
+      },
+      {
+        "name": "nordstrom"
+      },
+      {
+        "name": "booking"
+      },
+      {
+        "name": "turbotax",
+        "browsers": ["Chrome", "Edge-Chromium"]
+      },
+      {
+        "name": "turbotax-firefox",
+        "browsers": ["Firefox"]
+      }
+    ],
+    "quickLinksData": {
+       "amazon": {
+         "name": "amazon",
+         "toolTipName": "Amazon",
+         "associateUrl": "https://nortontiles.ampxdirect.com?partner=nortontiles&sub1=10142&sub2=searchsafe&sub3=74301&source=als_tiles",
+         "domain": "amazon",
+         "regionsON": ["en-US"],
+         "impressionUrl": "https://imp.mt48.net/static?v=2&partner=nortontiles&sub1=10142&sub2=searchsafe&sub3=74301&adv-id=74301"
+       },
+       "amazon-firefox": {
+         "name": "amazon",
+         "toolTipName": "Amazon",
+         "associateUrl": "https://www.amazon.com",
+         "domain": "amazon"
+       },
+       "amazon-intl": {
+         "name": "amazon-intl",
+         "toolTipName": "Amazon",
+         "associateUrl": "https://nortontiles.ampxdirect.com?partner=nortontiles&sub1=10142&sub2=searchsafe&sub3=74357&source=als_tiles",
+         "domain": "amazon",
+         "regionsOFF": ["en-US"],
+         "impressionUrl": "https://imp.mt48.net/static?v=2&partner=nortontiles&sub1=10142&sub2=searchsafe&sub3=74357&adv-id=74357"
+       },
+        "walmart": {
+          "name": "walmart",
+          "toolTipName": "Walmart",
+          "associateUrl": "https://redirect.viglink.com?key=e39418fea5d725c6aa9070835ec4997b&u=https%3A%2F%2Fwalmart.com",
+          "domain": "walmart"
+        },
+        "tripadvisor": {
+          "name": "tripadvisor",
+          "toolTipName": "Tripadvisor",
+          "associateUrl": "https://redirect.viglink.com?key=e39418fea5d725c6aa9070835ec4997b&u=https%3A%2F%2Ftripadvisor.com",
+          "domain": "tripadvisor"
+         },
+        "nordstrom": {
+          "name": "nordstrom",
+          "toolTipName": "Nordstrom",
+          "associateUrl": "https://redirect.viglink.com/?key=e39418fea5d725c6aa9070835ec4997b&u=https%3A%2F%2Fshop.nordstrom.com%2F%0D%0A",
+          "domain": "nordstrom"
+         },
+         "booking": {
+          "name": "booking",
+          "toolTipName": "Booking.com",
+          "associateUrl": "https://www.awin1.com/awclick.php?mid=6776&id=1146969",
+          "domain": "booking"
+         },
+         "turbotax": {
+           "name": "turbotax",
+           "toolTipName": "TurboTax",
+           "associateUrl": "https://nortontiles.ampxdirect.com?partner=nortontiles&sub1=10142&sub2=searchsafe&sub3=73780&source=als_tiles",
+           "domain": "turbotax",
+           "regionsOFF": ["*"],
+           "impressionUrl": "https://imp.mt48.net/static?v=2&partner=nortontiles&sub1=10142&sub2=searchsafe&sub3=73780&adv-id=73780"
+         },
+         "turbotax-firefox": {
+           "name": "turbotax",
+           "toolTipName": "TurboTax",
+           "associateUrl": "https://turbotax.intuit.com/",
+           "domain": "turbotax",
+           "regionsOFF": ["*"]
+         }
+      }
+   }
+}

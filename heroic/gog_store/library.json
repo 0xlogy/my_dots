@@ -1,0 +1,287 @@
+{
+	"games": [
+		{
+			"runner": "gog",
+			"store_url": "https://gog.com/en/game/control_ultimate_edition",
+			"developer": "Remedy Entertainment",
+			"app_name": "2049187585",
+			"art_cover": "https://images-1.gog-statics.com/6e6dbbd1637253394627e72c2b99f39d5c89e160ef07ca0d7823ad7603062496.jpg",
+			"art_square": "https://images.gog.com/a7109b6805ba44c05a110ceb6401422f3ed6de9289f95216b979b918ad3a0e95.jpg?namespace=gamesdb",
+			"cloud_save_enabled": true,
+			"extra": {
+				"about": {
+					"description": "Control is a supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://gog.com/en/game/control_ultimate_edition"
+			},
+			"folder_name": "Control",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "control_ultimate_edition",
+			"save_folder": "",
+			"title": "Control Ultimate Edition",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://gog.com/en/game/cyberpunk_2077",
+			"developer": "CD Projekt RED",
+			"app_name": "1423049311",
+			"art_cover": "https://images-1.gog-statics.com/5a51d9484a3985b1f6e37eddc1853cb6d84bece22e2a5d80dfdbf30d3b0e8444.jpg",
+			"art_square": "https://images.gog.com/8b37ef624d6f8a4092c43daed92660cde499434f8c0a2078f342bc34f4e752f2.jpg?namespace=gamesdb",
+			"cloud_save_enabled": true,
+			"extra": {
+				"about": {
+					"description": "The RPG from CD Projekt RED based on the Cyberpunk 2020 tabletop RPG created by Mike Pondsmith. \r\n \r\nIn Cyberpunk 2077 you play as V — a hired gun on the rise — and you just got your first serious contract. In a world of cyberenhanced street warriors, tech-savvy netrunners and corporate lifehackers, today you take your first step towards becoming an urban legend.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://gog.com/en/game/cyberpunk_2077"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "cyberpunk_2077_game",
+			"save_folder": "",
+			"title": "Cyberpunk 2077",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://gog.com/en/game/exapunks",
+			"developer": "Zachtronics",
+			"app_name": "2070729622",
+			"art_cover": "https://images-3.gog-statics.com/2a6029c976f582e71ca7ee811bf68d97daae16d0a056de4641a1c4e47702eb0b.jpg",
+			"art_square": "https://images.gog.com/8c18c124acababa38e944199c8bd65f40387134a3cf46958537f2906505e48ac.jpg?namespace=gamesdb",
+			"cloud_save_enabled": true,
+			"extra": {
+				"about": {
+					"description": "The year is 1997. You used to be a hacker, but now you have the phage. You made a deal: one hack, one dose. There’s nothing left to lose… except your life.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://gog.com/en/game/exapunks"
+			},
+			"folder_name": "EXAPUNKS",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "exapunks",
+			"save_folder": "",
+			"title": "EXAPUNKS",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://gog.com/en/game/middleearth_shadow_of_mordor",
+			"developer": "Monolith Productions",
+			"app_name": "1213504814",
+			"art_cover": "https://images-2.gog-statics.com/455ff8097ca01fe893703d38b20f46bc9a539765256f9755ea9e592f48938763.jpg",
+			"art_square": "https://images.gog.com/38e383367d9102dfce1de39be5036eec931b3a28f9d84c34dae99bbd704841ac.jpg?namespace=gamesdb",
+			"cloud_save_enabled": true,
+			"extra": {
+				"about": {
+					"description": "Middle-earth: Shadow of Mordor is a open world third-person action role-playing video game developed by Monolith Productions and published by Warner Bros. Interactive Entertainment, which takes place in the world of J.R.R. Tolkien's Legendarium. \r\n \r\nThe game takes place in the 60-year gap between the events of Tolkien's The Hobbit and The Lord of The Rings. It is a story of revenge, slaughter, and mystery set entirely in Mordor, the Land of Shadows. At its center is Talion, an ordinary man who loses everything, including his mortal life. \r\n \r\nThe game is set in a fully open world, and features various role-playing game elements such as experience points and skills. There are various ways the player can complete their main objective. Aside from the main storyline, there are various side quests and random events the player can complete within Mordor. \r\n \r\nThe melee system is inspired by that of the Batman Arkham series. Getting into a good fighting rhythm, using both regular attacks and counter-attacks will improve the player's combo multiplier. \r\n \r\nA unique feature of Middle-earth: Shadow of Mordor is the Nemesis system. Every enemy in the game has their own name, rank, and memory. These enemies will continue to do their own jobs and tasks even when they're off screen. If the player does not kill an enemy in an encounter, this enemy will remember the player and change their tactics and conversations based on the encounter.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://gog.com/en/game/middleearth_shadow_of_mordor"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "middleearth_shadow_of_mordor",
+			"save_folder": "",
+			"title": "Middle-earth™: Shadow of Mordor™ Game of the Year Edition",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://gog.com/en/game/moonlighter",
+			"developer": "Digital Sun Games",
+			"app_name": "2147483047",
+			"art_cover": "https://images-4.gog-statics.com/d932080bc0bcec83e1fec96bda27caa6a576949b627bfe035b9d62ae7c63c1ad.jpg",
+			"art_square": "https://images.gog.com/925b490605376055670c4844feca7624a1902e985dbf5a58c1539935523aefe1.jpg?namespace=gamesdb",
+			"cloud_save_enabled": true,
+			"extra": {
+				"about": {
+					"description": "Moonlighter is an Action RPG with rogue-lite elements that demonstrates two sides of the coin – revealing everyday routines of Will, an adventurous shopkeeper that secretly dreams of becoming a hero.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://gog.com/en/game/moonlighter"
+			},
+			"folder_name": "Moonlighter",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "moonlighter",
+			"save_folder": "",
+			"title": "Moonlighter",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://gog.com/en/game/one_dreamer",
+			"developer": "F2House",
+			"app_name": "1682649193",
+			"art_cover": "https://images-1.gog-statics.com/89c81d3bc2ae66d2b0e670cb27ec1476c7cbce8f73e535a0cef9d4e1e88425c8.jpg",
+			"art_square": "https://images.gog.com/5fef78f5d03a502fb8d88136a1c48fb00c4395caa90a058d138c3189aeb41917.jpg?namespace=gamesdb",
+			"cloud_save_enabled": true,
+			"extra": {
+				"about": {
+					"description": "Help Frank, a burnt out indie game developer, rediscover his love for video games while struggling to release his debut title. Reprogram objects, fix bugs and solve coding puzzles as you journey through the story of One Dreamer.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://gog.com/en/game/one_dreamer"
+			},
+			"folder_name": "One Dreamer",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "one_dreamer",
+			"save_folder": "",
+			"title": "One Dreamer",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://gog.com/en/game/ruiner",
+			"developer": "Reikon Games",
+			"app_name": "1637928515",
+			"art_cover": "https://images-4.gog-statics.com/5c0fbfea7c91d6798df592e6b5eb8051f8cd6f38834e4f7aff7bf02e61c2eeed.jpg",
+			"art_square": "https://images.gog.com/dbeb6fe29a51d4fbb26e34d0c0b91c783806e639e5800741c10386af326cd0b3.jpg?namespace=gamesdb",
+			"cloud_save_enabled": true,
+			"extra": {
+				"about": {
+					"description": "Ruiner is a top-down action shooter created in the spirit of cult cyberpunk anime and game classics. Ruiner is quick and brutal but sophisticated gameplay, original world with mature storyline and unique visual style.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://gog.com/en/game/ruiner"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "ruiner",
+			"save_folder": "",
+			"title": "Ruiner",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://gog.com/en/game/shadow_tactics_blades_of_the_shogun",
+			"developer": "Mimimi Productions",
+			"app_name": "1601442230",
+			"art_cover": "https://images-2.gog-statics.com/031975c83099286b46e50b7dfac67f3637fd8b884ca065315ba2ed04ddacc61b.jpg",
+			"art_square": "https://images.gog.com/09efa51f1ca073ff78161875e5626804b4ffa354f4e43821f5feb16552d183e6.jpg?namespace=gamesdb",
+			"cloud_save_enabled": true,
+			"extra": {
+				"about": {
+					"description": "Skillfully hide from and sneak past the enemies fields of view, take their formations apart and hide their bodies to cover your tracks. Quick Save will enable you to execute your plans perfectly. Tactically plan actions for your whole team and execute them all at once. Make use of the vertical gameplay and jump from roof to roof to silently kill your foes from above.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://gog.com/en/game/shadow_tactics_blades_of_the_shogun"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "shadow_tactics_blades_of_the_shogun",
+			"save_folder": "",
+			"title": "Shadow Tactics: Blades of the Shogun",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://gog.com/en/game/sunless_sea",
+			"developer": "Failbetter Games",
+			"app_name": "1421064427",
+			"art_cover": "https://images-1.gog-statics.com/0e30cf119a490e2b2ccf182367e2fa4bb12f56d57fb5075b48003785acd1e846.jpg",
+			"art_square": "https://images.gog.com/c401a358a868c240113c68412d8dd58e551b88431f065110892fc57b082aa57e.jpg?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Play as the captain of a steamship on an underwater ocean surrounding the fictional city of Fallen London. Manage your ship's fuel and food supplies as you try not to go mad fighting off lovecraftian monsters.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://gog.com/en/game/sunless_sea"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "sunless_sea",
+			"save_folder": "",
+			"title": "Sunless Sea",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://gog.com/en/game/the_witcher",
+			"developer": "CD Projekt RED",
+			"app_name": "1207658924",
+			"art_cover": "https://images-1.gog-statics.com/37d4a208d1f5bb0e163da540ac894ba46a7d566ede31aaaefc74bbcd46ebd190.jpg",
+			"art_square": "https://images.gog.com/7fbb815727527616881cb45a56f51a19e90ddf21ba00c9e22b4852d9bec6324a.jpg?namespace=gamesdb",
+			"cloud_save_enabled": true,
+			"extra": {
+				"about": {
+					"description": "Based on the novels by a popular Polish writer Andrzej Sapkowski, The Witcher is an action-oriented, epic fantasy RPG that takes players on a journey through a world which in many ways mirrors our own. Take on the role of Geralt of Rivia, a professional monster hunter, as he embarks on a quest of self-discovery and revenge. \n \nThe game's time-delayed decision-consequence system ensures that the consequences of your choices will become apparent only in the following chapters of Geralt's story, discouraging returns to a previous save point. \n \nThe Enhanced Edition includes technical and gameplay improvements that bring shorter loading times, more natural animations, and improved inventory, among others. Two new adventures titled The Price of Neutrality and Side Effects will extend players' enjoyment of the game. Finally, the \"D'jinni Adventure Editor\" enables players to create their adventures and shared them with others.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://gog.com/en/game/the_witcher"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "the_witcher",
+			"save_folder": "",
+			"title": "The Witcher: Enhanced Edition",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		}
+	],
+	"totalGames": 10,
+	"totalMovies": 0,
+	"cloud_saves_enabled": true
+}
